@@ -1,41 +1,41 @@
 ---------------------------
 1.
 Original:
-written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was tōkaidō yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
-written in %NUMBER% by tsuruya nanboku iv as it was the yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
-written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was line yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
-written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was t kaid yotsuya kaidan . is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in <NUM> by tsuruya nanboku iv as a kabuki play , the original title was tōkaidō yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in <NUM> by tsuruya nanboku iv as it was the yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in <NUM> by tsuruya nanboku iv as a kabuki play , the original title was line yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in <NUM> by tsuruya nanboku iv as a kabuki play , the original title was t kaid yotsuya kaidan . is now generally shortened , and loosely translates as ghost story of yotsuya .
 its original title was tōkaidō yotsuya kaidan .
 ---------------------------
 2.
 Original:
-in week %NUMBER% , leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week %NUMBER% .
-in its leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week %NUMBER% .
-since jay-z ' leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week %NUMBER% .
-in week %NUMBER% , leinart had a shoulder injury against the san francisco 49ers , so warner was able to play for the first time since week %NUMBER% .
-in week %NUMBER% , leinart went down with a shoulder injury against the %NUMBER% , forcing warner to see his first action since week %NUMBER% .
+in week <NUM> , leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week <NUM> .
+in its leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week <NUM> .
+since jay-z ' leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week <NUM> .
+in week <NUM> , leinart had a shoulder injury against the san francisco 49ers , so warner was able to play for the first time since week <NUM> .
+in week <NUM> , leinart went down with a shoulder injury against the <NUM> , forcing warner to see his first action since week <NUM> .
 ---------------------------
 3.
 Original:
-the gambia national football team , nicknamed the scorpions , is the national team of gambia and is controlled by the gambia football association . until %NUMBER% , the team , and the country , were known as british gambia .
-the gambia national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until %NUMBER% , the team , and the country , were known as british gambia .
-the gambia national football team scorpions , is the national football team of gambia and is controlled by the gambia football association . until %NUMBER% , the team , and the country , were known as british gambia .
+the gambia national football team , nicknamed the scorpions , is the national team of gambia and is controlled by the gambia football association . until <NUM> , the team , and the country , were known as british gambia .
+the gambia national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until <NUM> , the team , and the country , were known as british gambia .
+the gambia national football team scorpions , is the national football team of gambia and is controlled by the gambia football association . until <NUM> , the team , and the country , were known as british gambia .
 gambia national football team is the national football team of gambia .
-%NUMBER% national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until %NUMBER% , the team , and the country , were known as british gambia .
+<NUM> national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until <NUM> , the team , and the country , were known as british gambia .
 ---------------------------
 4.
 Original:
-boris abramovich gelfand is a soviet and israeli chess international grandmaster , winner of the %NUMBER% world chess cup .
-boris abramovich gelfand was a israeli chess international grandmaster , winner of the %NUMBER% world chess cup .
+boris abramovich gelfand is a soviet and israeli chess international grandmaster , winner of the <NUM> world chess cup .
+boris abramovich gelfand was a israeli chess international grandmaster , winner of the <NUM> world chess cup .
 boris abramovich gelfand is a soviet and israeli chess international grandmaster won the world chess cup .
-boris abramovich gelfand are the %NUMBER% world chess cup .
-boris abramovich gelfand is a russian-born israeli chess grandmaster , winner of the %NUMBER% world chess cup .
+boris abramovich gelfand are the <NUM> world chess cup .
+boris abramovich gelfand is a russian-born israeli chess grandmaster , winner of the <NUM> world chess cup .
 ---------------------------
 5.
 Original:
-maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river approximately by road north of sydney and %NUMBER% k north-west of newcastle .
-maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and %NUMBER% km north-west of newcastle .
-maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and %NUMBER% km north-west of newcastle .
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river approximately by road north of sydney and <NUM> k north-west of newcastle .
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and <NUM> km north-west of newcastle .
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and <NUM> km north-west of newcastle .
 maitland is a city in new south wales , australia .
 maitland is a city .
 ---------------------------
@@ -73,11 +73,11 @@ francesc " cesc " fàbregas i soler is a professional football player . he plays
 ---------------------------
 10.
 Original:
-the %NUMBER% summer olympics , officially known as the games of the ix olympiad , was an international multi-sport event which was celebrated in %NUMBER% in amsterdam , the netherlands .
-the %NUMBER% summer olympics , officially known as the games of the ix olympiad , were held in %NUMBER% in amsterdam , netherlands .
-the %NUMBER% summer olympics , officially known as the games of the ix olympiad , were held in %NUMBER% in amsterdam , netherlands .
-the %NUMBER% summer olympics , officially known as the games of the ix olympiad , was held in %NUMBER% in amsterdam , the netherlands .
-the %NUMBER% summer olympics , officially known as the games of the ix olympiad , were held in %NUMBER% in amsterdam , the netherlands .
+the <NUM> summer olympics , officially known as the games of the ix olympiad , was an international multi-sport event which was celebrated in <NUM> in amsterdam , the netherlands .
+the <NUM> summer olympics , officially known as the games of the ix olympiad , were held in <NUM> in amsterdam , netherlands .
+the <NUM> summer olympics , officially known as the games of the ix olympiad , were held in <NUM> in amsterdam , netherlands .
+the <NUM> summer olympics , officially known as the games of the ix olympiad , was held in <NUM> in amsterdam , the netherlands .
+the <NUM> summer olympics , officially known as the games of the ix olympiad , were held in <NUM> in amsterdam , the netherlands .
 ---------------------------
 11.
 Original:
@@ -105,11 +105,11 @@ athies-sous-laon is a commune . it is found in the region picardie in , aisne de
 ---------------------------
 14.
 Original:
-for men ' s cricket , the ball must weigh between %NUMBER% and %NUMBER% ounces and measure between %NUMBER% %NUMBER% / %NUMBER% and %NUMBER% in in circumference .
-in men ' s cricket the ball must weigh between %NUMBER% and %NUMBER% ounces and measure between %NUMBER% %NUMBER% / %NUMBER% and %NUMBER% in in circumference .
-for men 's cricket , the ball must weigh between %NUMBER% and %NUMBER% ounces and measure between %NUMBER% %NUMBER%\/%NUMBER% and %NUMBER% in in circumference .
-for men ' s cricket , the ball must weigh between %NUMBER% and %NUMBER% ounces and measure between %NUMBER% %NUMBER% / %NUMBER% and %NUMBER% in circumference .
-for men ' s cricket , the ball must weigh between %NUMBER% and %NUMBER% ounces and measure between %NUMBER% / %NUMBER% and %NUMBER% in circumference .
+for men ' s cricket , the ball must weigh between <NUM> and <NUM> ounces and measure between <NUM> <NUM> / <NUM> and <NUM> in in circumference .
+in men ' s cricket the ball must weigh between <NUM> and <NUM> ounces and measure between <NUM> <NUM> / <NUM> and <NUM> in in circumference .
+for men 's cricket , the ball must weigh between <NUM> and <NUM> ounces and measure between <NUM> <NUM>\/<NUM> and <NUM> in in circumference .
+for men ' s cricket , the ball must weigh between <NUM> and <NUM> ounces and measure between <NUM> <NUM> / <NUM> and <NUM> in circumference .
+for men ' s cricket , the ball must weigh between <NUM> and <NUM> ounces and measure between <NUM> / <NUM> and <NUM> in circumference .
 ---------------------------
 15.
 Original:
@@ -129,19 +129,19 @@ matthias sindelar is a former austrian football player .
 ---------------------------
 17.
 Original:
-in ireland , %NUMBER% i of precipitation fell in the city of cork .
-in ireland , %NUMBER% i of rain fell in the city of cork .
-in ireland , %NUMBER% i of rain fell in cork .
-in ireland , %NUMBER% i of rain fell in the city of cork .
-in ireland , %NUMBER% inches of precipitation fell in the city of cork .
+in ireland , <NUM> i of precipitation fell in the city of cork .
+in ireland , <NUM> i of rain fell in the city of cork .
+in ireland , <NUM> i of rain fell in cork .
+in ireland , <NUM> i of rain fell in the city of cork .
+in ireland , <NUM> inches of precipitation fell in the city of cork .
 ---------------------------
 18.
 Original:
-colin bond tony roberts holden ht monaro %NUMBER% %NUMBER% laps 6h %NUMBER% %NUMBER% s
-colin bond / tony roberts holden ht monaro %NUMBER% %NUMBER% laps / 6h %NUMBER% %NUMBER% s
-colin bond tony roberts holden ht monaro gts327 %NUMBER% laps / %NUMBER% %NUMBER% %NUMBER% s
-colin bond tony roberts holden ht monaro %NUMBER% %NUMBER% laps / 6h %NUMBER% %NUMBER% s
-colin bond tony roberts holden ht monaro gts350 %NUMBER% laps %NUMBER% %NUMBER% %NUMBER% s
+colin bond tony roberts holden ht monaro <NUM> <NUM> laps 6h <NUM> <NUM> s
+colin bond / tony roberts holden ht monaro <NUM> <NUM> laps / 6h <NUM> <NUM> s
+colin bond tony roberts holden ht monaro gts327 <NUM> laps / <NUM> <NUM> <NUM> s
+colin bond tony roberts holden ht monaro <NUM> <NUM> laps / 6h <NUM> <NUM> s
+colin bond tony roberts holden ht monaro gts350 <NUM> laps <NUM> <NUM> <NUM> s
 ---------------------------
 19.
 Original:
@@ -170,7 +170,7 @@ diego ribas da cunha is a brazilian football player . he plays for juventus .
 22.
 Original:
 la bastide-des-jourdans is a commune in the vaucluse department in the provence-alpes-c ôte d 'azur region in southeastern france .
-la bastide-des-jourdans is a commune of %NUMBER% people . it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france .
+la bastide-des-jourdans is a commune of <NUM> people . it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france .
 la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte france .
 la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte d 'azur in the region of france .
 la bastide-des-jourdans is a commune in the provence-alpes-c ôte d'azur region in southeastern france .
@@ -225,11 +225,11 @@ marchamp is a commune .
 ---------------------------
 29.
 Original:
-although usually named together as the %NUMBER% giants of the high renaissance , leonardo , michelangelo and raphael were not of the same generation .
-although usually named together as the %NUMBER% giants of the high renaissance and michelangelo leonardo raphael were not of the same generation .
-the %NUMBER% greatest painters of the high renaissance , leonardo , michelangelo and raphael were all working in rome at the same time .
+although usually named together as the <NUM> giants of the high renaissance , leonardo , michelangelo and raphael were not of the same generation .
+although usually named together as the <NUM> giants of the high renaissance and michelangelo leonardo raphael were not of the same generation .
+the <NUM> greatest painters of the high renaissance , leonardo , michelangelo and raphael were all working in rome at the same time .
 although usually named together as the three giants of the high renaissance , leonardo , michelangelo and raphael were not of the same generation .
-although usually named together as the %NUMBER% giants of the high renaissance , and michelangelo raphael were not of the same generation .
+although usually named together as the <NUM> giants of the high renaissance , and michelangelo raphael were not of the same generation .
 ---------------------------
 30.
 Original:
@@ -265,11 +265,11 @@ amplier is a commune .
 ---------------------------
 34.
 Original:
-pleşoi is a commune in dolj county , romania with a population of %NUMBER% people .
+pleşoi is a commune in dolj county , romania with a population of <NUM> people .
 pleşoi is a commune found in dolj county , romania .
 ple oi is a commune found in dolj county , romania .
 pleşoi is a commune found in dolj county , romania .
-pleşoi is a commune . it is found in dolj county , romania . %NUMBER% people .
+pleşoi is a commune . it is found in dolj county , romania . <NUM> people .
 ---------------------------
 35.
 Original:
@@ -345,11 +345,11 @@ sigale is a commune . it is found in the alpes-maritimes département in souther
 ---------------------------
 44.
 Original:
-the government of andalucía , in spain , donated %NUMBER% %NUMBER% lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .
-the government of andalucía , in spain , donated %NUMBER% %NUMBER% lempiras to aid in disaster efforts , and the united states sent helicopters to help in the delivery of food to the people affected by the storm .
-the government of andalucía , in spain , donated %NUMBER% million lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .
-the government of andalucía , in spain , donated %NUMBER% %NUMBER% lempiras to aid in disaster efforts , and the united states employed helicopters from a military base to help honduran ones in the food aid .
-the government of andalucía , in spain , donated %NUMBER% %NUMBER% lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the food aid .
+the government of andalucía , in spain , donated <NUM> <NUM> lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .
+the government of andalucía , in spain , donated <NUM> <NUM> lempiras to aid in disaster efforts , and the united states sent helicopters to help in the delivery of food to the people affected by the storm .
+the government of andalucía , in spain , donated <NUM> million lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .
+the government of andalucía , in spain , donated <NUM> <NUM> lempiras to aid in disaster efforts , and the united states employed helicopters from a military base to help honduran ones in the food aid .
+the government of andalucía , in spain , donated <NUM> <NUM> lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the food aid .
 ---------------------------
 45.
 Original:
@@ -361,18 +361,18 @@ the city hosts such nova scotia college of art and design university , and the s
 ---------------------------
 46.
 Original:
-challenges like the %NUMBER% m hike through the jungle and " mayan basketball " showed how exhausted all the castaways were .
-challenges like the %NUMBER% m walk through the jungle and " mayan basketball " showed how tired all the players were .
-challenges like the %NUMBER% m walk through the jungle and " mayan basketball " showed how used up all the players were .
-challenges like the %NUMBER% m hike through the jungle and " mayan basketball " showed how exhausted all the players were .
-challenges like the %NUMBER% m hike through the jungle and `` mayan basketball '' showed how exhausted all the players were .
+challenges like the <NUM> m hike through the jungle and " mayan basketball " showed how exhausted all the castaways were .
+challenges like the <NUM> m walk through the jungle and " mayan basketball " showed how tired all the players were .
+challenges like the <NUM> m walk through the jungle and " mayan basketball " showed how used up all the players were .
+challenges like the <NUM> m hike through the jungle and " mayan basketball " showed how exhausted all the players were .
+challenges like the <NUM> m hike through the jungle and `` mayan basketball '' showed how exhausted all the players were .
 ---------------------------
 47.
 Original:
-hops may be added at more than %NUMBER% point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and aroma remains in the beer .
-hops may be added at more than %NUMBER% point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop is a flavor and smell .
+hops may be added at more than <NUM> point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and aroma remains in the beer .
+hops may be added at more than <NUM> point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop is a flavor and smell .
 hops provide flavor and preserve the beer .
-hops may be added at more than %NUMBER% point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and smell remains in the beer .
+hops may be added at more than <NUM> point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and smell remains in the beer .
 hops may be added at more than one point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and aroma remains in the beer .
 ---------------------------
 48.
@@ -393,10 +393,10 @@ alemannia aachen is a football club which plays in germany .
 ---------------------------
 50.
 Original:
-thal is %NUMBER% of the %NUMBER% districts of the canton of solothurn in switzerland , situated in the center of the canton .
-thal is %NUMBER% of the %NUMBER% districts of the canton of solothurn in switzerland , found in the center of the canton .
-thal is %NUMBER% of the %NUMBER% districts of the canton of solothurn in switzerland , found in the center of the canton .
-thal is %NUMBER% of the %NUMBER% districts of the canton of solothurn in switzerland , found in the center of the canton .
+thal is <NUM> of the <NUM> districts of the canton of solothurn in switzerland , situated in the center of the canton .
+thal is <NUM> of the <NUM> districts of the canton of solothurn in switzerland , found in the center of the canton .
+thal is <NUM> of the <NUM> districts of the canton of solothurn in switzerland , found in the center of the canton .
+thal is <NUM> of the <NUM> districts of the canton of solothurn in switzerland , found in the center of the canton .
 thal is one .
 ---------------------------
 51.
@@ -425,26 +425,26 @@ mascaraàs - haron is a commune . it is found in the pyrénées - atlantiques d�
 ---------------------------
 54.
 Original:
-universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the acquisition of bmg music publishing in may %NUMBER% .
-universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may %NUMBER% .
-universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may %NUMBER% .
-universal music group owns a music publisher , universal music publishing group , which became the world 's largest following the acquisition of bmg music publishing in may %NUMBER% .
-in %NUMBER% , universal bought bmg ' s music publishing branch and folded it into the " universal music publishing " division .
+universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the acquisition of bmg music publishing in may <NUM> .
+universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may <NUM> .
+universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may <NUM> .
+universal music group owns a music publisher , universal music publishing group , which became the world 's largest following the acquisition of bmg music publishing in may <NUM> .
+in <NUM> , universal bought bmg ' s music publishing branch and folded it into the " universal music publishing " division .
 ---------------------------
 55.
 Original:
-%NUMBER% greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . the building is also known as %NUMBER% world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september %NUMBER% , %NUMBER% attacks .
-%NUMBER% greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as %NUMBER% world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september %NUMBER% , %NUMBER% attacks .
-%NUMBER% greenwich street is a part of the planned rebuild of the new world trade center side in lower manhattan .
-%NUMBER% greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as %NUMBER% world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september %NUMBER% , %NUMBER% attacks .
-%NUMBER% greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . is also known as two world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september %NUMBER% , %NUMBER% attacks .
+<NUM> greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . the building is also known as <NUM> world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september <NUM> , <NUM> attacks .
+<NUM> greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as <NUM> world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september <NUM> , <NUM> attacks .
+<NUM> greenwich street is a part of the planned rebuild of the new world trade center side in lower manhattan .
+<NUM> greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as <NUM> world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september <NUM> , <NUM> attacks .
+<NUM> greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . is also known as two world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september <NUM> , <NUM> attacks .
 ---------------------------
 56.
 Original:
-roman catholicism specifically holds that %NUMBER% may build and use " likenesses " , as long as the object is not worshipped .
-roman catholicism specifically says that may %NUMBER% , build and use " likenesses " , as long as the object is not worshipped .
-roman catholicism specifically says that %NUMBER% may build and use " likenesses " , as long as the object is not worshipped .
-%NUMBER% understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used , as long as the object is not worshipped .
+roman catholicism specifically holds that <NUM> may build and use " likenesses " , as long as the object is not worshipped .
+roman catholicism specifically says that may <NUM> , build and use " likenesses " , as long as the object is not worshipped .
+roman catholicism specifically says that <NUM> may build and use " likenesses " , as long as the object is not worshipped .
+<NUM> understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used , as long as the object is not worshipped .
 roman catholicism specifically holds that one may build and use `` likenesses '' , as long as the object is not worshipped .
 ---------------------------
 57.
@@ -457,11 +457,11 @@ joncreuil is a commune .
 ---------------------------
 58.
 Original:
-he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in %NUMBER% january %NUMBER% , the deepest point in the world ' s oceans .
-he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in january %NUMBER% , %NUMBER% , the deepest point in the world ' s oceans .
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in <NUM> january <NUM> , the deepest point in the world ' s oceans .
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in january <NUM> , <NUM> , the deepest point in the world ' s oceans .
 he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench the deepest point in the world ' s oceans .
-he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in %NUMBER% january %NUMBER% , the deepest point in the world 's oceans .
-don walsh and jacques piccard are the first and only %NUMBER% persons till date to reach the deepest point of world ' s oceans in mariana trench on %NUMBER% january %NUMBER% aboard the bathyscaphe trieste .
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in <NUM> january <NUM> , the deepest point in the world 's oceans .
+don walsh and jacques piccard are the first and only <NUM> persons till date to reach the deepest point of world ' s oceans in mariana trench on <NUM> january <NUM> aboard the bathyscaphe trieste .
 ---------------------------
 59.
 Original:
@@ -497,10 +497,10 @@ wanquetin is a commune .
 ---------------------------
 63.
 Original:
-bisexual pornography differs from threesome pornography , which typically depicts %NUMBER% man and %NUMBER% women .
-bisexual pornography is separate from threesome pornography , which shows %NUMBER% man and %NUMBER% women .
-bisexual pornography differs from threesome pornography , which typically shows %NUMBER% man and %NUMBER% women .
-bisexual pornography is different from threesome pornography , which usually shows %NUMBER% man and %NUMBER% women .
+bisexual pornography differs from threesome pornography , which typically depicts <NUM> man and <NUM> women .
+bisexual pornography is separate from threesome pornography , which shows <NUM> man and <NUM> women .
+bisexual pornography differs from threesome pornography , which typically shows <NUM> man and <NUM> women .
+bisexual pornography is different from threesome pornography , which usually shows <NUM> man and <NUM> women .
 bisexual pornography differs from threesome pornography , which typically shows one man and two women .
 ---------------------------
 64.
@@ -513,11 +513,11 @@ râşca is a commune found in suceava county , romania .
 ---------------------------
 65.
 Original:
-george edward pope is a retired american soccer player who last played for real salt lake of major league soccer and spent %NUMBER% years as a defender for the united states national team .
+george edward pope is a retired american soccer player who last played for real salt lake of major league soccer and spent <NUM> years as a defender for the united states national team .
 george edward pope is a former american soccer player .
-george edward pope is a former american soccer player last played for real salt lake of major league soccer and spent %NUMBER% years as a player for the united states national team .
+george edward pope is a former american soccer player last played for real salt lake of major league soccer and spent <NUM> years as a player for the united states national team .
 eddie pope is a former american soccer player . he has played for united states national team .
-george edward pope is a former american soccer player . he plays for real salt lake of major league soccer and spent %NUMBER% years as a player for the united states national team .
+george edward pope is a former american soccer player . he plays for real salt lake of major league soccer and spent <NUM> years as a player for the united states national team .
 ---------------------------
 66.
 Original:
@@ -529,9 +529,9 @@ colloquy supports scripting in languages such as apple script , f-script , javas
 ---------------------------
 67.
 Original:
-teizo takeuchi was a japanese football player who was part of the japan national team for the %NUMBER% summer olympics football competition in berlin .
-teizo takeuchi is a former japanese football player . he was part of japan national team for the %NUMBER% summer olympics football competition in berlin .
-teizo takeuchi is a former japanese football player . he was part of japan national team for the %NUMBER% summer olympics football competition in berlin .
+teizo takeuchi was a japanese football player who was part of the japan national team for the <NUM> summer olympics football competition in berlin .
+teizo takeuchi is a former japanese football player . he was part of japan national team for the <NUM> summer olympics football competition in berlin .
+teizo takeuchi is a former japanese football player . he was part of japan national team for the <NUM> summer olympics football competition in berlin .
 teizo takeuchi is a former japanese football player . he has played for japan national team .
 teizo takeuchi was a japanese football player .
 ---------------------------
@@ -545,16 +545,16 @@ luc-sur-mer is a commune . it is found in the in the region basse-normandie in t
 ---------------------------
 69.
 Original:
-previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august %NUMBER% .
-previous to this the club had been sponsored by the zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august %NUMBER% .
+previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august <NUM> .
+previous to this the club had been sponsored by the zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august <NUM> .
 they replaced zoom airlines , who ' re owned by club director john boyle , and who still advertise on both the davie cooper stand and the south stand .
-previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who the on advertising these cooper stand and the south stand until they stopped trading in august %NUMBER% .
-previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the these %NUMBER% stand and the south stand until they stopped trading in august %NUMBER% .
+previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who the on advertising these cooper stand and the south stand until they stopped trading in august <NUM> .
+previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the these <NUM> stand and the south stand until they stopped trading in august <NUM> .
 ---------------------------
 70.
 Original:
 ulrich " uli " stielike is a former german football player and manager .
-%NUMBER% uli stielike is a former german football player .
+<NUM> uli stielike is a former german football player .
 uli stielike is a former german football player .
 uli " stielike is a former german football player .
 ulrich `` uli '' stielike is a former german football player .
@@ -593,11 +593,11 @@ avessé is a commune . it is found in the sarthe department in the region pays d
 ---------------------------
 75.
 Original:
-thelxinoe belongs to the ananke group , retrograde irregular moons which orbit jupiter between %NUMBER% and %NUMBER% gm , at inclinations of roughly %NUMBER% .
-thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between %NUMBER% and %NUMBER% km , at inclinations of about %NUMBER% .
-thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between %NUMBER% and %NUMBER% km , at inclinations of roughly %NUMBER% .
-thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between %NUMBER% and %NUMBER% km , at inclinations of about %NUMBER% .
-thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between %NUMBER% and %NUMBER% km , at inclinations of about %NUMBER% .
+thelxinoe belongs to the ananke group , retrograde irregular moons which orbit jupiter between <NUM> and <NUM> gm , at inclinations of roughly <NUM> .
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between <NUM> and <NUM> km , at inclinations of about <NUM> .
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between <NUM> and <NUM> km , at inclinations of roughly <NUM> .
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between <NUM> and <NUM> km , at inclinations of about <NUM> .
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between <NUM> and <NUM> km , at inclinations of about <NUM> .
 ---------------------------
 76.
 Original:
@@ -609,11 +609,11 @@ am r tii de jos is a commune .
 ---------------------------
 77.
 Original:
-in %NUMBER% " vacheron & constantin , fabricants , geneve " became the official name of the company .
-in %NUMBER% the company officially changed the name for " vacheron & constantin , fabricants , geneve " .
-in %NUMBER% `` vacheron & constantin , fabricants , geneve '' became the official name of the company .
-in %NUMBER% , vacheron & constantin , fabricants , geneve " became the official name of the company .
-in %NUMBER% %NUMBER% , vacheron constantin fabricants , geneve " became the official name of the company .
+in <NUM> " vacheron & constantin , fabricants , geneve " became the official name of the company .
+in <NUM> the company officially changed the name for " vacheron & constantin , fabricants , geneve " .
+in <NUM> `` vacheron & constantin , fabricants , geneve '' became the official name of the company .
+in <NUM> , vacheron & constantin , fabricants , geneve " became the official name of the company .
+in <NUM> <NUM> , vacheron constantin fabricants , geneve " became the official name of the company .
 ---------------------------
 78.
 Original:
@@ -651,7 +651,7 @@ cupid is a closer moon to uranus .
 Original:
 roquefort-les-pins is a commune in the alpes-maritimes department in the region of provence-alpes-c ôte d 'azur in south-eastern france .
 roquefort-les-pins is a commune .
-roquefort-les-pins is a commune of %NUMBER% people . it is located in the region provence-alpes-c ôte d 'azur in the alpes-maritimes department in the southeast of france .
+roquefort-les-pins is a commune of <NUM> people . it is located in the region provence-alpes-c ôte d 'azur in the alpes-maritimes department in the southeast of france .
 roquefort-les-pins is a commune . it is found in the alpes-maritimes department in the region provence-alpes-c ôte d 'azur in the southern part of france .
 roquefort-les-pins is a commune . it is found in the alpes-maritimes department in the west of region provence-alpes-c ôte d 'azur in southern france .
 ---------------------------
@@ -681,10 +681,10 @@ a mutual fund is a kind of investment that uses money from many investors to inv
 ---------------------------
 86.
 Original:
-knocked up is a %NUMBER% american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
-knocked up is a %NUMBER% american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the movie america of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
-knocked up is a %NUMBER% american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the a drunken america one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
-knocked up is a %NUMBER% american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen 's slacker character and heigl 's just-promoted media personality that results in an unintended pregnancy .
+knocked up is a <NUM> american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
+knocked up is a <NUM> american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the movie america of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
+knocked up is a <NUM> american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the a drunken america one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
+knocked up is a <NUM> american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen 's slacker character and heigl 's just-promoted media personality that results in an unintended pregnancy .
 it was directed by judd apatow , and stars seth rogen and katherine heigl .
 ---------------------------
 87.
@@ -708,24 +708,24 @@ Original:
 the argentina national football team is the national football team of argentina and is controlled by the argentine football association .
 argentina national football team is the national football team of argentina , and is controlled by the argentine football association .
 argentina national football team is the national football team of argentina .
-%NUMBER% national football team is the national football team of argentina .
+<NUM> national football team is the national football team of argentina .
 argentina national football team is the national football team of argentina and is controlled by the argentine football association .
 ---------------------------
 90.
 Original:
-it originally aired on the fox network in the united states on february %NUMBER% , %NUMBER% .
-it first started on the fox network in the united states on february %NUMBER% , %NUMBER% .
-it first started on the fox network in the united states on february %NUMBER% , %NUMBER% .
-it first started on the fox network in the united states on february %NUMBER% , %NUMBER% .
-it at first aired on the fox network in the united states on february %NUMBER% , %NUMBER% .
+it originally aired on the fox network in the united states on february <NUM> , <NUM> .
+it first started on the fox network in the united states on february <NUM> , <NUM> .
+it first started on the fox network in the united states on february <NUM> , <NUM> .
+it first started on the fox network in the united states on february <NUM> , <NUM> .
+it at first aired on the fox network in the united states on february <NUM> , <NUM> .
 ---------------------------
 91.
 Original:
-gödel ' s incompleteness theorems are %NUMBER% theorems of mathematical logic that state inherent limitations of all but the most trivial axiomatic systems for mathematics .
+gödel ' s incompleteness theorems are <NUM> theorems of mathematical logic that state inherent limitations of all but the most trivial axiomatic systems for mathematics .
 gödel 's incompleteness theorems are two theorems of mathematical logic that state inherent limitations of all but the most trivial axiomatic systems for mathematics .
-gödel ' s incompleteness theorems are %NUMBER% theorems of mathematical logic that state limitations of all but the most trivial axiomatic systems for mathematics .
-gödel ' s incompleteness theorems are %NUMBER% theorems of mathematical logic that state inherent limitations of all resulted the axiomatic systems for mathematics .
-gödel ' s incompleteness theorems is the name given to %NUMBER% theorems , proved by kurt gödel in %NUMBER% . they are about limitations in all but the most trivial formal systems for arithmetic of mathematical interest .
+gödel ' s incompleteness theorems are <NUM> theorems of mathematical logic that state limitations of all but the most trivial axiomatic systems for mathematics .
+gödel ' s incompleteness theorems are <NUM> theorems of mathematical logic that state inherent limitations of all resulted the axiomatic systems for mathematics .
+gödel ' s incompleteness theorems is the name given to <NUM> theorems , proved by kurt gödel in <NUM> . they are about limitations in all but the most trivial formal systems for arithmetic of mathematical interest .
 ---------------------------
 92.
 Original:
@@ -745,16 +745,16 @@ siegmund nissel was an british violinist who played second violin in the amadeus
 ---------------------------
 94.
 Original:
-jebel barkal or gebel barkal is a very small mountain located some %NUMBER% km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
-jebel barkal or gebel barkal is a small mountain located some %NUMBER% km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
-jebel gebel barkal or barkal is a very small mountain located %NUMBER% km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
-jebel barkal , also called gebel barkal , is a small mountain located about %NUMBER% kilometers north of a city called khartoum , in the country of sudan .
-jebel barkal or gebel barkal is a very small mountain about %NUMBER% km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the west called nubia .
+jebel barkal or gebel barkal is a very small mountain located some <NUM> km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
+jebel barkal or gebel barkal is a small mountain located some <NUM> km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
+jebel gebel barkal or barkal is a very small mountain located <NUM> km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
+jebel barkal , also called gebel barkal , is a small mountain located about <NUM> kilometers north of a city called khartoum , in the country of sudan .
+jebel barkal or gebel barkal is a very small mountain about <NUM> km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the west called nubia .
 ---------------------------
 95.
 Original:
 kokomo is a city in and the county seat of howard county , indiana , united states , indiana ' s 13th largest city . it is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
-kokomo is a city in and the county seat of howard county , indiana , the united states , indiana 's %NUMBER% largest city . is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
+kokomo is a city in and the county seat of howard county , indiana , the united states , indiana 's <NUM> largest city . is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
 kokomo is a city in the state of indiana , in the united states .
 kokomo is a city in howard county , indiana , united states , indiana ' s 13th largest city . it is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
 kokomo is a city in and the county seat of howard county , indiana , united states , indiana ' s 13th largest city . it is the main city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
@@ -777,10 +777,10 @@ fort mitchell is a city of kentucky in the united states .
 ---------------------------
 98.
 Original:
-wexler was inducted in the rock and roll hall of fame in %NUMBER% .
-wexler was added in the rock and roll hall of fame in %NUMBER% .
-wexler became part of the rock and roll hall of fame in %NUMBER% .
-wexler was in %NUMBER% .
+wexler was inducted in the rock and roll hall of fame in <NUM> .
+wexler was added in the rock and roll hall of fame in <NUM> .
+wexler became part of the rock and roll hall of fame in <NUM> .
+wexler was in <NUM> .
 wexler was added in the rock and roll hall of fame .
 ---------------------------
 99.
