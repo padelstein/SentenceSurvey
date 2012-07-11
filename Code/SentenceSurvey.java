@@ -1,4 +1,51 @@
-public static String contextGivenSub(String originalSentence, String sentence1, String sentence2, String sentence3, String sentence4) {
+public class SentenceSurvey
+{
+	
+	// instance variables
+	private RequesterService service;
+
+	private int numAssignments = 5;
+	
+	// constructor
+	public SenctenceSurvey()
+	{
+		service = new RequesterService( new PropertiesClientConfig() );
+	}
+
+	public void createSomeHIT() throws FileNotFoundException
+	{
+		try 
+		{
+			HIT hit = service.createHIT
+			(
+					null,
+					"someHT",
+					"someDescription,
+					null,
+					HIT(firstSentence, word, secondSentence),
+					00.05,
+					(long)300,
+					(long)432000, 
+					(long)172800, 
+					numAssignments,
+					"", 
+					requirements, 
+					null
+			);
+
+			// Print out the HITId and the URL to view the HIT.
+			System.out.println("Created HIT: " + hit.getHITId());
+			contextpr.println(hit.getHITId());
+			System.out.println("HIT location: ");
+			System.out.println(service.getWebsiteURL() + "/mturk/preview?groupId=" + hit.getHITTypeId());
+
+		} catch (ServiceException e) 
+		{
+			System.err.println(e.getLocalizedMessage());
+		}
+	}
+
+	public static String contextGivenSub(String originalSentence, String sentence1, String sentence2, String sentence3, String sentence4) {
 		String q = "";
 		q += "<?xml version=\"1.0\" encoding=\"UTF-8\"?>";
 		q += "<HTMLQuestion xmlns=\"http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2011-11-11/HTMLQuestion.xsd\">";
@@ -18,10 +65,10 @@ public static String contextGivenSub(String originalSentence, String sentence1, 
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
 		q += "      Original Sentence: " + originalSentence + "</br>";
-		q += "		<div id=\"Sentence1\"></div></br>";
-		q += "		<div id=\"Sentence2\"></div></br>";
-		q += "		<div id=\"Sentence3\"></div></br>";
-		q += "		<div id=\"Sentence4\"></div></br>";
+		q += "		<div id=\"Sentence1\"></div>" + sentence1 + "</br>";
+		q += "		<div id=\"Sentence2\"></div>" + sentence2 + "</br>";
+		q += "		<div id=\"Sentence3\"></div>" + sentence3 + "</br>";
+		q += "		<div id=\"Sentence4\"></div>" + sentence4 + "</br>";
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";
@@ -53,3 +100,39 @@ public static String contextGivenSub(String originalSentence, String sentence1, 
 		q += "</HTMLQuestion>";
 		return q;
 	}
+
+	public static void main(String[] args) throws IOException
+	{
+		String usageError = "Please provide a valid option. Such as: " +
+		"\n -add FILENAME           *creates new HITs from the data provided in the given file(s)* "
+
+		if ( args.length >=1 )
+		{
+			SentenceSurvey app = new SentenceSurvey();
+			File inputFile = null;
+		} else 
+		{
+			System.out.println(usageError);
+		}
+	}
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+>>>>>>> c964f01642e0836cb9d53959db6105dbc2afe749
