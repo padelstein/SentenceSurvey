@@ -1,0 +1,800 @@
+---------------------------
+1.
+Original:
+the stern review on the economics of climate change is a 700-page report released on october %NUMBER% , %NUMBER% by economist nicholas stern for the british government , which discusses the effect of global warming on the world economy .
+the stern review on the economics of climate change is a 700-page report released on october %NUMBER% , %NUMBER% by economist nicholas stern for the british government , which discusses the effect of global warming on the world economy .
+the stern review on the economics of climate change is a 700-page report released on october %NUMBER% , %NUMBER% by economist lord stern for the british government . it discusses the effect of climate change and global warming on the world economy .
+the stern review on the economics of climate change is a %NUMBER%-page report .
+the stern review on the economics of climate change is a 700-page report released on october %NUMBER% , %NUMBER% by economist nicholas stern for the british government , which discusses the effect of global warming on the world economy .
+---------------------------
+2.
+Original:
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age .
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age .
+fibulae replaced straight pins that were used to fasten clothes and in the .
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age .
+fibulae replaced straight pins that were used to fasten clothes in the neolithic period and bronze age .
+---------------------------
+3.
+Original:
+under european union protected designation of origin guidelines , only the product from portugal may be labeled as port or porto .
+under european union protected designation of origin guidelines , only the product from portugal may be labeled as port or porto .
+under european union protected designation of origin is a kind , only the product from portugal may be labeled as port or porto .
+under european union protected designation of origin guidelines , only the product from portugal may be labeled as port or porto .
+however , under european union guidelines , only the product from portugal may be labeled as port .
+---------------------------
+4.
+Original:
+visp is the capital of the district of visp in the canton of valais in switzerland .
+visp is the capital of the district of visp in the canton of valais in switzerland .
+visp is the capital of the district of visp in the canton of valais in switzerland .
+visp is the capital city of the district of visp in the canton of valais in switzerland .
+visp is the capital of the district visp in the canton of valais in switzerland .
+---------------------------
+5.
+Original:
+charente-maritime is a department on the west coast of france named after the charente river .
+charente-maritime is a department on the west coast of france named after the charente river .
+charente-maritime is a department on the west coast of france .
+charente-maritime is a department on the west coast of france . it was named after the charente river .
+charente-maritime is a department in the west coast charente of france .
+---------------------------
+6.
+Original:
+%NUMBER% eros is the first discovered near-earth asteroid , named after the greek god of love , eros .
+%NUMBER% eros is the first found near-earth asteroid named after the greek god of love , eros .
+%NUMBER% eros is the near-earth asteroid , named after the greek god of love , eros .
+%NUMBER% eros is the first discovered near-earth asteroid , named after the greek god of love , eros .
+%NUMBER% eros is the first discovered near-earth asteroid , named after the greek god of love , eros .
+---------------------------
+7.
+Original:
+this interpretation is supported by additional trace element data , but is also the subject of debate .
+this interpretation is supported by additional trace element data , but is also the subject of debate .
+this interpretation is supported by additional trace element data , but is also the subject of debate .
+this interpretation is supported by other trace element data , but is also the subject of some debate .
+this interpretation is supported by additional trace element data , but is also the subject of debate .
+---------------------------
+8.
+Original:
+willi schulz is a former german international football player .
+willi schulz is a former german international football player .
+willi schulz is a former german football player .
+willi schulz is a former german football player .
+willi schulz , gironde is a former german football player .
+---------------------------
+9.
+Original:
+starting with the basics of heat and temperature , thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective , in terms of the number of microstates corresponding to a given macrostate .
+starting with the basics of heat and temperature , thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective , in terms of the number of microstates corresponding to a given macrostate .
+starting with the basics of heat and temperature , thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective , in terms of the number of corresponding to a given macrostate set .
+starting with the basics of heat and temperature , thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective , in terms of the number of can be set macrostate .
+starting with the basics of heat and temperature , thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective , in terms of the number of microstates corresponding to a given macrostate .
+---------------------------
+10.
+Original:
+sforzando , indicates a strong , sudden accent and is abbreviated as sf , sfz or fz .
+sforzando means a strong , sudden accent and is abbreviated as sf , sfz or fz .
+sforzando , shows a strong , sudden accent and is called sf , sfz or fz .
+sforzando , indicates a strong , sudden accent and is abbreviated as sf , sfz or fz .
+sforzando , indicates a strong , sudden accent .
+---------------------------
+11.
+Original:
+the convection diminished as it moved through progressively colder waters , and shortly after %NUMBER% utc on july %NUMBER% beryl became an extratropical cyclone a short distance east of cape cod .
+the convection diminished as it moved through progressively colder waters , and shortly after %NUMBER% utc on july %NUMBER% beryl became an extratropical cyclone a short distance east of cape cod .
+the convection diminished as it moved through progressively colder waters , and shortly after %NUMBER% utc on july %NUMBER% beryl became an extratropical cyclone a short distance east of cape cod .
+the convection diminished as it moved through progressively colder waters , and shortly after %NUMBER% utc on july %NUMBER% beryl became an extratropical cyclone a short distance east of cape cod .
+the convection decreased as it moved through progressively colder waters , and shortly after %NUMBER% utc on july %NUMBER% beryl became an extratropical cyclone a short distance east of cape cod .
+---------------------------
+12.
+Original:
+at least %NUMBER% islands are inhabited , which are fongafale , the main island in the east , funafala in the south , and amatuku in the north .
+at least %NUMBER% islands are inhabited , which are fongafale , the main island in the east , funafala in the south , and amatuku in the north .
+at least %NUMBER% islands are inhabited , which are fongafale , the main island in the east , funafala in the south , and amatuku in the north .
+at least %NUMBER% islands are inhabited , which are fongafale , funafala and motuloa .
+at least three islands are inhabited , which are fongafale , the main island in the east , funafala in the south , and amatuku in the north .
+---------------------------
+13.
+Original:
+an angel or star is often placed at the top of the tree , representing the host of angels or the star of bethlehem from the nativity .
+an angel or star is often placed at the top of the tree , representing the host of angels or the star of bethlehem from the nativity .
+an angel or a star is often placed at the top of the tree .
+an angel or star is often placed at the top of the tree , representing the host of angels or the star of bethlehem from the nativity .
+an angel or star is often placed at the top of the tree , representing the host of angels or the star of bethlehem from the nativity .
+---------------------------
+14.
+Original:
+other times the secret would be about something they were there to do .
+other times the secret would be about something they were there to do .
+other times the secret would be about something they there to do .
+other times the secret would be about something they were there to do .
+other times the secret would be about something they were there to do .
+---------------------------
+15.
+Original:
+chester city football club is an english football club from chester .
+chester city football club is an english football club from chester .
+chester city football club is an english football club , from the city of chester .
+chester city f.c. are an english football club from chester .
+chester city f.c. is an english football club from chester .
+---------------------------
+16.
+Original:
+in late %NUMBER% , comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau .
+in late %NUMBER% , comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau .
+bouvier met up with comeau at a sugar ray concert , and comeau offered bouvier to join his band .
+in late %NUMBER% , comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau .
+in late %NUMBER% , comeau and bouvier a reacquainted sugar ray concert and bouvier left reset soon after to join comeau .
+---------------------------
+17.
+Original:
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia . it is %NUMBER% miles outside of the city center of columbia and is part of the columbia metropolitan statistical area .
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia . it is %NUMBER% miles outside of the city center of columbia and is part of the columbia metropolitan statistical area .
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia . it is %NUMBER% miles outside of the city center of columbia and is part of the columbia metropolitan statistical area .
+irmo is a town %NUMBER% miles outside of columbia , south carolina .
+irmo is part of the columbia metropolitan statistical area .
+---------------------------
+18.
+Original:
+diego ribas da cunha commonly known as just diego , is an international brazilian footballer who plays for italian serie a club juventus and is also member of the brazilian national team .
+diego ribas da cunha commonly known as just is an international brazilian football player . he plays for juventus and is also member of the brazilian national team .
+diego ribas da cunha is a brazilian football player . he plays for juventus .
+diego ribas da cunha commonly known as just diego , is an international brazilian football .
+diego ribas da cunha commonly known as just diego , is an international brazilian football player . he plays for juventus and is also member of the national team .
+---------------------------
+19.
+Original:
+la bastide-des-jourdans is a commune in the vaucluse department in the provence-alpes-c ôte d 'azur region in southeastern france .
+la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte d 'azur in the region of france .
+la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte france .
+la bastide-des-jourdans is a commune in the provence-alpes-c ôte d'azur region in southeastern france .
+la bastide-des-jourdans is a commune of %NUMBER% people . it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france .
+---------------------------
+20.
+Original:
+heston is known for having played heroic roles , such as moses in the %NUMBER% commandments , colonel george taylor in planet of the apes , rodrigo díaz de vivar in el cid , and judah ben-hur in ben-hur , for which he won the academy award for best actor .
+heston is known for having played heroic roles , such as moses and judah ben-hur in ben-hur , for which he won the academy award for best actor .
+heston is known for having played heroic roles , such as moses in the %NUMBER% commandments , colonel george taylor in planet of the apes , rodrigo díaz de vivar in el cid , and judah ben-hur in ben-hur , for which he won the academy award for best actor .
+heston is known for having played heroic roles , such as moses in the %NUMBER% commandments , colonel george taylor in planet of the apes , rodrigo díaz de vivar in el cid , and judah ben-hur in ben-hur , for which he won the academy award for best actor .
+charlton heston was an american actor . he had many big roles , such as playing moses in the film the %NUMBER% commandments , astronaut colonel george taylor in the film planet of the apes , and the academy award-winning role of judah ben-hur in the film ben-hur .
+---------------------------
+21.
+Original:
+with approximately %NUMBER% % of their calories from protein , lentils and generally any pulses or legumes have the third-highest level of protein , by weight , of any plant-based food after soybeans and hemp , and is an important part of the diet in many parts of the world , especially in the indian subcontinent which has large vegetarian populations .
+with about %NUMBER% % of their calories from protein , lentils and generally any pulses or legumes have the third-highest level of protein , by weight , of any plant-based food after soybeans and hemp , and is an important part of the diet in many parts of the world , especially in the indian subcontinent which has large vegetarian populations .
+with about %NUMBER% % of their calories from protein , lentils and generally any pulses or legumes have the third-highest level of protein , by weight , of any plant-based food after soybeans and hemp , and is an important part of the diet in many parts of the world , especially in the indian subcontinent which has large vegetarian populations .
+with approximately %NUMBER% % of their calories from protein , lentils and generally any pulses or legumes have the third-highest level of protein , by weight , of any plant-based food after soybeans and hemp , and is an important part of the diet in many parts of the world , especially in the indian subcontinent which has large vegetarian populations .
+with %NUMBER% % protein , lentils have the highest level of protein in any plant after soybeans and hemp . because of this fact , lentils are a very important part of the diet in many parts of the world , especially in india , which has a large vegetarian population .
+---------------------------
+22.
+Original:
+in the united kingdom , a cover version released by the artist nicki bliss was climbing up the uk itunes chart .
+in the united kingdom , a cover version released by the artist nicki bliss was climbing up the uk itunes chart .
+in the united kingdom , a cover version released by the artist nicki bliss was climbing up the uk itunes chart .
+in the united kingdom , a cover version released by the artist nicki bliss was climbing up the uk itunes chart .
+in the united kingdom cover version released by the artist nicki bliss was climbing up the uk itunes chart .
+---------------------------
+23.
+Original:
+these restrictions still left considerable leeway for countries to allow production , internal trade , and use of cannabis for recreational purposes .
+these restrictions still left a leeway countries to allow production , internal trade , and use of cannabis for recreational purposes .
+these restrictions still left considerable leeway for countries to allow production , internal trade , and use of cannabis for recreational purposes .
+these restrictions still left considerable leeway for countries to allow production , internal trade , and use of cannabis for recreational purposes .
+these restrictions still made it easy for countries to allow production , internal trade , and use of cannabis for recreational purposes .
+---------------------------
+24.
+Original:
+all testing was conducted inside a virtualized environment created by vmware .
+all testing was conducted inside a virtualized environment created by vmware .
+all testing was conducted inside a virtualized environment created by vmware .
+all testing was conducted inside a given size environment created by vmware .
+all testing conducted inside a , the idea was created by vmware .
+---------------------------
+25.
+Original:
+the -600 , %NUMBER% , and %NUMBER% series were planned .
+the -600 , %NUMBER% , and %NUMBER% series were planned .
+the -600 , %NUMBER% , and %NUMBER% series were planned .
+the -%NUMBER% , -%NUMBER% , and -%NUMBER% series were planned .
+the -600 , and %NUMBER% series were planned .
+---------------------------
+26.
+Original:
+in that year , israel passed the golan heights law , placing the golan heights under civilian israeli law , administration , and jurisdiction .
+in that year , israel passed the golan heights law , placing the golan heights under civilian israeli law , administration , and jurisdiction .
+in that year , israel passed the golan heights , and the golan heights under civilian israeli law , administration , and jurisdiction .
+the united nations has voted to ask israel to pull its troops out of the golan heights . syria and israel still have not signed a peace treaty from that war , mostly because of the issue of the golan .
+in that year , israel passed the golan heights law , placing the golan heights under civilian israeli law , administration , and jurisdiction .
+---------------------------
+27.
+Original:
+this suggests they may be related to mice , jerboas , and perhaps dormice .
+this suggests they may be related to mice , jerboas , and perhaps dormice .
+this suggests they may be related to mice , and jerboas dormice .
+this suggests they may be related to mice , jerboas , and perhaps dormice .
+this suggests they may be related to mice , jerboas , and perhaps dormice .
+---------------------------
+28.
+Original:
+chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide , but its role diminished from %NUMBER% % of blindness cases by trachoma in %NUMBER% to %NUMBER% % in %NUMBER% .
+chlamydia conjunctivitis or trachoma is a common cause of blindness worldwide . the world health organization estimates that it accounted for %NUMBER% % of blindness cases in %NUMBER% , but only %NUMBER% % in %NUMBER% .
+chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide , but its role diminished from %NUMBER% % of blindness cases by trachoma in %NUMBER% to %NUMBER% % in %NUMBER% .
+chlamydia conjunctivitis or trachoma was once the most important cause blindness worldwide , but its role diminished from %NUMBER% % of blindness cases by trachoma in %NUMBER% to %NUMBER% % in %NUMBER% .
+chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide , but its role diminished from %NUMBER% % of blindness cases by trachoma in %NUMBER% to %NUMBER% % in %NUMBER% .
+---------------------------
+29.
+Original:
+instead , west virginia governor ray sullivan is chosen as vinick ' s running mate .
+instead , west virginia governor ray sullivan is chosen as vinick ' s running mate .
+instead , west virginia governor ray sullivan is chosen as vinick ' s running mate .
+instead , west virginia governor ray sullivan is named vinick ' s running mate .
+instead , west virginia governor ray sullivan is chosen as vinick 's running mate .
+---------------------------
+30.
+Original:
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force , so they will have more facilities for people with impaired mobility , including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access .
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force , so they will have more facilities for people with impaired mobility , including areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access .
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force , so they will have more facilities for people with impaired mobility , including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access .
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force , so they will have more facilities for people with impaired mobility , including multi-use areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access .
+the stock is the first to be designed since the rail vehicle accessibilty regulations came into force . because of this they will have more facilities for people with impaired mobility , including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access .
+---------------------------
+31.
+Original:
+upon registration , the aircraft receives its unique " registration " which must be displayed prominently on the aircraft .
+upon registration , the aircraft receives its unique `` registration '' which must be displayed prominently on the aircraft .
+upon registration , the aircraft gets its unique " registration " which must be displayed the aircraft .
+upon registration , the aircraft receives its unique " registration " which must be displayed prominently on the aircraft .
+an aircraft registration is a unique alphanumeric string that identifies an aircraft , in similar fashion to a licence plate on an automobile . in accordance with the convention on international civil aviation all aircraft must be registered with a national authority , and furthermore , they must carry proof of this registration in the form of a legal document called a certificate of registration at all times when in operation .
+---------------------------
+32.
+Original:
+trdat the architect was the chief architect of the bagratuni kings of armenia , whose 10th century monuments have been argued to be the forerunners of gothic architecture which came to europe several centuries later .
+trdat the architect was the chief architect of the bagratuni kings of armenia , whose %NUMBER% century monuments have been to be the forerunners of gothic architecture which came to europe several centuries later .
+trdat the architect , known in latin as tiridates , was chief architect of the bagratuni dynasty of armenia .
+trdat the architect was the chief architect of the bagratuni kings of armenia , whose 10th century monuments have been said to be the forerunners of gothic architecture which came to europe several centuries later .
+trdat the architect was the chief architect of the bagratuni kings of armenia , whose 10th century monuments have been argued to be the forerunners of gothic architecture which came to europe several centuries later .
+---------------------------
+33.
+Original:
+the north south line marina south extension is a fully underground southward extension from marina bay station .
+the north south line marina south extension is a underground southward extension from marina bay station .
+the north south line marina south extension is a fully underground southward extension from marina bay station .
+the north south marina south extension is a underground south extension from marina bay station .
+the north south line marina south extension is a underground southward extension from marina bay station .
+---------------------------
+34.
+Original:
+hershel wayne gober is a former government official and vietnam war veteran .
+hershel wayne gober is a former administrator and vietnam veteran .
+hershel wayne gober is a former government official and vietnam war veteran .
+hershel wayne gober is a former government official and vietnam war veteran .
+hershel wayne gober is a former government official and vietnam war veteran .
+---------------------------
+35.
+Original:
+the person on the cover has been taken by the band as a mascot , %NUMBER% boy on fire " is the name and can also be seen on bad religion accessories , including t-shirts .
+the person on the cover has been taken by the band as a mascot , %NUMBER% boy on fire " is the name and can also be seen on bad religion accessories , including t-shirts .
+the person on the cover has been taken by the band as a mascot , `` boy on fire '' is the name and can also be seen on bad religion accessories , including t-shirts .
+the person on the cover has been taken by the band as a mascot , %NUMBER% boy on fire " is the name and can also be seen on bad religion accessories , including t-shirts .
+the person on the cover has been taken by the band as a mascot , %NUMBER% boy on fire " is the name and can also be seen on bad religion accessories , including t-shirts .
+---------------------------
+36.
+Original:
+written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was tōkaidō yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in %NUMBER% by tsuruya nanboku iv as it was the yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+its original title was tōkaidō yotsuya kaidan .
+written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was t kaid yotsuya kaidan . is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in %NUMBER% by tsuruya nanboku iv as a kabuki play , the original title was line yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+---------------------------
+37.
+Original:
+born in edinburgh , scotland , gardiner moved to winnipeg , manitoba with his family at age %NUMBER% , in %NUMBER% .
+born in edinburgh , scotland , gardiner moved to winnipeg , manitoba with his family at age seven , in %NUMBER% .
+born in edinburgh , scotland , gardiner moved to winnipeg , manitoba with his family at age %NUMBER% , in %NUMBER% .
+born in edinburgh , scotland , he moved to winnipeg , manitoba with his family at the age of %NUMBER% , in %NUMBER% .
+born in edinburgh , scotland , gardiner moved to winnipeg , manitoba with his family at age %NUMBER% .
+---------------------------
+38.
+Original:
+nancy campbell cartwright is an american film and television actress , comedian and voice artist .
+nancy campbell cartwright is an american film and television actress , comedian and voice artist .
+nancy campbell cartwright is an american actress , comedian and voice artist .
+nancy campbell cartwright is an american film .
+nancy campbell cartwright is an american voice actress .
+---------------------------
+39.
+Original:
+nests are built each year in most species but some birds refurbish their old nests .
+nests are each year .
+nests are built each year . it is found in most species but some birds refurbish their old nests .
+nests are built each year in most species but some birds refurbish their old nests .
+these birds build nests on water because they do n 't walk well on land , so they find a shallw part of the water to build their nests . then , they do not walk to their nests - they swim to it .
+---------------------------
+40.
+Original:
+his nephew , roberto abbado , is also a conductor .
+his nephew , roberto abbado , is also a conductor .
+his nephew roberto abbado is also a conductor .
+his nephew , roberto abbado , is also a conductor .
+his nephew , roberto abbado is a conductor .
+---------------------------
+41.
+Original:
+larissa lies on the river pineios .
+larissa is crossed by pineios river .
+larissa lies on the river pineios .
+larissa lies on the river peneios .
+she is located on the river peneios .
+---------------------------
+42.
+Original:
+the river originates from lulusar lake , nearly 48km from naran valley .
+the river originates from lulusar . nearly 48km from naran valley .
+the river originates from lulusar lake , nearly %NUMBER% from naran valley .
+a main source of the river is lulusar lake , nearly 48km from naran valley .
+the river originates from lulusar lake , nearly 48km from naran valley .
+---------------------------
+43.
+Original:
+%NUMBER% : a space odyssey is a %NUMBER% science fiction film directed by stanley kubrick , written by kubrick and arthur c. clarke and with specialist artwork by roy carnon .
+it is a %NUMBER% science fiction movie directed by stanley kubrick , written by kubrick and arthur c. clarke and with specialist by roy carnon .
+%NUMBER% : a space odyssey is a %NUMBER% science fiction film directed by stanley kubrick , written by kubrick and arthur c. clarke and with specialist artwork by roy carnon .
+%NUMBER% : a space odyssey is a %NUMBER% science fiction movie directed by stanley kubrick . it was written by kubrick and arthur c. clarke .
+it is a %NUMBER% science fiction movie directed by stanley kubrick , written by kubrick and arthur c. clarke with specialist artwork by roy carnon .
+---------------------------
+44.
+Original:
+shaftesbury , as a founder of the whig movement , exerted great influence on locke ' s political ideas .
+shaftesbury , as a founder of the whig movement , exerted great influence on locke 's political ideas .
+shaftesbury , as a founder of the whig movement , exerted great influence on locke ' s political ideas .
+shaftesbury , founder of the whig movement , had great influence on locke ' s political ideas .
+shaftesbury , as a member of the whig movement , was a big influence on locke ' s political ideas .
+---------------------------
+45.
+Original:
+additionally , dr. yunus has been awarded %NUMBER% honorary doctorate degrees , and %NUMBER% special awards .
+additionally , dr. yunus has been awarded %NUMBER% honorary doctorate degrees , and %NUMBER% special awards .
+additionally , dr. yunus has been awarded %NUMBER% honorary doctorate degrees , and %NUMBER% special awards .
+dr. yunus has been awarded %NUMBER% honorary doctorate degrees , and %NUMBER% special awards .
+additionally , dr. yunus has been awarded %NUMBER% honorary doctorate %NUMBER% degrees , and .
+---------------------------
+46.
+Original:
+unlike the original kindle , kindle %NUMBER% does not have a slot for sd memory cards .
+unlike the original kindle , kindle %NUMBER% does not have a slot for memory cards .
+unlike the original kindle , kindle %NUMBER% does not have a slot for sd memory cards .
+unlike the kindle , kindle does not have a slot for sd memory cards .
+unlike the original kindle , kindle %NUMBER% does not have a slot for sd memory cards .
+---------------------------
+47.
+Original:
+kim dae-eui is a south korean football player who plays for suwon samsung bluewings as a winger and attacker .
+kim dae-eui is a south korean football player . he plays for suwon samsung bluewings and attacker .
+kim dae-eui is a south korean football player . he plays for suwon samsung bluewings as a player attacker .
+kim dae-eui is a south korean football player .
+kim dae-eui is a south korean football player .
+---------------------------
+48.
+Original:
+following the signing in %NUMBER% of the anglo-irish treaty , which ended the war of independence , a split occurred within the ira .
+following the signing in %NUMBER% of the anglo-irish treaty , which ended the war of independence , a split occurred within the ira .
+following the signing , a split occurred within the ira .
+this ended in %NUMBER% with the signing of the anglo-irish treaty , which established the division of ireland .
+following the signing in %NUMBER% of the anglo-irish treaty , which ended the war of independence , a split occurred within the ira .
+---------------------------
+49.
+Original:
+" ca n 't stop this thing we started " is a song by bryan adams .
+" ca n 't stop this thing we started " is a song by bryan adams .
+, " ca n 't stop this thing we started is a song by bryan adams .
+`` ca n't stop this thing we started '' is a song by bryan adams .
+" ca n 't stop this thing we started " is a song by bryan adams .
+---------------------------
+50.
+Original:
+these isotopic fingerprints are preserved in the sediments , and mojzis has used this technique to suggest that life existed on the planet already by %NUMBER% %NUMBER% years ago .
+these isotopic fingerprints are preserved in the sediments , and mojzis .
+these isotopic fingerprints are preserved in the sediments , and mojzis has used this technique to suggest that life existed on the planet already by %NUMBER% %NUMBER% years ago .
+these isotopic fingerprints are kept in the sediments , and mojzis has used this technique to suggest that life existed on the planet already by %NUMBER% years ago .
+these isotopic fingerprints are kept in the sediments , and mojzis has used this technique to suggest that life existed on the planet already by %NUMBER% %NUMBER% years ago .
+---------------------------
+51.
+Original:
+however , mayor lacson did not live to see the realization of his dream as he died of a heart attack .
+however , mayor lacson did not however live to see the realization of this project as he died suddenly of heart attack .
+however , mayor lacson did not live to see the realization of his dream he died of a heart attack .
+however , mayor lacson did not live to see the realization of his dream as he died of a heart attack .
+however , mayor lacson did not live to see the realization of his dream as he died of a heart attack .
+---------------------------
+52.
+Original:
+a lever on the side of the toaster is depressed , activating the toaster .
+a the on the side of the toaster is sad , activating the toaster .
+a lever on the side of the toaster is depressed , activating the toaster .
+a lever on the side of the toaster is depressed , activating the toaster .
+a toaster is a machine which toasts bread . the bread is put into the toaster and after a few minutes it pops up again , toasted .
+---------------------------
+53.
+Original:
+in %NUMBER% , during the band ' s final tour , many cities around the united states proclaimed a certain day to be " guided by voices day " in that city .
+in %NUMBER% , during the band ' s last tour , many cities around the united states made a certain day to be " guided by voices day " in that city .
+in %NUMBER% , during the band ' s last concert tour , many cities around the united states picked a day to be " guided by voices day " in that city .
+in %NUMBER% , during the band 's final tour , many cities around the united states proclaimed a certain day to be `` guided by voices day '' in that city .
+in %NUMBER% , during the band ' s final tour , many cities around the united states proclaimed a certain day to be " guided by voices day " in that city .
+---------------------------
+54.
+Original:
+renton is a city in king county , washington , united states .
+renton is a city in king county , washington , united states .
+renton is a city of washington in the united states .
+renton is a city in king county , washington , united states .
+renton is a city .
+---------------------------
+55.
+Original:
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta %NUMBER% - %NUMBER% , still a club record , in the european cup in %NUMBER% .
+portman road hosted ipswich town ' s first appearance in european football competition when they beat floriana of malta %NUMBER% - %NUMBER% , still a club record , in the european cup in %NUMBER% .
+portman road hosted ipswich town 's first appearance in european football competition when they defeated floriana of malta %NUMBER% - %NUMBER% , still a club record , in the european cup in %NUMBER% .
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta %NUMBER% - %NUMBER% in the european cup in %NUMBER% .
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta %NUMBER% - %NUMBER% , still a club record , in the european cup in %NUMBER% .
+---------------------------
+56.
+Original:
+he was survived by his wife , edith , and his daughter , sandra .
+he was wife , edith , and his daughter , sandra .
+he was survived by his wife , edith , and his daughter , sandra .
+he was survived by his wife , edith , and his daughter , sandra .
+he was survived by his wife , edith , and his daughter , sandra .
+---------------------------
+57.
+Original:
+the initial founders of the party were among others : alexander andrae , oskar lutz , hans bernd von grünberg , wilhelm meinberg , otto heß , hans schikora , heinrich kunstmann , adolf von thadden .
+the initial founders of the party were among others : alexander andrae , oskar lutz , hans bernd von grünberg , wilhelm meinberg , otto heß , hans schikora , heinrich kunstmann , adolf von thadden .
+the initial founders of the party were among others : alexander andrae , oskar lutz , hans bernd von grünberg , wilhelm meinberg , otto heß , hans schikora , heinrich kunstmann , adolf von thadden .
+the initial founders of the party were among others : alexander andrae , oskar lutz , hans bernd von grünberg , wilhelm meinberg , otto heß , hans schikora , heinrich kunstmann , adolf von thadden .
+the initial founders of the party were among others : alexander andrae , oskar lutz , hans bernd von grünberg , wilhelm meinberg , schikora , heinrich heß , hans kunstmann , adolf von thadden .
+---------------------------
+58.
+Original:
+for his show on march %NUMBER% , %NUMBER% he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split , partly due to rumors of ray j dating tila tequila .
+for his show on march %NUMBER% , %NUMBER% he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split , partly due to rumors of ray j dating tila tequila .
+for his show on march %NUMBER% , %NUMBER% , he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split , partly due to rumors of ray j dating tila tequila .
+for his show on march %NUMBER% , %NUMBER% he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split , partly due to rumors of ray j dating tila tequila .
+for his show on march %NUMBER% , %NUMBER% he released the soundtrack\/studio album called for the love of ray j. he dated cocktail for several months before they split , partly due to rumors of ray j dating tila tequila .
+---------------------------
+59.
+Original:
+the call for primitives was first issued in november %NUMBER% .
+the call for primitives was first issued in november %NUMBER% .
+the call for systems was first used in november %NUMBER% .
+the call for systems was first used in %NUMBER% .
+the call for primitives was first issued in november %NUMBER% .
+---------------------------
+60.
+Original:
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee .
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee .
+cairns army airfield is to the south of daleville on the road to almost clayhatchee .
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee .
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee .
+---------------------------
+61.
+Original:
+stansstad is a village in the canton of nidwalden in switzerland .
+stansstad is a village in the canton of nidwalden in switzerland .
+stansstad is a municipality of the canton of nidwalden in switzerland .
+stansstad is a municipality of the canton of nidwalden in switzerland .
+stansstad is a village .
+---------------------------
+62.
+Original:
+mikhail tal was a soviet-latvian chess player , a grandmaster , and the eighth world chess champion .
+mikhail tal was a soviet-latvian chess player , a grandmaster , and the eighth world chess champion .
+mikhail tal was a soviet-latvian chess player , a grandmaster , and the eighth world chess champion .
+mikhail tal , known as mischa , was a soviet - latvian chess player , a grandmaster , and the eighth world chess champion .
+mikhail tal was a soviet-latvian a chess grandmaster , and the eighth world chess champion .
+---------------------------
+63.
+Original:
+females lay their pale green or cream colored eggs singly on host plant leaves and stems .
+females lay their pale green or cream colored eggs singly on the host plant leaves , stems .
+females lay their pale green or cream colored eggs singly on host plant leaves and stems .
+females lay their eggs singly on the host plant ' s leaves and stems . the eggs are pale green or cream colored .
+females lay their pale green or cream colored eggs singly on host plant leaves and stems .
+---------------------------
+64.
+Original:
+some carrot cakes are even layered .
+some carrot cakes are even layered .
+some are cakes and layered .
+some carrot cakes are even layered .
+some carrot cakes are even layered .
+---------------------------
+65.
+Original:
+harrow has educated boys since %NUMBER% but was officially founded by john lyon under a royal charter of elizabeth i in %NUMBER% .
+harrow has educated boys since %NUMBER% but was officially founded by john lyon of elizabeth i in %NUMBER% .
+harrow has educated boys since %NUMBER% but was officially founded by john lyon under a royal charter of elizabeth i in %NUMBER% .
+harrow has educated boys since %NUMBER% but was officially founded by john lyon under a royal charter of elizabeth i in %NUMBER% .
+harrow has educated boys since %NUMBER% but was started by john lyon under a royal charter of elizabeth i in %NUMBER% .
+---------------------------
+66.
+Original:
+however , powdered saffron is more prone to adulteration , with turmeric , paprika , and other powders used as diluting fillers .
+however , powdered saffron is more prone to adulteration , with turmeric , paprika , and other powders used as diluting fillers .
+however , powdered saffron is more prone to adulteration , with turmeric , paprika , and other powders used as diluting fillers .
+however , powdered saffron is more prone to adulteration , with turmeric , paprika , and other powders used as diluting fillers .
+however , powdered saffron is more prone to adulteration , with turmeric , paprika , and other powders diluting used fillers .
+---------------------------
+67.
+Original:
+hurricane andres was the first named storm and hurricane of the %NUMBER% pacific hurricane season .
+hurricane andres was the first named storm and hurricane of the %NUMBER% pacific hurricane season .
+hurricane andres is the first named storm and hurricane of the %NUMBER% pacific hurricane season .
+hurricane andres was the first named storm and hurricane of the %NUMBER% pacific hurricane season .
+hurricane andres was the first named storm and hurricane of the %NUMBER% pacific hurricane season .
+---------------------------
+68.
+Original:
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it .
+his sui generis society will also continue its existence after the ceases to interact with it .
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it .
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it .
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it .
+---------------------------
+69.
+Original:
+akron is a city in plymouth county , iowa , united states .
+akron is a city of iowa in the united states of america .
+akron is a city of iowa in the united states .
+akron is a city of iowa in the united states .
+akron is a city .
+---------------------------
+70.
+Original:
+opeth released its fifth studio album , blackwater park , on february %NUMBER% , %NUMBER% .
+opeth released its fifth studio album , blackwater park , on february %NUMBER% , %NUMBER% .
+opeth released its fifth studio album , blackwater park , on february %NUMBER% , %NUMBER% .
+opeth released its fifth album blackwater park , on february %NUMBER% , %NUMBER% .
+opeth on february %NUMBER% , %NUMBER% .
+---------------------------
+71.
+Original:
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden .
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden .
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden .
+the royal opera house is an opera house and performing arts venue in the london district covent garden .
+the royal opera house is a famous opera house in london . sometimes it is called " covent garden " because it is in the area of london called covent garden .
+---------------------------
+72.
+Original:
+after his death , the canadiens retired his jersey number , the first time the team had done so for any player .
+after his death , the canadiens stopped using his jersey number , the first time the team had done so for any player .
+after his death , the canadiens retired his jersey number , the first time the team had done so for any player .
+after his death , the canadiens retired his jersey number , the first time the team had done so for any player .
+after his death , the canadiens retired his jersey number , the first time the team had done so for any player .
+---------------------------
+73.
+Original:
+roman catholicism specifically holds that %NUMBER% may build and use " likenesses " , as long as the object is not worshipped .
+%NUMBER% understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used , as long as the object is not worshipped .
+roman catholicism specifically holds that one may build and use `` likenesses '' , as long as the object is not worshipped .
+roman catholicism specifically says that may %NUMBER% , build and use " likenesses " , as long as the object is not worshipped .
+roman catholicism specifically says that %NUMBER% may build and use " likenesses " , as long as the object is not worshipped .
+---------------------------
+74.
+Original:
+a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves .
+a leaf blower is a gardening tool uses air to move yard debris like leaves .
+a leaf blower is a gardening tool that propels air from a nozzle to move yard debris such as leaves .
+a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves .
+a leaf blower is a gardening tool .
+---------------------------
+75.
+Original:
+suffering in her last years from debilitating encephalomyelitis , she traveled to switzerland to undertake an assisted suicide at the age of %NUMBER% in %NUMBER% .
+during her last years she had a very serious illness called encephalomyelitis . she eventually did not want to suffer any more , so she traveled to switzerland where she was allowed to have an assisted suicide .
+suffering in her last years from debilitating encephalomyelitis , she traveled to switzerland to undertake an assisted suicide of the age of %NUMBER% in %NUMBER% .
+suffering in her last years from debilitating encephalomyelitis , she traveled to switzerland to take an assisted suicide at the age of %NUMBER% .
+suffering in her last years from debilitating encephalomyelitis , she traveled to switzerland to undertake an assisted suicide at the age of %NUMBER% in %NUMBER% .
+---------------------------
+76.
+Original:
+the township of " coura rocks " , named from a local aboriginal term meaning " eagle on the rocks " , had its beginnings in %NUMBER% .
+the township of `` coura rocks '' , named from a local aboriginal term meaning `` eagle on the rocks '' , had its beginnings in %NUMBER% .
+the town of " coura rocks " , named from a aboriginal word meaning " eagle on the rocks " , had its beginnings in %NUMBER% .
+the township of " coura rocks " , named from a local aboriginal term meaning " eagle on the rocks " , had its beginnings in %NUMBER% .
+the township of coura rocks began in %NUMBER% .
+---------------------------
+77.
+Original:
+he next became the head photographer at the lourenco marques daily newspaper , a tribuna , from %NUMBER% until %NUMBER% .
+he next became the head photographer .
+he next became the head photographer at the lourenco marques daily newspaper , a tribuna , from %NUMBER% until %NUMBER% .
+he next became the head of the photographer at a daily newspaper lourenco marques tribuna , from %NUMBER% until %NUMBER% .
+he next became the head photographer at the lourenco marques daily newspaper , a tribuna , from %NUMBER% until %NUMBER% .
+---------------------------
+78.
+Original:
+he lost to shinjiro otani in the match , but wcw went on to win the series .
+he fell to njpw wrestler shinjiro ohtani in the match but wcw went on to win the series .
+he lost to shinjiro otani in the match , but wcw went on to win the series .
+he lost to shinjiro ohtani . it is found in the match , but wcw went on to win the series .
+he lost to shinjiro ohtani in the match , but wcw went on to win the series .
+---------------------------
+79.
+Original:
+on the june %NUMBER% edition of raw , foley , orton , booker , and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship .
+on the june %NUMBER% episode of raw , foley , orton , booker , and lashley all said why they deserve to be the number-one contender to the wwe championship .
+on the june %NUMBER% edition of raw , foley , orton , booker , and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship .
+on the june %NUMBER% edition of raw , foley , orton , booker , and lashley all cut promos on why they deserve to be the number %NUMBER% contender to the wwe championship .
+on the june %NUMBER% edition of raw , foley , orton , booker , and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship .
+---------------------------
+80.
+Original:
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges .
+the precursors send jak and daxter to the dark maker ship to slow it down the planetary defense system the charges .
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges .
+when he is defeated , jak , daxter , and all the others gather together in the arena , while the precursors make their speech . jak and daxter have saved the world !
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges .
+---------------------------
+81.
+Original:
+kryptos is %NUMBER% of the themes in dan brown ' s %NUMBER% novel , the lost symbol .
+dan brown wrote another book in %NUMBER% called the lost symbol , which also talks about kryptos .
+kryptos is %NUMBER% of the themes in dan brown ' s %NUMBER% novel , the lost symbol .
+kryptos is %NUMBER% of the themes of dan brown ' s %NUMBER% book , the lost symbol .
+kryptos is one .
+---------------------------
+82.
+Original:
+thomas wentworth " tom " wills was an australian all-round sportsman , umpire , coach and administrator who is credited with being a catalyst towards the invention of australian rules football .
+thomas wentworth " tom " wills was an australian all-round , and october , umpire he is credited with being a catalyst towards the invention of australian rules football .
+thomas wentworth " tom " wills was an australian all-round sportsman who helped invent australian football , and umpired the first ever game of australian football , and helped write the laws of australian football .
+thomas wentworth " tom " wills was an australian all-round , umpire october , coach and administrator who is credited with being a catalyst towards the invention of australian rules football .
+thomas wentworth `` tom '' wills was an australian all-round sportsman , umpire , coach and administrator .
+---------------------------
+83.
+Original:
+savonarola was born in ferrara , the capital of an independent duchy in emilia-romagna , northern italy .
+savonarola was born in ferrara , the capital of an independent duchy in italy , northern italy .
+savonarola was born in ferrara , the which was the capital of the independant duchy of ferrara .
+savonarola was born in ferrara , the capital of italy in the northern italy .
+savonarola was born in ferrara , the capital .
+---------------------------
+84.
+Original:
+he is best known for his work as the drummer for the canadian rock band rush . he also serves as the band ' s lyricist .
+he is best known for his work as the drummer for the canadian rock band . he also serves as the band ' s lyricist .
+he is best known for his work as the drummer for the canadian rock band rush . he also serves as the band ' s lyricist .
+he is best-known as the drummer and lyricist for the rock band rush .
+he is best known for his work as the drummer for the canadian rock band rush . he also serves as the band 's lyricist .
+---------------------------
+85.
+Original:
+today , volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule , i.e. primary school .
+today , volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule , i.e. primary school .
+today , volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule , i.e. primary school .
+today , volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule , i.e. primary school .
+today , volksschule is the austrian equivalent to the german word german word and the swiss grundschule primarschule , i.e. primary school .
+---------------------------
+86.
+Original:
+at harvard he studied under j.a. osborn .
+at harvard he studied under j.a. osborn .
+he studied under at harvard j.a. osborn .
+at harvard he was a student of j. a. osborn .
+at harvard he studied under j.a. osborn .
+---------------------------
+87.
+Original:
+a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts , such as plays , films , video games and television .
+a cameo role or cameo appearance is a brief appearance of a person in a work of the performing arts , such as plays , films , video games and television .
+a small role or cameo appearance is a brief appearance of a person in a work of the performing arts , such as plays , films , video games and television .
+a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts , such as plays , films , video games and television .
+a cameo role or cameo appearance is a brief appearance .
+---------------------------
+88.
+Original:
+hercules saves her from being sacrificed , while unknowingly being watched by a mysterious robed figure .
+hercules saves her from being sacrificed , while unknowingly being watched by a mysterious robed figure .
+hercules saves her from being sacrificed , while unknowingly being watched by a mysterious robed figure .
+hercules saves her from being sacrificed , while who robed was watched by a .
+hercules saves her from being sacrificed , while who being watched by a mysterious robed figure .
+---------------------------
+89.
+Original:
+in %NUMBER% , however , moscow moved to third after tokyo and osaka came in first and second , respectively .
+in %NUMBER% , however , moscow went down to third after tokyo and osaka came in first and second .
+however , in %NUMBER% , moscow moved to third after tokyo and osaka came in first and second .
+in %NUMBER% , however , moscow moved to third after tokyo and osaka came in first and second , respectively .
+in %NUMBER% , however , moscow moved to third after tokyo and osaka came in first and second , respectively .
+---------------------------
+90.
+Original:
+aside from elephants , the word has been used to refer to ivory , elephant tusks , musical horns made of elephant tusks , or a musical instrument resembling such horns .
+aside from elephants , the word has been used to refer to ivory , elephant tusks , musical horns made of elephant tusks , or a musical instrument resembling such horns .
+aside from elephants , the word has been used to refer to ivory , elephant tusks , horns made of elephant tusks , or a musical instrument resembling such horns .
+aside from elephants , the word has been used to refer to ivory , elephant tusks , musical horns made of elephant tusks , or a musical instrument resembling such horns .
+a lot of ivory comes from elephant tusks .
+---------------------------
+91.
+Original:
+anna maria was the child of the artist philip jacob thelott the older , originally from switzerland , and the sibling of the artist philip jacob thelott the younger , and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older , " campus elysii " and " atlantica " ; soon , she started to contribute to the household by taking assignments herself and performing different artistic works for money , thereby becoming an independent artist .
+anna maria was the child of the artist philip jacob thelott the older , originally from switzerland , and the sibling of the artist philip jacob thelott the younger , and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older , " campus elysii " and " atlantica " ; soon , she started to contribute to the household by taking assignments herself and performing different artistic works for money , thereby becoming an independent artist .
+anna maria was the daughter of the artist philipp jacob thelott the older , and sister of the artist philip jacob thelott the younger . when she was a child , she worked together with her brother and her father to illustrate the books " campus elysii " and " atlantica " , by olof rudbeck , and when she was grown up , she started to work alone and illustrate papers and maps and other things .
+anna maria ; soon , she started to contribute to the household by taking assignments herself and performing different artistic works for money , thereby becoming an independent artist .
+anna maria was the child of the artist philip jacob thelott the older , originally from switzerland , and the sibling of the artist philip jacob thelott the younger , and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older , " campus elysii " and " atlantica " ; soon , she started to contribute to the household by taking assignments herself and performing different artistic works for money , thereby became an independent artist .
+---------------------------
+92.
+Original:
+le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus , charles dickens , and fyodor dostoevsky .
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus , charles dickens , and fyodor dostoevsky .
+le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus , charles dickens , and fyodor dostoevsky .
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus , charles dickens . fyodor dostoevsky .
+le dernier jour d'un condamné would have a profound influence on later writers like albert camus , charles dickens , and fyodor dostoevsky .
+---------------------------
+93.
+Original:
+avessé is a commune in the sarthe department in the region of pays-de-la-loire in north-western france .
+avessé is a commune .
+avessé is a commune . it is found in the region pays de la loire in the sarthe department in the west of france .
+avessé is a commune . it is found in the sarthe department in the region pays de la loire region in the northwest of france .
+avessé is a commune . it is found in the sarthe department in the region pays de la loire in the west of france .
+---------------------------
+94.
+Original:
+el caso del centro de estudios sobre américa " , which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals .
+el caso del centro de estudios sobre américa '' , which strongly built upon giuliano 's book to offer further insights on relations between cuba 's political apparatus and the country 's intellectuals .
+el caso del centro de estudios sobre américa " , which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals .
+el caso del centro de estudios sobre américa " , which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals .
+el caso del centro de estudios sobre américa " , which strongly built upon giuliano ' s book to offer further views on relations between cuba ' s political apparatus and the country ' s intellectuals .
+---------------------------
+95.
+Original:
+sant ' antonio is a municipality in the district of bellinzona in the canton of ticino in switzerland .
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland .
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland .
+sant ` antonio is a municipality .
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland .
+---------------------------
+96.
+Original:
+early on september %NUMBER% , it was named tropical storm felix , and it was upgraded to a hurricane later that day .
+early on september %NUMBER% , it was named tropical storm felix , and it was upgraded to a hurricane later that day .
+early on september %NUMBER% , it was changed to a tropical storm and named felix . later that day , felix was changed to a hurricane .
+early on september %NUMBER% , it was named tropical storm felix , and it was upgraded to a hurricane later that day .
+early on september %NUMBER% , it was named tropical storm felix , and it was upgraded to a hurricane later that day .
+---------------------------
+97.
+Original:
+they combined political and cultural satire with witty grand opera parodies .
+they combined political and cultural satire with witty grand opera parodies .
+they had political and cultural satire with witty grand opera parodies .
+they combined political and cultural satire with witty grand opera parodies .
+they combined political and cultural satire with witty grand opera parodies .
+---------------------------
+98.
+Original:
+dilsen-stokkem %NUMBER% .
+dilsen-stokkem %NUMBER% .
+. dilsen-stokkem
+dilsen-stokkem %NUMBER% .
+dilsen-stokkem %NUMBER% .
+---------------------------
+99.
+Original:
+the name %NUMBER% common clam worm " is less ambiguous , but is also sometimes used for other neries species such as n. virens and n. limbata .
+the name `` common clam worm '' is less ambiguous , but is also sometimes used for other neries species such as n. virens and n. limbata .
+the name %NUMBER% common clam worm " is less ambiguous , but is also sometimes used for other neries species such as n. virens and n. limbata .
+the name %NUMBER% common clam worm is less ambiguous , but is also sometimes used for other neries species such as n. virens and n. limbata .
+the name %NUMBER% common clam worm " is less ambiguous , but is also sometimes used for other nereis species such as n. virens and n. limbata .
+---------------------------
+100.
+Original:
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park , london ran from may %NUMBER% until october %NUMBER% , %NUMBER% .
+the great exhibition ran from may %NUMBER% until october %NUMBER% , %NUMBER% .
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park , london ran from may %NUMBER% until october %NUMBER% , %NUMBER% .
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park , london ran from may %NUMBER% until october %NUMBER% , %NUMBER% .
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park , london ran from may %NUMBER% until october %NUMBER% , %NUMBER% .
