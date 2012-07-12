@@ -1,3 +1,5 @@
+package src;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -25,6 +27,21 @@ public class SentenceSurvey
 	private QualificationRequirement location = new QualificationRequirement("00000000000000000071", Comparator.EqualTo, null, new Locale("US"), false);
 	private QualificationRequirement[] requirements = {acceptanceRate, location};
 
+	private static String grammaticalDescription = "Rate each sentence below with a score from 1 to 5 based on how " +
+	"grammatical the sentence is.  A 1 indicates completely ungrammatical " +
+	"and 5 perfectly grammatical.";
+	private static String contextDescription = "Each sentence below is a candidate simplification for the original " +
+	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
+	"based on how well the content of the original sentence is preserved in " +
+	"the candidate sentence.  A 1 indicates that none of the key ideas were " +
+	"preserved while a 5 indicates that all of the key ideas were " +
+	"preserved.";
+	private static String simplicityDescription = "Each sentence below is a candidate simplification for the original " +
+	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
+	"based on how simple the candidate sentence.  A good simplification " +
+	"should preserve the main ideas, but make the content understandable to " +
+	"a broader audience.";
+	
 	// constructor
 	public void SenctenceSurvey()
 	{
@@ -33,7 +50,7 @@ public class SentenceSurvey
 
 	public void readFile(File input)
 	{
-		
+		File inputFile = new File(input);
 	}
 
 	public void createSomeHIT(SentenceHIT hit) throws FileNotFoundException
@@ -47,7 +64,7 @@ public class SentenceSurvey
 					"someHT",
 					"someDescription",
 					null,
-					RatingHit(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, "grammar"),
+					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, "grammar"),
 					00.05,
 					(long)300,
 					(long)432000, 
@@ -60,7 +77,7 @@ public class SentenceSurvey
 
 			// Print out the HITId and the URL to view the HIT.
 			System.out.println("Created HIT: " + amazonHIT.getHITId());
-			contextpr.println(amazonHIT.getHITId());
+//			contextpr.println(amazonHIT.getHITId());
 			System.out.println("HIT location: ");
 			System.out.println(service.getWebsiteURL() + "/mturk/preview?groupId=" + amazonHIT.getHITTypeId());
 
