@@ -1,8 +1,6 @@
 package Sentence;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
 import com.amazonaws.mturk.requester.Comparator;
@@ -15,11 +13,10 @@ import com.amazonaws.mturk.requester.Locale;
 
 public class SentenceSurvey
 {
-
 	// instance variables
 	private RequesterService service;
-	
-	private ArrayList<SentenceHIT> HITs;
+
+	private ArrayList<SentenceHIT> HITs = new ArrayList<SentenceHIT>();
 
 	private int numAssignments = 5;
 
@@ -41,19 +38,46 @@ public class SentenceSurvey
 	"based on how simple the candidate sentence.  A good simplification " +
 	"should preserve the main ideas, but make the content understandable to " +
 	"a broader audience.";
-	
+
 	// constructor
-	public void SenctenceSurvey()
+	public SentenceSurvey()
 	{
 		service = new RequesterService( new PropertiesClientConfig() );
 	}
 
-	public void readFile(File input)
+	// reads data file and primes HITs for submission
+	public void readFile(File inputFile) throws IOException
 	{
-		File inputFile = new File(inputFile);
+		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream( inputFile ) ) );
+		String input = "";
+
+		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
+
+		while ( input != null )
+		{
+			String original = input;
+			String option1 = in.readLine();
+			String option2 = in.readLine();
+			String option3 = in.readLine();
+			String option4 = in.readLine();
+
+			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4);
+
+			HITs.add(newHIT);
+
+			input = in.readLine();
+			input = in.readLine();
+			input = in.readLine();
+			input = in.readLine();
+		}
+
 	}
 
-	public void createHIT(SentenceHIT hit, String title, String description) throws FileNotFoundException
+	// creates an individual HIT
+	public void createHIT(SentenceHIT hit, String title, String description, String type) throws FileNotFoundException
 	{
 		try 
 		{
@@ -64,7 +88,7 @@ public class SentenceSurvey
 					title,
 					description,
 					null,
-					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, "grammar"),
+					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
 					00.05,
 					(long)300,
 					(long)432000, 
@@ -77,7 +101,7 @@ public class SentenceSurvey
 
 			// Print out the HITId and the URL to view the HIT.
 			System.out.println("Created HIT: " + amazonHIT.getHITId());
-//			contextpr.println(amazonHIT.getHITId());
+			//			contextpr.println(amazonHIT.getHITId());
 			System.out.println("HIT location: ");
 			System.out.println(service.getWebsiteURL() + "/mturk/preview?groupId=" + amazonHIT.getHITTypeId());
 
@@ -87,7 +111,9 @@ public class SentenceSurvey
 		}
 	}
 
-	public static String ratingHIT(String originalSentence, String sentence1, String sentence2, String sentence3, String sentence4, String hitType) {
+	// the HTML describing a particular HIT, usually called within createHIT()
+	public String ratingHIT(String originalSentence, String sentence1, String sentence2, String sentence3, String sentence4, String hitType) 
+	{
 		String description = "";
 		if (hitType.equals("Grammatically"))
 			description = grammaticalDescription;
@@ -138,7 +164,7 @@ public class SentenceSurvey
 		q += " 		}";
 		q += "		function fillDropDown(inputID){";
 		q += "			document.getElementById(inputID).innerHTML = \"<select name=\"rating\"/><option value=\"1\">1</option><option value=\"2\">2</option>" +
-				"<option value=\"3\">3</option><option value=\"4\">4</option><option value=\"5\">5</option><option value=\"null\">Select Rating</option></select>\";";
+		"<option value=\"3\">3</option><option value=\"4\">4</option><option value=\"5\">5</option><option value=\"null\">Select Rating</option></select>\";";
 		q += "    </script>";
 		q += "  </body>";
 		q += "</html>]]>";
@@ -148,25 +174,31 @@ public class SentenceSurvey
 		return q;
 	}
 
+	// main method
 	public static void main(String[] args) throws IOException
 	{
 		String usageError = "Please provide a valid option. Such as: " +
 		"\n -add FILENAME           *creates new HITs from the data provided in the given file(s)* ";
 
-		if ( args.length >=1 )
+		if ( args.length >= 1 )
 		{
+			// instantiates the class
 			SentenceSurvey app = new SentenceSurvey();
 			File inputFile = null;
 
 			try 
 			{
-				inputFile = new File(args[1]);
+				inputFile = new File(args[0]);
+				// reads the data file and primes HITs
 				app.readFile(inputFile);
-				
-				
+				for (SentenceHIT hit : app.HITs)
+				{
+					app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar");
+				}
+
 			} catch (IOException e)
 			{
-				System.err.println("Could not find the file:");
+				System.err.println("Could not find the file");
 			}
 
 		} else 
@@ -176,7 +208,7 @@ public class SentenceSurvey
 	}
 }
 
-	
+
 
 
 

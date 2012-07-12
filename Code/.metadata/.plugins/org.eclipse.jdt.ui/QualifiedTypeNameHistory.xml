@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.QualificationRequirement"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.service.exception.ServiceException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.HIT"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.service.axis.RequesterService"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.util.PropertiesClientConfig"/>
+</qualifiedTypeNameHistroy>
