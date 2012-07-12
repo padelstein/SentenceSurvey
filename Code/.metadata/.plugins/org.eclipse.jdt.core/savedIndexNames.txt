@@ -5,7 +5,6 @@ INDEX VERSION 1.126+/home/padelstein/SentenceSurvey/Code/.metadata/.plugins/org.
 4022848039.index
 1189544457.index
 2268464613.index
-4077160953.index
 2921857115.index
 1438662779.index
 460288520.index
