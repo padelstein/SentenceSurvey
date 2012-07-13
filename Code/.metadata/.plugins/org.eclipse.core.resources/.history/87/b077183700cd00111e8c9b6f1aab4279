@@ -55,21 +55,25 @@ public class SentenceSurvey
 		String input = "";
 
 		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
 
 		while ( input != null )
 		{
-			String number = in.readLine(); // the number in the data file corresponding to the HIT
-			input = in.readLine();
-			String original = in.readLine();
+			String original = input;
 			String option1 = in.readLine();
 			String option2 = in.readLine();
 			String option3 = in.readLine();
 			String option4 = in.readLine();
 
-			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
+			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4);
 
 			HITs.add(newHIT);
 
+			input = in.readLine();
+			input = in.readLine();
+			input = in.readLine();
 			input = in.readLine();
 		}
 
@@ -85,14 +89,14 @@ public class SentenceSurvey
 					null,
 					title,
 					description,
-					type,
+					null,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
 					00.05,
 					(long)300,
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
-					inputHIT.dataID,
+					inputHIT.originalSentence,
 					requirements, 
 					null
 			);
@@ -219,7 +223,6 @@ public class SentenceSurvey
 					);
 				}
 				
-				// close the printWriters
 				grammarHITids.close();
 				contentHITids.close();
 				simplicityHITids.close();

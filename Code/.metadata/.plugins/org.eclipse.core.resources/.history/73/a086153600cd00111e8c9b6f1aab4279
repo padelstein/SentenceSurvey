@@ -11,8 +11,6 @@ public class SentenceHIT
 	// instance variables
 	private RequesterService service = new RequesterService(new PropertiesClientConfig());
 	
-	public String dataID;
-	
 	public String originalSentence;
 	public String sentence1;
 	public String sentence2;
@@ -26,9 +24,8 @@ public class SentenceHIT
 	public String typeID = null;
 	
 	// constructor for submission to mTurk
-	public SentenceHIT(String original, String option1, String option2, String option3, String option4, String number)
+	public SentenceHIT(String original, String option1, String option2, String option3, String option4)
 	{
-		dataID = number;
 		originalSentence = original;
 		sentence1 = option1;
 		sentence2 = option2;
@@ -44,12 +41,24 @@ public class SentenceHIT
 	}
 
 	// constructor for retrieval from mTurk
-	public void updateWithAmazon(HIT serviceHIT)
+	public SentenceHIT(String hitID)
 	{
-		
-		amazonHIT = serviceHIT;
+		ID = hitID.trim();
+		amazonHIT = service.getHIT(ID);
 		typeID = amazonHIT.getHITTypeId();
-		ID = amazonHIT.getHITId();
+		
+		// we provide a requester annotation to the service when creating the HIT that stores the sentences
+		String[] sentences = amazonHIT.getRequesterAnnotation().split("\t");
+		
+		sentence1 = sentences[0];
+		sentence2 = sentences[1];
+		sentence3 = sentences[2];
+		sentence4 = sentences[3];
+		
+		answers.put( sentence1, new FrequencyCounter<Integer>() );
+		answers.put( sentence2, new FrequencyCounter<Integer>() );
+		answers.put( sentence3, new FrequencyCounter<Integer>() );
+		answers.put( sentence4, new FrequencyCounter<Integer>() );
 		
 		calcAnswers();
 	}

@@ -55,21 +55,25 @@ public class SentenceSurvey
 		String input = "";
 
 		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
+		input = in.readLine();
 
 		while ( input != null )
 		{
-			String number = in.readLine(); // the number in the data file corresponding to the HIT
-			input = in.readLine();
-			String original = in.readLine();
+			String original = input;
 			String option1 = in.readLine();
 			String option2 = in.readLine();
 			String option3 = in.readLine();
 			String option4 = in.readLine();
 
-			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
+			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4);
 
 			HITs.add(newHIT);
 
+			input = in.readLine();
+			input = in.readLine();
+			input = in.readLine();
 			input = in.readLine();
 		}
 
@@ -85,14 +89,14 @@ public class SentenceSurvey
 					null,
 					title,
 					description,
-					type,
+					null,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
 					00.05,
 					(long)300,
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
-					inputHIT.dataID,
+					inputHIT.originalSentence,
 					requirements, 
 					null
 			);
@@ -193,40 +197,35 @@ public class SentenceSurvey
 				// reads the data file and primes HITs
 				app.readDataFile(inputFile);
 				
-				// sets up a Data object to timestamp the ID files
-				DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-ddHH:mm:ss");
-				Date date = new Date();
-				
-				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File( "grammarHITids" + dateFormat.format(date) )));
-				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File( "contentHITids" + dateFormat.format(date) )));
-				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File( "simplicityHITids" + dateFormat.format(date) )));
-				
-				
-				// creates grammar, content, and simplicity HITs and add their IDs to the appropriate file
-				for (SentenceHIT hit : app.HITs)
-				{
-					grammarHITids.println
-					(
-						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar")
-					);
-					contentHITids.println
-					(
-						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "content")
-					);
-					simplicityHITids.println
-					(
-						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "simplicity")
-					);
-				}
-				
-				// close the printWriters
-				grammarHITids.close();
-				contentHITids.close();
-				simplicityHITids.close();
+//				// sets up a Data object to timestamp the ID files
+//				DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+//				Date date = new Date();
+//				
+//				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File( "grammarHITids" + dateFormat.format(date) )));
+//				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File( "contentHITids" + dateFormat.format(date) )));
+//				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File( "simplicityHITids" + dateFormat.format(date) )));
+//				
+//				
+//				// creates grammar, content, and simplicity HITs and add their IDs to the appropriate file
+//				for (SentenceHIT hit : app.HITs)
+//				{
+//					grammarHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar")
+//					);
+//					contentHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "content")
+//					);
+//					simplicityHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "simplicity")
+//					);
+//				}
 
 			} catch (IOException e)
 			{
-				System.err.println(e.getLocalizedMessage());
+				System.err.println("Could not find the file");
 			}
 
 		} else 

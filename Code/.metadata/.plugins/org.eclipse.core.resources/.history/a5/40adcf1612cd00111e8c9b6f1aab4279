@@ -44,12 +44,24 @@ public class SentenceHIT
 	}
 
 	// constructor for retrieval from mTurk
-	public void updateWithAmazon(HIT serviceHIT)
+	public SentenceHIT(String hitID)
 	{
-		
-		amazonHIT = serviceHIT;
+		ID = hitID.trim();
+		amazonHIT = service.getHIT(ID);
 		typeID = amazonHIT.getHITTypeId();
-		ID = amazonHIT.getHITId();
+		
+		// we provide a requester annotation to the service when creating the HIT that stores the sentences
+		String[] sentences = amazonHIT.getRequesterAnnotation().split("\t");
+		
+		sentence1 = sentences[0];
+		sentence2 = sentences[1];
+		sentence3 = sentences[2];
+		sentence4 = sentences[3];
+		
+		answers.put( sentence1, new FrequencyCounter<Integer>() );
+		answers.put( sentence2, new FrequencyCounter<Integer>() );
+		answers.put( sentence3, new FrequencyCounter<Integer>() );
+		answers.put( sentence4, new FrequencyCounter<Integer>() );
 		
 		calcAnswers();
 	}

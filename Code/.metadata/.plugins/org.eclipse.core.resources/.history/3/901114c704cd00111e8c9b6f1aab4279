@@ -85,7 +85,7 @@ public class SentenceSurvey
 					null,
 					title,
 					description,
-					type,
+					null,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
 					00.05,
 					(long)300,
