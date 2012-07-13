@@ -1,8 +1,10 @@
-package Sentence;
+package src.Sentence;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -13,11 +15,14 @@ import com.amazonaws.mturk.requester.Comparator;
 import com.amazonaws.mturk.requester.HIT;
 import com.amazonaws.mturk.requester.Locale;
 import com.amazonaws.mturk.requester.QualificationRequirement;
+import com.amazonaws.mturk.service.axis.AWSService;
+import com.amazonaws.mturk.service.axis.RequesterService;
 import com.amazonaws.mturk.service.exception.ServiceException;
+import com.amazonaws.mturk.util.PropertiesClientConfig;
 
 
 public class DataCollection {
-
+	private RequesterService service;
 	
 	private QualificationRequirement acceptanceRate = new QualificationRequirement("000000000000000000L0", Comparator.GreaterThanOrEqualTo, 95, null, false);
 	private QualificationRequirement location = new QualificationRequirement("00000000000000000071", Comparator.EqualTo, null, new Locale("US"), false);
@@ -30,6 +35,11 @@ public class DataCollection {
 	/**
 	 * @param args
 	 */
+	
+	public DataCollection(){
+		service = new RequesterService(new PropertiesClientConfig());
+	}
+	
 	
 	public void getAssignmentsHIT(String hitId) throws IOException
 	{
@@ -46,18 +56,15 @@ public class DataCollection {
 				grammarHits.add(currentHIT);
 			} else if ( currentHIT.typeID.equals("20ASTLB3L0FBPWA8FU5JZEVE5SUJV7") ){
 				contentHits.add(currentHIT);
-				HITindex++;
 			} else if ( currentHIT.typeID.equals("20ASTLB3L0FBPWA8FU5JZEVE5SUJV7") ){
 				simplicityHits.add(currentHIT);
 			} else {
 				return;
 			}
 
-			for (Assignment answer: currentHIT.assignments ){
-				String workerID = answer.getWorkerId();
+			for (String answer: currentHIT.answers.keySet() ){
 //				Worker currentWorker = null;
 				boolean alreadyDocumentedWorker = false;
-				String answerText = answer.getAnswer();
 
 				// checks if we have already documented the worker
 //				for ( Worker i: workers ){
@@ -77,22 +84,11 @@ public class DataCollection {
 //				}
 			}
 
-			if (wordToSense != null){
-				//				answerOutput.println("The original target word:" + word);
-				//				answerOutput.println("The ideal substitution would be: " + wordToSense.get(word)[2]);
-			}
-
 			/* 
 			 * uses frequency counter to check for the word with the highest frequency and it prints out all words with frequencies >= three
 			 * otherwise prints out a list of all submissions and their frequencies. Also takes the most frequent word and records the normal word
 			 * and they frequent word for comparison.
 			 */
-			for ( String text: currentHIT.frequencyCounter.keySet() ){
-				int freq = currentHIT.frequencyCounter.get(text);
-				if ( freq == currentHIT.highestFreq ){
-					compareList.add(text.trim());
-				}
-			}
 
 		}
 		catch (ServiceException e) 
@@ -102,15 +98,20 @@ public class DataCollection {
 	}
 
 	// retrieves HITs from amazon and processes them
-	public void getHITs() throws IOException
+	public void getHITs(File hitIDs) throws IOException
 	{
 		try 
 		{
-			HIT[] HITs = service.getAllReviewableHITs(null);
+			BufferedReader hitReader = new BufferedReader(new InputStreamReader(new FileInputStream(hitIDs)));
+			String hitId = hitReader.readLine();
+			ArrayList<HIT> HITs = new ArrayList<HIT>();
+			while (hitId != null){
+				HITs.add(service.getHIT(hitId));
+				hitId = hitReader.readLine();
+			}
 			for ( HIT amazonHIT: HITs )
 			{
 				SentenceHIT currentHIT = new SentenceHIT(amazonHIT.getHITId());
-				ArrayList<String>  compareList = null;
 				System.out.println("Retrieved HIT: " + currentHIT.ID + " " + currentHIT.typeID );
 
 				//uses hittypeId to check what kind of hit we are looking at
@@ -118,19 +119,13 @@ public class DataCollection {
 					grammarHits.add(currentHIT);
 				} else if ( currentHIT.typeID.equals("20ASTLB3L0FBPWA8FU5JZEVE5SUJV7") ){
 					contentHits.add(currentHIT);
-					HITindex++;
 				} else if ( currentHIT.typeID.equals("20ASTLB3L0FBPWA8FU5JZEVE5SUJV7") ){
 					simplicityHits.add(currentHIT);
 				} else {
 					continue;
 				}
 
-				for (Assignment answer: currentHIT.assignments ){
-					String workerID = answer.getWorkerId();
-					Worker currentWorker = null;
-					boolean alreadyDocumentedWorker = false;
-					String answerText = answer.getAnswer();
-
+				
 					// checks if we have already documented the worker
 //					for ( Worker i: workers ){
 //						if ( i.workerId.equals(workerID) ){
@@ -147,17 +142,7 @@ public class DataCollection {
 //						workers.add(currentWorker);
 //						currentWorker.addAnswer(answerText, currentHIT.typeID, HITindex);
 //					}
-
-					for (String text: currentHIT.frequencyCounter.keySet())
-					{
-						int freq = currentHIT.frequencyCounter.get(text);
-						if (freq == currentHIT.highestFreq)
-						{
-							compareList.add(text.trim());
-						}
-					}
 				}
-			}
 		}
 		catch (ServiceException e) 
 		{
@@ -211,7 +196,7 @@ public class DataCollection {
 				if (args.length>1)
 					inputFile = new File(args[1]);
 				
-				app.getHITs();
+				app.getHITs(new File(args[0]));
 				
 				app.fillHitList(inputFile, 5);
 

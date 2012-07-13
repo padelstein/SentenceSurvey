@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -56,13 +56,20 @@ public class SentenceSurvey
 		input = in.readLine();
 		input = in.readLine();
 
-		while ( input != null )
+		int k = 0;
+		
+		while ( input != null && k < 5 )
 		{
 			String original = input;
+			original = original.toUpperCase().charAt(0) + original.substring(1);
 			String option1 = in.readLine();
+			option1 = option1.toUpperCase().charAt(0) + option1.substring(1);
 			String option2 = in.readLine();
+			option2 = option2.toUpperCase().charAt(0) + option2.substring(1);
 			String option3 = in.readLine();
+			option3 = option3.toUpperCase().charAt(0) + option3.substring(1);
 			String option4 = in.readLine();
+			option4 = option4.toUpperCase().charAt(0) + option4.substring(1);
 
 			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4);
 
@@ -72,6 +79,8 @@ public class SentenceSurvey
 			input = in.readLine();
 			input = in.readLine();
 			input = in.readLine();
+			
+			k++;
 		}
 
 	}
@@ -94,7 +103,7 @@ public class SentenceSurvey
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
-					inputHIT.originalSentence + "\t" + inputHIT.sentence1 + "\t" + inputHIT.sentence2 + "\t" + inputHIT.sentence3 + "\t" + inputHIT.sentence4, 
+					inputHIT.originalSentence, 
 					requirements, 
 					null
 			);
@@ -137,34 +146,39 @@ public class SentenceSurvey
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
-		q += "      Original Sentence: " + originalSentence + "</br>";
-		q += "		<div id=\"Sentence1\"></div>" + sentence1 + "</br>";
-		q += "		<div id=\"Sentence2\"></div>" + sentence2 + "</br>";
-		q += "		<div id=\"Sentence3\"></div>" + sentence3 + "</br>";
-		q += "		<div id=\"Sentence4\"></div>" + sentence4 + "</br>";
+		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
+		q += "		<b>Simplification 1:</b> <select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "<br/>";
+		q += "		<b>Simplification 2:</b> <select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "<br/>";
+		q += "		<b>Simplification 3:</b> <select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "<br/>";
+		q += "		<b>Simplification 4:</b> <select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "<br/>";
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";
 		q += "    <script type=\'text/javascript\'>";
-		q += "      if (document.getElementById(\"assignmentId\").value == \"ASSIGNMENT_ID_NOT_AVAILABLE\") {";
-		q += "        document.getElementById(\"submit_button\").disabled = true;";
-		q += "        document.getElementById(\"answer\").disabled = true; } ";
-		q += "      else {document.getElementById(\"submit_button\").disabled = false;";
-		q += " 				for(i=1; i<5; i++){";
-		q += "					fillDropDown(\"Sentence\" + i);";
-		q += "				}";
+		q += "		function fillDropDown(inputID){";
+		q += "			document.getElementById(inputID).innerHTML = \"<option value=\\\"1\\\">1</option><option value=\\\"2\\\">2</option>" +
+		"<option value=\\\"3\\\">3</option><option value=\\\"4\\\">4</option><option value=\\\"5\\\">5</option><option value=\\\"null\\\" selected=\\\"true\\\">Select Rating</option>\";";
 		q += "		}";
+
+		q += " 		for(var j=1; j<5; j++){";
+		q += "			fillDropDown(\"Sentence\" + j);";
+		q += "		}";
+		q += "      if (document.getElementById(\"assignmentId\").value == \"ASSIGNMENT_ID_NOT_AVAILABLE\") {";
+		q += "        	document.getElementById(\"submit_button\").disabled = true;";
+		q += "			for(var k=1; k<5; k++){";
+		q += " 				document.getElementById(\"Sentence\" + k).disabled = true;}";
+		q += "			}";
+		q += "      else {document.getElementById(\"submit_button\").disabled = false;";
+		q += "		}";
+		
 		q += "		function validateForm(){";
-		q += "			for (i=1; i<5; i++){";
+		q += "			for (var i=1; i<5; i++){";
 		q += "				if (document.getElementById(\"Sentence\" + i).value == \"null\"){";
 		q += " 					alert(\"Please rate all sentences.\");";
 		q += " 					return false;";
 		q += "				}";
 		q += " 			}";
 		q += " 		}";
-		q += "		function fillDropDown(inputID){";
-		q += "			document.getElementById(inputID).innerHTML = \"<select name=\"rating\"/><option value=\"1\">1</option><option value=\"2\">2</option>" +
-		"<option value=\"3\">3</option><option value=\"4\">4</option><option value=\"5\">5</option><option value=\"null\">Select Rating</option></select>\";";
 		q += "    </script>";
 		q += "  </body>";
 		q += "</html>]]>";
@@ -193,7 +207,7 @@ public class SentenceSurvey
 				app.readFile(inputFile);
 				for (SentenceHIT hit : app.HITs)
 				{
-					app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar");
+					app.createHIT(hit, "Rate These Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically");
 				}
 
 			} catch (IOException e)

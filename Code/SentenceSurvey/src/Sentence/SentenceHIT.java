@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.util.HashMap;
 import com.amazonaws.mturk.requester.HIT;
