@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
