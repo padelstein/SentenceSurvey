@@ -1,8 +1,10 @@
 package Sentence;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -13,7 +15,10 @@ import com.amazonaws.mturk.requester.Comparator;
 import com.amazonaws.mturk.requester.HIT;
 import com.amazonaws.mturk.requester.Locale;
 import com.amazonaws.mturk.requester.QualificationRequirement;
+import com.amazonaws.mturk.service.axis.AWSService;
+import com.amazonaws.mturk.service.axis.RequesterService;
 import com.amazonaws.mturk.service.exception.ServiceException;
+import com.amazonaws.mturk.util.PropertiesClientConfig;
 
 
 public class DataCollection {

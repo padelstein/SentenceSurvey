@@ -146,11 +146,19 @@ public class SentenceSurvey
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
+<<<<<<< HEAD
+		q += "      Original Sentence: " + originalSentence + "<br />";
+		q += "		<div id=\"Sentence1\"></div>" + sentence1 + "<br />";
+		q += "		<div id=\"Sentence2\"></div>" + sentence2 + "<br />";
+		q += "		<div id=\"Sentence3\"></div>" + sentence3 + "<br />";
+		q += "		<div id=\"Sentence4\"></div>" + sentence4 + "<br />";
+=======
 		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
 		q += "		<b>Simplification 1:</b> <select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "<br/>";
 		q += "		<b>Simplification 2:</b> <select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "<br/>";
 		q += "		<b>Simplification 3:</b> <select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "<br/>";
 		q += "		<b>Simplification 4:</b> <select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "<br/>";
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";

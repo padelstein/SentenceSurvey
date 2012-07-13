@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.*;
 import java.util.Date;
@@ -60,10 +60,14 @@ public class SentenceSurvey
 		
 		while ( input != null && k < 5 )
 		{
+<<<<<<< HEAD
 			String number = in.readLine(); // the number in the data file corresponding to the HIT
-			in.readLine();
+			input = in.readLine();
 			String original = in.readLine();
+=======
+			String original = input;
 			original = original.toUpperCase().charAt(0) + original.substring(1);
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 			String option1 = in.readLine();
 			option1 = option1.toUpperCase().charAt(0) + option1.substring(1);
 			String option2 = in.readLine();
@@ -78,7 +82,14 @@ public class SentenceSurvey
 			HITs.add(newHIT);
 
 			input = in.readLine();
+<<<<<<< HEAD
+=======
+			input = in.readLine();
+			input = in.readLine();
+			input = in.readLine();
+			
 			k++;
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 		}
 
 	}
@@ -100,7 +111,11 @@ public class SentenceSurvey
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
+<<<<<<< HEAD
 					inputHIT.dataID,
+=======
+					inputHIT.originalSentence, 
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 					requirements, 
 					null
 			);
@@ -146,11 +161,19 @@ public class SentenceSurvey
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
+<<<<<<< HEAD
+		q += "      Original Sentence: " + originalSentence + "<br />";
+		q += "		<div id=\"Sentence1\"></div>" + sentence1 + "<br />";
+		q += "		<div id=\"Sentence2\"></div>" + sentence2 + "<br />";
+		q += "		<div id=\"Sentence3\"></div>" + sentence3 + "<br />";
+		q += "		<div id=\"Sentence4\"></div>" + sentence4 + "<br />";
+=======
 		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
 		q += "		<b>Simplification 1:</b> <select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "<br/>";
 		q += "		<b>Simplification 2:</b> <select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "<br/>";
 		q += "		<b>Simplification 3:</b> <select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "<br/>";
 		q += "		<b>Simplification 4:</b> <select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "<br/>";
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";
@@ -218,6 +241,7 @@ public class SentenceSurvey
 				// creates grammar, content, and simplicity HITs and add their IDs to the appropriate file
 				for (SentenceHIT hit : app.HITs)
 				{
+<<<<<<< HEAD
 					grammarHITids.println
 					(
 						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar")
@@ -230,7 +254,9 @@ public class SentenceSurvey
 					(
 						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "simplicity")
 					);
-
+=======
+					app.createHIT(hit, "Rate These Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically");
+>>>>>>> 454475a1bc5fa594cd83457e3effbbf8028d2477
 				}
 				
 				// close the printWriters
