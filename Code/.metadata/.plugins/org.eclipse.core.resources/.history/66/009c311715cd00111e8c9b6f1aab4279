@@ -1,11 +1,25 @@
 package Sentence;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Map;
+
+import com.amazonaws.mturk.requester.Assignment;
+import com.amazonaws.mturk.requester.Comparator;
+import com.amazonaws.mturk.requester.HIT;
+import com.amazonaws.mturk.requester.Locale;
+import com.amazonaws.mturk.requester.QualificationRequirement;
+import com.amazonaws.mturk.service.axis.AWSService;
+import com.amazonaws.mturk.service.axis.RequesterService;
+import com.amazonaws.mturk.service.exception.ServiceException;
+import com.amazonaws.mturk.util.PropertiesClientConfig;
+
 
 public class DataCollection {
 
@@ -13,16 +27,13 @@ public class DataCollection {
 	ArrayList<SentenceHIT> contentHITs = new ArrayList<SentenceHIT>();
 	ArrayList<SentenceHIT> simplicityHITs = new ArrayList<SentenceHIT>();
 
-	// primes the HITs with original data then updates them with answers from mTurk
 	public void fillHitList(File dataFile, File grammarIDFile, File contentIDFile, File simplicityIDFile) throws IOException
 	{
-		// initialize file readers
 		BufferedReader dataReader = new BufferedReader(new InputStreamReader(new FileInputStream( dataFile ) ) );
 		BufferedReader grammarIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( grammarIDFile ) ) );
 		BufferedReader contentIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( contentIDFile ) ) );
 		BufferedReader simplicityIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( simplicityIDFile ) ) );
 
-		// prime the readers
 		String data = dataReader.readLine();
 		String grammarID = grammarIDReader.readLine();
 		String contentID = contentIDReader.readLine();
@@ -38,19 +49,11 @@ public class DataCollection {
 			String option3 = dataReader.readLine();
 			String option4 = dataReader.readLine();
 
-			// instantiate the HITs
-			SentenceHIT newGrammarHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
-			SentenceHIT newContentHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
-			SentenceHIT newSimplicityHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
-			
-			// update them with answers from amazon
-			newGrammarHIT.updateWithAmazon(grammarID);
-			newContentHIT.updateWithAmazon(contentID);
-			newSimplicityHIT.updateWithAmazon(simplicityID);
+			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
 
-			grammarHITs.add( newGrammarHIT );
-			contentHITs.add( newContentHIT );
-			simplicityHITs.add( newSimplicityHIT );
+			grammarHITs.add(newHIT);
+			contentHITs.add(newHIT);
+			simplicityHITs.add(newHIT);
 
 			data = dataReader.readLine();
 			grammarID = grammarIDReader.readLine();
@@ -77,8 +80,6 @@ public class DataCollection {
 					simplicityIDFile = new File(args[3]);
 				}
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
-				
-				
 
 			} catch (IOException e){
 

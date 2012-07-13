@@ -220,15 +220,15 @@ public class SentenceSurvey
 				{
 					grammarHITids.println
 					(
-						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically")
+						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "grammar")
 					);
 					contentHITids.println
 					(
-						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "Content")
+						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "content")
 					);
 					simplicityHITids.println
 					(
-						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "Simplicity")
+						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "simplicity")
 					);
 
 				}

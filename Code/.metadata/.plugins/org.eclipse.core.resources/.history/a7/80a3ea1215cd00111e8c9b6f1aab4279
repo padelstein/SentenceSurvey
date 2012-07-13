@@ -1,8 +1,6 @@
 package Sentence;
 
 import java.util.HashMap;
-
-import com.amazonaws.mturk.requester.Assignment;
 import com.amazonaws.mturk.requester.HIT;
 import com.amazonaws.mturk.service.axis.RequesterService;
 import com.amazonaws.mturk.util.PropertiesClientConfig;
@@ -46,10 +44,10 @@ public class SentenceHIT
 	}
 
 	// constructor for retrieval from mTurk
-	public void updateWithAmazon(String HITid)
+	public void updateWithAmazon(HIT serviceHIT)
 	{
 		
-		amazonHIT = service.getHIT(HITid);
+		amazonHIT = serviceHIT;
 		typeID = amazonHIT.getHITTypeId();
 		ID = amazonHIT.getHITId();
 		
@@ -58,19 +56,8 @@ public class SentenceHIT
 	
 	public void calcAnswers()
 	{
-		Assignment[] assignments = service.getAllAssignmentsForHIT(ID);
-		
-		for ( Assignment ass : assignments)
-		{
-			int textStart = ass.getAnswer().indexOf("<FreeText>");
-			int textEnd = ass.getAnswer().indexOf("</FreeText>");
-			String[] answerText = ass.getAnswer().substring(textStart + 10, textEnd).toLowerCase().split("|");
-			
-			addAnswer(sentence1, Integer.parseInt(answerText[0]) );
-			addAnswer(sentence2, Integer.parseInt(answerText[1]) );
-			addAnswer(sentence3, Integer.parseInt(answerText[2]) );
-			addAnswer(sentence4, Integer.parseInt(answerText[3]) );
-		}
+		// TO DO
+		// need to know how assignments are going to come in formatted from mTurk
 	}
 	
 	public void addAnswer(String sentence, Integer score)
