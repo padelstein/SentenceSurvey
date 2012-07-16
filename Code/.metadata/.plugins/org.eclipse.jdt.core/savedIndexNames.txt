@@ -42,7 +42,6 @@ INDEX VERSION 1.126+/home/padelstein/SentenceSurvey/Code/.metadata/.plugins/org.
 983170826.index
 274100922.index
 4152653781.index
-4077160953.index
 690271857.index
 2513435335.index
 1168898244.index

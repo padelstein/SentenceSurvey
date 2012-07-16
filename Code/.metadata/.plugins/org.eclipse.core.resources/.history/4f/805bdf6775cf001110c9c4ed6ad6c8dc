@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.*;
 import java.util.Date;
@@ -32,14 +32,15 @@ public class SentenceSurvey
 	"and 5 perfectly grammatical.";
 	private static String contextDescription = "Each sentence below is a candidate simplification for the original " +
 	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
-	"based on how well the content of the <b>original sentence</b> is preserved in " +
+	"based on how well the content of the original sentence is preserved in " +
 	"the candidate sentence.  A 1 indicates that none of the key ideas were " +
 	"preserved while a 5 indicates that all of the key ideas were " +
 	"preserved.";
-	private static String simplicityDescription = "Rate each sentence with a score from 1 to 5 " +
-	"based on how simple the sentence is. A good simplification " +
+	private static String simplicityDescription = "Each sentence below is a candidate simplification for the original " +
+	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
+	"based on how simple the candidate sentence.  A good simplification " +
 	"should preserve the main ideas, but make the content understandable to " +
-	"a broader audience.  A 1 indicates a complex sentence, while a 5 indicates a simple sentence.";
+	"a broader audience.";
 
 	// constructor
 	public SentenceSurvey()
@@ -57,34 +58,19 @@ public class SentenceSurvey
 
 		int k = 0;
 		
-		while ( input != null && k < 20 )
+		while ( input != null && k < 5 )
 		{
 			String number = in.readLine(); // the number in the data file corresponding to the HIT
 			in.readLine();
 			String original = in.readLine();
-			int period = original.indexOf(".");
-			if (period<original.length()-1)
-				original = original.substring(0, period+2) + original.toUpperCase().charAt(period+2) + original.substring(period+3);
 			original = original.toUpperCase().charAt(0) + original.substring(1);
 			String option1 = in.readLine();
-			period = option1.indexOf(".");
-			if (period<option1.length()-1)
-				option1 = option1.substring(0, period+2) + option1.toUpperCase().charAt(period+2) + option1.substring(period+3);
 			option1 = option1.toUpperCase().charAt(0) + option1.substring(1);
 			String option2 = in.readLine();
-			period = option2.indexOf(".");
-			if (period<option2.length()-1)
-				option2 = option2.substring(0, period+2) + option2.toUpperCase().charAt(period+2) + option2.substring(period+3);
 			option2 = option2.toUpperCase().charAt(0) + option2.substring(1);
 			String option3 = in.readLine();
-			period = option3.indexOf(".");
-			if (period<option3.length()-1)
-				option3 = option3.substring(0, period+2) + option3.toUpperCase().charAt(period+2) + option3.substring(period+3);
 			option3 = option3.toUpperCase().charAt(0) + option3.substring(1);
 			String option4 = in.readLine();
-			period = option4.indexOf(".");
-			if (period<option4.length()-1)
-				option4 = option4.substring(0, period+2) + option4.toUpperCase().charAt(period+2) + option4.substring(period+3);
 			option4 = option4.toUpperCase().charAt(0) + option4.substring(1);
 
 			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
@@ -109,13 +95,13 @@ public class SentenceSurvey
 					description,
 					type,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
-					00.04,
+					00.05,
 					(long)300,
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
 					inputHIT.dataID,
-					requirements,
+					requirements, 
 					null
 			);
 
@@ -160,13 +146,11 @@ public class SentenceSurvey
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
-		if (hitType.equals("Content"))
-			q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
-		
-		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "</div>";
-		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "</div>";
-		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "</div>";
-		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "</div>";
+		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
+		q += "		<b>Simplification 1:</b> <select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "<br/>";
+		q += "		<b>Simplification 2:</b> <select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "<br/>";
+		q += "		<b>Simplification 3:</b> <select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "<br/>";
+		q += "		<b>Simplification 4:</b> <select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "<br/>";
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";
@@ -226,9 +210,9 @@ public class SentenceSurvey
 				DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-ddHH:mm:ss");
 				Date date = new Date();
 				
-				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "grammarHITids" + dateFormat.format(date) )));
-				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "contentHITids" + dateFormat.format(date) )));
-				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "simplicityHITids" + dateFormat.format(date) )));
+				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File( "grammarHITids" + dateFormat.format(date) )));
+				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File( "contentHITids" + dateFormat.format(date) )));
+				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File( "simplicityHITids" + dateFormat.format(date) )));
 				
 				
 				// creates grammar, content, and simplicity HITs and add their IDs to the appropriate file
@@ -236,16 +220,16 @@ public class SentenceSurvey
 				{
 					grammarHITids.println
 					(
-						app.createHIT(hit, "Rate Sentence Grammatically", "Rate the following sentences based on grammar", "Grammatically")
+						app.createHIT(hit, "Rate These Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically")
 					);
-					contentHITids.println
-					(
-						app.createHIT(hit, "Rate Sentence Simplifications", "Rate the following sentences based on content", "Content")
-					);
-					simplicityHITids.println
-					(
-						app.createHIT(hit, "Rate How Simple the Sentence is", "Rate the following sentences based on simplicity", "Simplicity")
-					);
+//					contentHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "Content")
+//					);
+//					simplicityHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "Simplicity")
+//					);
 
 				}
 				
@@ -265,3 +249,21 @@ public class SentenceSurvey
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
