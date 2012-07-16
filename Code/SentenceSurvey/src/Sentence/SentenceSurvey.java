@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.*;
 import java.util.Date;
@@ -220,16 +220,16 @@ public class SentenceSurvey
 				{
 					grammarHITids.println
 					(
-						app.createHIT(hit, "Rate Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically")
+						app.createHIT(hit, "Rate These Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically")
 					);
-					contentHITids.println
-					(
-						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "Content")
-					);
-					simplicityHITids.println
-					(
-						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "Simplicity")
-					);
+//					contentHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "Content")
+//					);
+//					simplicityHITids.println
+//					(
+//						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "Simplicity")
+//					);
 
 				}
 				
