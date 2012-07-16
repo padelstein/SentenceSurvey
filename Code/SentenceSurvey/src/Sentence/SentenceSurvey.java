@@ -32,15 +32,14 @@ public class SentenceSurvey
 	"and 5 perfectly grammatical.";
 	private static String contextDescription = "Each sentence below is a candidate simplification for the original " +
 	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
-	"based on how well the content of the original sentence is preserved in " +
+	"based on how well the content of the <b>original sentence</b> is preserved in " +
 	"the candidate sentence.  A 1 indicates that none of the key ideas were " +
 	"preserved while a 5 indicates that all of the key ideas were " +
 	"preserved.";
-	private static String simplicityDescription = "Each sentence below is a candidate simplification for the original " +
-	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
-	"based on how simple the candidate sentence.  A good simplification " +
+	private static String simplicityDescription = "Rate each sentence with a score from 1 to 5 " +
+	"based on how simple the sentence is. A good simplification " +
 	"should preserve the main ideas, but make the content understandable to " +
-	"a broader audience.";
+	"a broader audience.  A 1 indicates a complex sentence, while a 5 indicates a simple sentence.";
 
 	// constructor
 	public SentenceSurvey()
@@ -95,13 +94,13 @@ public class SentenceSurvey
 					description,
 					type,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
-					00.05,
+					00.04,
 					(long)300,
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
 					inputHIT.dataID,
-					requirements, 
+					requirements,
 					null
 			);
 
@@ -146,7 +145,9 @@ public class SentenceSurvey
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
-		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
+		if (hitType.equals("Content"))
+			q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
+		
 		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "</div>";
 		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "</div>";
 		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "</div>";
@@ -220,16 +221,16 @@ public class SentenceSurvey
 				{
 					grammarHITids.println
 					(
-						app.createHIT(hit, "Rate These Sentences on Grammar", "Rate the following sentences based on grammar", "Grammatically")
+						app.createHIT(hit, "Rate Sentence Grammatically", "Rate the following sentences based on grammar", "Grammatically")
 					);
-//					contentHITids.println
-//					(
-//						app.createHIT(hit, "Rate Sentences on Content", "Rate the following sentences based on content", "Content")
-//					);
-//					simplicityHITids.println
-//					(
-//						app.createHIT(hit, "Rate Sentences on Simplicity", "Rate the following sentences based on simplicity", "Simplicity")
-//					);
+					contentHITids.println
+					(
+						app.createHIT(hit, "Rate Sentence Simplifications", "Rate the following sentences based on content", "Content")
+					);
+					simplicityHITids.println
+					(
+						app.createHIT(hit, "Rate How Simple the Sentence is", "Rate the following sentences based on simplicity", "Simplicity")
+					);
 
 				}
 				
@@ -249,21 +250,3 @@ public class SentenceSurvey
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
