@@ -57,19 +57,34 @@ public class SentenceSurvey
 
 		int k = 0;
 		
-		while ( input != null && k < 5 )
+		while ( input != null && k < 20 )
 		{
 			String number = in.readLine(); // the number in the data file corresponding to the HIT
 			in.readLine();
 			String original = in.readLine();
+			int period = original.indexOf(".");
+			if (period<original.length()-1)
+				original = original.substring(0, period+2) + original.toUpperCase().charAt(period+2) + original.substring(period+3);
 			original = original.toUpperCase().charAt(0) + original.substring(1);
 			String option1 = in.readLine();
+			period = option1.indexOf(".");
+			if (period<option1.length()-1)
+				option1 = option1.substring(0, period+2) + option1.toUpperCase().charAt(period+2) + option1.substring(period+3);
 			option1 = option1.toUpperCase().charAt(0) + option1.substring(1);
 			String option2 = in.readLine();
+			period = option2.indexOf(".");
+			if (period<option2.length()-1)
+				option2 = option2.substring(0, period+2) + option2.toUpperCase().charAt(period+2) + option2.substring(period+3);
 			option2 = option2.toUpperCase().charAt(0) + option2.substring(1);
 			String option3 = in.readLine();
+			period = option3.indexOf(".");
+			if (period<option3.length()-1)
+				option3 = option3.substring(0, period+2) + option3.toUpperCase().charAt(period+2) + option3.substring(period+3);
 			option3 = option3.toUpperCase().charAt(0) + option3.substring(1);
 			String option4 = in.readLine();
+			period = option4.indexOf(".");
+			if (period<option4.length()-1)
+				option4 = option4.substring(0, period+2) + option4.toUpperCase().charAt(period+2) + option4.substring(period+3);
 			option4 = option4.toUpperCase().charAt(0) + option4.substring(1);
 
 			SentenceHIT newHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
@@ -211,9 +226,9 @@ public class SentenceSurvey
 				DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-ddHH:mm:ss");
 				Date date = new Date();
 				
-				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File( "grammarHITids" + dateFormat.format(date) )));
-				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File( "contentHITids" + dateFormat.format(date) )));
-				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File( "simplicityHITids" + dateFormat.format(date) )));
+				PrintWriter grammarHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "grammarHITids" + dateFormat.format(date) )));
+				PrintWriter contentHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "contentHITids" + dateFormat.format(date) )));
+				PrintWriter simplicityHITids = new PrintWriter(new FileOutputStream(new File(inputFile.getName() + "simplicityHITids" + dateFormat.format(date) )));
 				
 				
 				// creates grammar, content, and simplicity HITs and add their IDs to the appropriate file
