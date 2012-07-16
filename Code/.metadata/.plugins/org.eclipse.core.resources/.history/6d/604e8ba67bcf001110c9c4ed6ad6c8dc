@@ -30,7 +30,7 @@ public class DataCollection {
 		BufferedReader simplicityIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( simplicityIDFile ) ) );
 
 		// prime the readers
-		dataReader.readLine(); // reads the line of hypens
+		String data = dataReader.readLine();
 		String grammarID = grammarIDReader.readLine();
 		String contentID = contentIDReader.readLine();
 		String simplicityID = simplicityIDReader.readLine();
@@ -39,7 +39,7 @@ public class DataCollection {
 		for ( int i = 0 ; i < 5 ; i++ )
 		{
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
-			dataReader.readLine(); // reads the word "original"
+			data = dataReader.readLine();
 			String original = dataReader.readLine();
 			String option1 = dataReader.readLine();
 			String option2 = dataReader.readLine();
@@ -61,7 +61,7 @@ public class DataCollection {
 			contentHITs.add( newContentHIT );
 			simplicityHITs.add( newSimplicityHIT );
 
-			dataReader.readLine();
+			data = dataReader.readLine();
 			grammarID = grammarIDReader.readLine();
 			contentID = contentIDReader.readLine();
 			simplicityID = simplicityIDReader.readLine();
