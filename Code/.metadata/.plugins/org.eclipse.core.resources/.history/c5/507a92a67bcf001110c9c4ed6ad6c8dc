@@ -82,7 +82,7 @@ public class SentenceSurvey
 
 	}
 
-	// creates an individual HIT and returns the ID
+	// creates an individual HIT
 	public String createHIT(SentenceHIT inputHIT, String title, String description, String type) throws FileNotFoundException
 	{
 		try 

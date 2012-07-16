@@ -82,7 +82,7 @@ public class SentenceSurvey
 
 	}
 
-	// creates an individual HIT and returns the ID
+	// creates an individual HIT
 	public String createHIT(SentenceHIT inputHIT, String title, String description, String type) throws FileNotFoundException
 	{
 		try 
@@ -95,7 +95,7 @@ public class SentenceSurvey
 					type,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
 					00.04,
-					(long)600,
+					(long)300,
 					(long)432000, 
 					(long)172800, 
 					numAssignments,
