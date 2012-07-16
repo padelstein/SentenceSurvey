@@ -42,7 +42,7 @@ public class SentenceHIT
 		answers.put( sentence3, new FrequencyCounter<Integer>() );
 		answers.put( sentence4, new FrequencyCounter<Integer>() );	
 		
-		calcAnswers();
+//		calcAnswers();
 	}
 
 	// constructor for retrieval from mTurk

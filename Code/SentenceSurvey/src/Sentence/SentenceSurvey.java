@@ -147,10 +147,10 @@ public class SentenceSurvey
 		q += "      <br/><form name='mturk_form' method='post' id='mturk_form' onsubmit=\"return validateForm()\" action='https://www.mturk.com/mturk/externalSubmit' style=\"padding-top:10px\">";
 		q += "      <input type=\'hidden\' value=\'\' name =\'assignmentId\' id=\'assignmentId\'/>";
 		q += "      <b>Original Sentence:</b> " + originalSentence + "<br/><br/>";
-		q += "		<b>Simplification 1:</b> <select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "<br/>";
-		q += "		<b>Simplification 2:</b> <select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "<br/>";
-		q += "		<b>Simplification 3:</b> <select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "<br/>";
-		q += "		<b>Simplification 4:</b> <select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "<br/>";
+		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence1\" name=\"rating\"></select>  " + sentence1 + "</div>";
+		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence2\" name=\"rating\"></select>  " + sentence2 + "</div>";
+		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence3\" name=\"rating\"></select>  " + sentence3 + "</div>";
+		q += "		<div style=\"padding-bottom:5px\"><select id=\"Sentence4\" name=\"rating\"></select>  " + sentence4 + "</div>";
 		q += "      <input type=\"submit\" value=\"Submit\" id=\"submit_button\"/>";
 		q += "      </form>";
 		q += "    <script language='Javascript'>turkSetAssignmentID();</script>";
