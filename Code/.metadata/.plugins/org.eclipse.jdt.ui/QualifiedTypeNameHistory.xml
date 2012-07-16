@@ -9,10 +9,14 @@
 <fullyQualifiedTypeName name="com.amazonaws.mturk.service.exception.ServiceException"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.HIT"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-<fullyQualifiedTypeName name="com.amazonaws.mturk.service.axis.RequesterService"/>
 <fullyQualifiedTypeName name="com.amazonaws.mturk.util.PropertiesClientConfig"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.service.axis.RequesterService"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.HIT"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.Assignment"/>
 </qualifiedTypeNameHistroy>

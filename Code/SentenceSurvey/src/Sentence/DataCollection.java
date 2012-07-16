@@ -9,10 +9,17 @@ import java.util.ArrayList;
 
 public class DataCollection {
 
-	ArrayList<SentenceHIT> grammarHITs = new ArrayList<SentenceHIT>();
-	ArrayList<SentenceHIT> contentHITs = new ArrayList<SentenceHIT>();
-	ArrayList<SentenceHIT> simplicityHITs = new ArrayList<SentenceHIT>();
+	public ArrayList<SentenceHIT> grammarHITs;
+	public ArrayList<SentenceHIT> contentHITs;
+	public ArrayList<SentenceHIT> simplicityHITs;
 
+	public DataCollection()
+	{
+		grammarHITs = new ArrayList<SentenceHIT>();
+		contentHITs = new ArrayList<SentenceHIT>();
+		simplicityHITs = new ArrayList<SentenceHIT>();
+	}
+	
 	// primes the HITs with original data then updates them with answers from mTurk
 	public void fillHitList(File dataFile, File grammarIDFile, File contentIDFile, File simplicityIDFile) throws IOException
 	{
@@ -28,7 +35,8 @@ public class DataCollection {
 		String contentID = contentIDReader.readLine();
 		String simplicityID = simplicityIDReader.readLine();
 
-		while ( data != null )
+//		while ( data != null )
+		for ( int i = 0 ; i < 5 ; i++ )
 		{
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
 			data = dataReader.readLine();
@@ -42,6 +50,7 @@ public class DataCollection {
 			SentenceHIT newGrammarHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
 			SentenceHIT newContentHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
 			SentenceHIT newSimplicityHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
+			System.out.println("created HITs");
 			
 			// update them with answers from amazon
 			newGrammarHIT.updateWithAmazon(grammarID);
@@ -69,19 +78,32 @@ public class DataCollection {
 			File simplicityIDFile = null;
 
 			try {
-				if (args.length>1)
+				if (args.length == 4)
 				{
 					dataFile = new File(args[0]);
 					grammarIDFile = new File(args[1]);
 					contentIDFile = new File(args[2]);
 					simplicityIDFile = new File(args[3]);
-				}
+				} 
+				
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
 				
+				for (SentenceHIT hit : app.grammarHITs)
+				{
+					System.out.println( hit.toString() );
+				}
+				for (SentenceHIT hit : app.contentHITs)
+				{
+					System.out.println( hit.toString() );
+				}
+				for (SentenceHIT hit : app.simplicityHITs)
+				{
+					System.out.println( hit.toString() );
+				}
 				
 
 			} catch (IOException e){
-
+				System.err.println(e.getLocalizedMessage());
 			}
 		}
 	}

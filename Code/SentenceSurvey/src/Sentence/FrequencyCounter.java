@@ -3,14 +3,14 @@ package Sentence;
 import java.io.PrintWriter;
 import java.util.HashMap;
 
-public class FrequencyCounter<K>
+public class FrequencyCounter
 	{
-		public HashMap<K, Double> frequency = new HashMap<K, Double>();
+		public HashMap<Double, Double> frequency = new HashMap<Double, Double>();
 		public double samples = 0;
 		public double mean = 0;
 		public double sd = 0;
 		
-		public void add(K key)
+		public void add(Double key)
 		{
 			if (frequency.containsKey(key)){
 				frequency.put(key, frequency.get(key) + 1);
@@ -22,13 +22,16 @@ public class FrequencyCounter<K>
 		
 		public void calcStats()
 		{
-			for (K key : frequency.keySet() )
+			mean = 0;
+			sd = 0;
+			
+			for (Double key : frequency.keySet() )
 			{
 				frequency.put(key, frequency.get(key)/samples);
-				mean += (Double)key * frequency.get(key);
+				mean += key * frequency.get(key);
 			}
 			// calculating standard deviations
-			for (K key : frequency.keySet() )
+			for (Double key : frequency.keySet() )
 			{
 				sd += frequency.get(key) * Math.pow((Double)key - mean, 2);
 			}
@@ -37,7 +40,7 @@ public class FrequencyCounter<K>
 	
 		public void printCSV(PrintWriter out)
 		{
-			for ( K key : frequency.keySet() )
+			for ( Double key : frequency.keySet() )
 			{
 				out.printf(key + ", %.8f", frequency.get(key) );
 				out.println();

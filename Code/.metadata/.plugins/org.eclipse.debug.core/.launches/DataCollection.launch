@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/SentenceSurvey/src/Sentence/DataCollection.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Sentence.DataCollection"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="//home/padelstein/SentenceSurvey/Data/7.12.12.data.txt &#10;//home/padelstein/SentenceSurvey/Code/SentenceSurvey/grammarHITids2012-07-1611:21:01 &#10;//home/padelstein/SentenceSurvey/Code/SentenceSurvey/contentHITids2012-07-1611:21:01 &#10;//home/padelstein/SentenceSurvey/Code/SentenceSurvey/simplicityHITids2012-07-1611:21:01"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SentenceSurvey"/>
+</launchConfiguration>
