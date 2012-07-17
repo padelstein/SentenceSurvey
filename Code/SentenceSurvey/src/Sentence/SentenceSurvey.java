@@ -165,6 +165,7 @@ public class SentenceSurvey
 		q += "  </head>";
 		q += "	<body>";
 		q += "		<u><b><span style=\"font-size:25px;\">Instructions:</span></b></u><br /><br />";
+		q += "		This HIT is part of a research study and we do recognize that the scoring is partially subjective. ";
 		q += description;		
 		q += "		<hr />";
 		q += "		<br /><u><b><span style=\"font-size:25px;\">Task:</span></b></u><br />";
