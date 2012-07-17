@@ -36,7 +36,7 @@ public class DataCollection {
 		String simplicityID = simplicityIDReader.readLine();
 
 //		while ( data != null )
-		for ( int i = 0 ; i < 20 ; i++ )
+		for ( int i = 0 ; i < 5 ; i++ )
 		{
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
 			dataReader.readLine(); // reads the word "original"
@@ -56,11 +56,6 @@ public class DataCollection {
 			newGrammarHIT.updateWithAmazon(grammarID);
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
-			
-			newGrammarHIT.approveAllAssignments();
-			newContentHIT.approveAllAssignments();
-			newSimplicityHIT.approveAllAssignments();
-			
 
 			grammarHITs.add( newGrammarHIT );
 			contentHITs.add( newContentHIT );

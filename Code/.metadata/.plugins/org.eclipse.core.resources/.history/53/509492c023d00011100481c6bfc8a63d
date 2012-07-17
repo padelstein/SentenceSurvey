@@ -98,16 +98,6 @@ public class SentenceHIT
 		}
 	}
 	
-	public void approveAllAssignments()
-	{
-		Assignment[] assignments = service.getAllSubmittedAssignmentsForHIT(ID);
-		
-		for ( Assignment ass : assignments )
-		{
-			service.approveAssignment(ass.getAssignmentId(), null);
-		}
-	}
-	
 	public String toString()
 	{
 		return "Original : " + originalSentence

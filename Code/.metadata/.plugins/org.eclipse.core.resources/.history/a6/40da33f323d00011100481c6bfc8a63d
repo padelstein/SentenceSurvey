@@ -56,11 +56,6 @@ public class DataCollection {
 			newGrammarHIT.updateWithAmazon(grammarID);
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
-			
-			newGrammarHIT.approveAllAssignments();
-			newContentHIT.approveAllAssignments();
-			newSimplicityHIT.approveAllAssignments();
-			
 
 			grammarHITs.add( newGrammarHIT );
 			contentHITs.add( newContentHIT );

@@ -102,7 +102,7 @@ public class SentenceHIT
 	{
 		Assignment[] assignments = service.getAllSubmittedAssignmentsForHIT(ID);
 		
-		for ( Assignment ass : assignments )
+		for ( Assignment ass : assignments)
 		{
 			service.approveAssignment(ass.getAssignmentId(), null);
 		}
