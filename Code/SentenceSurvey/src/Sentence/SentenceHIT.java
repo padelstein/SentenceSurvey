@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import com.amazonaws.mturk.requester.Assignment;
 import com.amazonaws.mturk.requester.HIT;
@@ -106,6 +106,11 @@ public class SentenceHIT
 		{
 			service.approveAssignment(ass.getAssignmentId(), null);
 		}
+	}
+	
+	public void extend(int assInc, int durationInc)
+	{
+		service.extendHIT(ID, assInc, (long) durationInc);
 	}
 	
 	public String toString()

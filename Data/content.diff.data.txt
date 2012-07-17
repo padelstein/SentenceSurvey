@@ -1,0 +1,101 @@
+----------Content diff Output-------------
+Original : written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was tōkaidō yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in &lt;NUM&gt; by tsuruya nanboku iv as it was the yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .	3.0	3.0	2.0	4.0	5.0	
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was line yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .	3.0	5.0	5.0	5.0	5.0	
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was t kaid yotsuya kaidan . is now generally shortened , and loosely translates as ghost story of yotsuya .	4.0	5.0	5.0	5.0	5.0	 
+its original title was tōkaidō yotsuya kaidan .	2.0	2.0	1.0	1.0	5.0	
+Original : in week &lt;NUM&gt; , leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .
+in its leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .	3.0	2.0	4.0	4.0	5.0	
+since jay-z ' leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .	2.0	1.0	4.0	4.0	5.0	
+in week &lt;NUM&gt; , leinart had a shoulder injury against the san francisco 49ers , so warner was able to play for the first time since week &lt;NUM&gt; .	3.0	4.0	5.0	5.0	5.0	 
+in week &lt;NUM&gt; , leinart went down with a shoulder injury against the &lt;NUM&gt; , forcing warner to see his first action since week &lt;NUM&gt; .	4.0	4.0	5.0	5.0	5.0	
+Original : the gambia national football team , nicknamed the scorpions , is the national team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .
+the gambia national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	4.0	5.0	5.0	5.0	5.0	
+the gambia national football team scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	3.0	3.0	4.0	5.0	5.0	
+gambia national football team is the national football team of gambia .	2.0	2.0	2.0	1.0	5.0	 
+&lt;NUM&gt; national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	3.0	3.0	4.0	4.0	5.0	
+Original : boris abramovich gelfand is a soviet and israeli chess international grandmaster , winner of the &lt;NUM&gt; world chess cup .
+boris abramovich gelfand was a israeli chess international grandmaster , winner of the &lt;NUM&gt; world chess cup .	3.0	5.0	5.0	5.0	5.0	
+boris abramovich gelfand is a soviet and israeli chess international grandmaster won the world chess cup .	3.0	4.0	4.0	5.0	5.0	
+boris abramovich gelfand are the &lt;NUM&gt; world chess cup .	3.0	2.0	2.0	2.0	4.0	 
+boris abramovich gelfand is a russian-born israeli chess grandmaster , winner of the &lt;NUM&gt; world chess cup .	4.0	4.0	4.0	5.0	5.0	
+Original : maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river approximately by road north of sydney and &lt;NUM&gt; k north-west of newcastle .
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and &lt;NUM&gt; km north-west of newcastle .	4.0	5.0	5.0	5.0	5.0	
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and &lt;NUM&gt; km north-west of newcastle .	4.0	5.0	5.0	5.0	5.0	
+maitland is a city in new south wales , australia .	3.0	3.0	2.0	2.0	2.0	 
+maitland is a city .	1.0	1.0	1.0	1.0	1.0	
+Original : both the continental and oceanic crust " float " on the mantle .
+they are kept together partly by the using up of the mantle below the crust , which makes a mantle on which the crust can float .	3.0	1.0	4.0	4.0	5.0	
+both the continental and oceanic crust `` float '' on the mantle .	4.0	4.0	5.0	5.0	5.0	
+both the continental and oceanic crust .	3.0	2.0	2.0	1.0	4.0	 
+both the continental and oceanic crust float on the mantle .	5.0	5.0	5.0	5.0	5.0	
+Original : courmes is a commune in the alpes-maritimes department in south-eastern france .
+courmes is a commune . it is found in the alpes-maritimes département in southern france .	3.0	4.0	4.0	4.0	5.0	
+courmes is a commune . it is found in the alpes-maritimes department in the southern part of france .	3.0	4.0	4.0	5.0	5.0	
+courmes is a commune .	3.0	2.0	2.0	1.0	5.0	 
+courmes is a commune .	3.0	2.0	2.0	1.0	5.0	
+Original : orgnac-l 'aven is a commune in the ardèche department in south-eastern france .
+orgnac-l ` aven is a commune .	2.0	2.0	1.0	1.0	5.0	
+orgnac-l 'aven is a commune in the ardèche département in southern france .	3.0	4.0	4.0	4.0	5.0	
+orgnac-l 'aven is a commune in the ardèche département in southern france .	3.0	4.0	4.0	5.0	5.0	 
+'aven orgnac-l is a commune . it is found in the ardèche département in southern france .	3.0	4.0	4.0	5.0	5.0	
+Original : francesc " cesc " fàbregas i soler is a professional footballer who plays as a central midfielder .
+francesc " cesc " fàbregas i soler is a professional football player . he plays as a player .	3.0	3.0	2.0	4.0	4.0	
+francesc `` cesc '' fàbregas i soler is a professional football .	3.0	3.0	2.0	1.0	1.0	
+cesc fàbregas is a spanish football player .	3.0	3.0	1.0	1.0	1.0	 
+francesc " cesc " fàbregas i soler is a professional football player . he plays as a central player .	3.0	3.0	4.0	4.0	4.0	
+Original : the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , was an international multi-sport event which was celebrated in &lt;NUM&gt; in amsterdam , the netherlands .
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , netherlands .	4.0	4.0	4.0	5.0	5.0	
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , netherlands .	4.0	4.0	4.0	5.0	5.0	
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , was held in &lt;NUM&gt; in amsterdam , the netherlands .	4.0	4.0	4.0	5.0	5.0	 
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , the netherlands .	4.0	4.0	4.0	5.0	5.0	
+Original : kirby ' s adventure , known in japan as , is a platforming video game developed by hal laboratory and published by nintendo for the nintendo entertainment system video game console .
+kirby ' s adventure , called in japan , is a platform video game made by hal laboratory and published by nintendo for the nintendo ds game console .	3.0	3.0	1.0	4.0	5.0	
+kirby ' s adventure , known in japan as , is a platform video game made by hal laboratory and published by nintendo for the nintendo entertainment system game console .	2.0	2.0	4.0	5.0	5.0	
+kirby ' s adventure , known in japan as , is a platform video game made by hal laboratory and published by nintendo for the nintendo entertainment system game console .	2.0	4.0	4.0	5.0	5.0	 
+kirby 's adventure , known in japan as , is a platforming video game developed by hal laboratory and published by nintendo for the nintendo entertainment system video game console .	2.0	5.0	5.0	5.0	5.0	
+Original : bohas-meyriat-rignat is a commune in the ain department in eastern france .
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	2.0	5.0	
+bohas-meyriat-rignat is a commune . it is found in the ain department in the east of france .	3.0	5.0	5.0	5.0	5.0	
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	2.0	5.0	 
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	2.0	5.0	
+Original : athies-sous-laon is a commune in the department of aisne in picardy in northern france .
+athies-sous-laon is a commune .	3.0	3.0	2.0	1.0	1.0	
+athies-sous-laon is a commune . it is found in the region picardie in the aisne department in the north of france .	3.0	4.0	5.0	5.0	5.0	
+athies-sous-laon is a commune . it is found in the aisne department in the region picardie in the in the north of france .	4.0	5.0	5.0	5.0	5.0	 
+athies-sous-laon is a commune . it is found in the region picardie in , aisne department in the north of france .	4.0	4.0	5.0	5.0	5.0	
+Original : for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in in circumference .
+in men ' s cricket the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in in circumference .	5.0	5.0	5.0	5.0	5.0	
+for men 's cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt;\/&lt;NUM&gt; and &lt;NUM&gt; in in circumference .	2.0	5.0	5.0	5.0	5.0	
+for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in circumference .	5.0	5.0	5.0	5.0	5.0	 
+for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in circumference .	5.0	5.0	5.0	5.0	5.0	
+Original : antonio bezerra brandão or simply toninho , is a brazilian central defender who plays for paraná .
+antonio bezerra brandão or simply toninho , is a brazilian football player who plays for paraná .	4.0	4.0	4.0	5.0	5.0	
+antonio bezerra brandão is a brazilian football player .	3.0	3.0	2.0	2.0	5.0	
+antonio bezerra brandão or simply toninho , is a brazilian central player .	3.0	3.0	3.0	4.0	4.0	 
+antonio toninho or bezerra brandão is a brazilian football player . he plays for paraná .	3.0	4.0	4.0	4.0	5.0	
+Original : matthias sindelar was an austrian footballer .
+matthias sindelar is a former austrian football player .	3.0	5.0	5.0	5.0	5.0	
+matthias sindelar was an austrian football .	2.0	1.0	1.0	4.0	4.0	
+matthias sindelar was an austrian football player .	4.0	5.0	5.0	5.0	5.0	 
+matthias sindelar is a former austrian football player .	2.0	5.0	5.0	5.0	5.0	
+Original : in ireland , &lt;NUM&gt; i of precipitation fell in the city of cork .
+in ireland , &lt;NUM&gt; i of rain fell in the city of cork .	3.0	4.0	5.0	5.0	5.0	
+in ireland , &lt;NUM&gt; i of rain fell in cork .	3.0	3.0	5.0	5.0	5.0	
+in ireland , &lt;NUM&gt; i of rain fell in the city of cork .	3.0	4.0	5.0	5.0	5.0	 
+in ireland , &lt;NUM&gt; inches of precipitation fell in the city of cork .	4.0	5.0	5.0	5.0	5.0	
+Original : colin bond tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps 6h &lt;NUM&gt; &lt;NUM&gt; s
+colin bond / tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps / 6h &lt;NUM&gt; &lt;NUM&gt; s	1.0	4.0	4.0	5.0	5.0	
+colin bond tony roberts holden ht monaro gts327 &lt;NUM&gt; laps / &lt;NUM&gt; &lt;NUM&gt; &lt;NUM&gt; s	3.0	1.0	5.0	5.0	5.0	
+colin bond tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps / 6h &lt;NUM&gt; &lt;NUM&gt; s	1.0	5.0	5.0	5.0	5.0	 
+colin bond tony roberts holden ht monaro gts350 &lt;NUM&gt; laps &lt;NUM&gt; &lt;NUM&gt; &lt;NUM&gt; s	3.0	1.0	4.0	5.0	5.0	
+Original : engente is a village and commune in the aube département of northern-central france .
+engente is a commune .	3.0	2.0	2.0	2.0	1.0	
+engente is a commune of the aube département in the north-central part of france .	3.0	4.0	4.0	5.0	5.0	
+engente is a commune of the aube département in the north-central part of france .	3.0	4.0	5.0	5.0	5.0	 
+engente is a commune . it is found in the aube département in the north-central part of france .	4.0	5.0	5.0	5.0	5.0	
+Original : philip john " phil " neville is an english footballer who captains everton and played for england .
+phil neville is an english football player . he plays for everton .	3.0	3.0	3.0	3.0	3.0	
+philip john `` phil '' neville is an english football player .	3.0	2.0	2.0	2.0	1.0	
+philip john " phil " neville is an english football player . he captains everton and played for england .	5.0	5.0	5.0	5.0	5.0	 
+philip john " phil " neville is an english football player . he captains everton and has played for england .	5.0	5.0	5.0	5.0	5.0	

@@ -1,0 +1,101 @@
+----------Grammar Output-------------
+Original : the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.	3.0	4.0	4.0	5.0	5.0	
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist lord stern for the british government. it discusses the effect of climate change and global warming on the world economy.	4.0	4.0	4.0	5.0	5.0	
+the stern review on the economics of climate change is a &lt;NUM&gt;-page report.	4.0	4.0	4.0	5.0	5.0	 
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.	4.0	4.0	4.0	5.0	5.0	
+Original : fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.	4.0	5.0	5.0	5.0	5.0	
+fibulae replaced straight pins that were used to fasten clothes and in the.	3.0	3.0	2.0	2.0	1.0	
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.	5.0	5.0	5.0	5.0	5.0	 
+fibulae replaced straight pins that were used to fasten clothes in the neolithic period and bronze age.	4.0	4.0	5.0	5.0	5.0	
+Original : under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.
+under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.	3.0	3.0	3.0	3.0	5.0	
+under european union protected designation of origin is a kind, only the product from portugal may be labeled as port or porto.	3.0	3.0	2.0	2.0	2.0	
+under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.	3.0	3.0	3.0	4.0	5.0	 
+however, under european union guidelines, only the product from portugal may be labeled as port.	2.0	4.0	5.0	5.0	5.0	
+Original : visp is the capital of the district of visp in the canton of valais in switzerland.
+visp is the capital of the district of visp in the canton of valais in switzerland.	3.0	2.0	2.0	1.0	4.0	
+visp is the capital of the district of visp in the canton of valais in switzerland.	3.0	2.0	2.0	1.0	4.0	
+visp is the capital city of the district of visp in the canton of valais in switzerland.	3.0	2.0	4.0	4.0	4.0	 
+visp is the capital of the district visp in the canton of valais in switzerland.	3.0	3.0	2.0	4.0	4.0	
+Original : charente-maritime is a department on the west coast of france named after the charente river.
+charente-maritime is a department on the west coast of france named after the charente river.	3.0	4.0	4.0	5.0	5.0	
+charente-maritime is a department on the west coast of france.	2.0	4.0	4.0	4.0	5.0	
+charente-maritime is a department on the west coast of france. it was named after the charente river.	3.0	4.0	5.0	5.0	5.0	 
+charente-maritime is a department in the west coast charente of france.	3.0	3.0	2.0	4.0	5.0	
+Original : &lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.
+&lt;NUM&gt; eros is the first found near-earth asteroid named after the greek god of love, eros.	3.0	3.0	2.0	4.0	5.0	
+&lt;NUM&gt; eros is the near-earth asteroid, named after the greek god of love, eros.	3.0	4.0	4.0	5.0	5.0	
+&lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.	3.0	3.0	3.0	5.0	5.0	 
+&lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.	3.0	3.0	3.0	5.0	5.0	
+Original : this interpretation is supported by additional trace element data, but is also the subject of debate.
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	5.0	5.0	5.0	
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	5.0	5.0	5.0	
+this interpretation is supported by other trace element data, but is also the subject of some debate.	3.0	4.0	4.0	5.0	5.0	 
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	5.0	5.0	5.0	
+Original : willi schulz is a former german international football player.
+willi schulz is a former german international football player.	3.0	3.0	3.0	5.0	5.0	
+willi schulz is a former german football player.	3.0	2.0	4.0	5.0	5.0	
+willi schulz is a former german football player.	3.0	2.0	4.0	5.0	5.0	 
+willi schulz, gironde is a former german football player.	3.0	3.0	1.0	4.0	5.0	
+Original : starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.	3.0	3.0	4.0	5.0	5.0	
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of corresponding to a given macrostate set.	3.0	3.0	2.0	2.0	4.0	
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of can be set macrostate.	3.0	2.0	2.0	2.0	1.0	 
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.	3.0	4.0	5.0	5.0	5.0	
+Original : sforzando, indicates a strong, sudden accent and is abbreviated as sf, sfz or fz.
+sforzando means a strong, sudden accent and is abbreviated as sf, sfz or fz.	4.0	5.0	5.0	5.0	5.0	
+sforzando, shows a strong, sudden accent and is called sf, sfz or fz.	3.0	3.0	2.0	4.0	4.0	
+sforzando, indicates a strong, sudden accent and is abbreviated as sf, sfz or fz.	3.0	3.0	4.0	4.0	4.0	 
+sforzando, indicates a strong, sudden accent.	3.0	3.0	4.0	4.0	4.0	
+Original : the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	4.0	4.0	4.0	5.0	
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	4.0	4.0	4.0	5.0	
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	4.0	4.0	4.0	5.0	 
+the convection decreased as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	3.0	4.0	4.0	5.0	
+Original : at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	4.0	4.0	
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	4.0	4.0	
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, funafala and motuloa.	3.0	3.0	4.0	4.0	5.0	 
+at least three islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	4.0	5.0	
+Original : an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	4.0	4.0	4.0	5.0	
+an angel or a star is often placed at the top of the tree.	5.0	5.0	5.0	5.0	5.0	
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	4.0	4.0	4.0	5.0	 
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	4.0	4.0	4.0	5.0	
+Original : other times the secret would be about something they were there to do.
+other times the secret would be about something they were there to do.	3.0	4.0	5.0	5.0	5.0	
+other times the secret would be about something they there to do.	3.0	3.0	1.0	4.0	4.0	
+other times the secret would be about something they were there to do.	2.0	5.0	5.0	5.0	5.0	 
+other times the secret would be about something they were there to do.	3.0	5.0	5.0	5.0	5.0	
+Original : chester city football club is an english football club from chester.
+chester city football club is an english football club from chester.	3.0	2.0	4.0	4.0	5.0	
+chester city football club is an english football club, from the city of chester.	3.0	3.0	3.0	5.0	5.0	
+chester city f.c. are an english football club from chester.	3.0	3.0	3.0	3.0	1.0	 
+chester city f.c. is an english football club from chester.	2.0	2.0	4.0	4.0	4.0	
+Original : in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.
+in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.	3.0	3.0	2.0	1.0	4.0	
+bouvier met up with comeau at a sugar ray concert, and comeau offered bouvier to join his band.	4.0	4.0	4.0	5.0	5.0	
+in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.	3.0	3.0	3.0	1.0	5.0	 
+in late &lt;NUM&gt;, comeau and bouvier a reacquainted sugar ray concert and bouvier left reset soon after to join comeau.	3.0	2.0	1.0	4.0	4.0	
+Original : irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.	3.0	2.0	2.0	1.0	5.0	
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.	3.0	3.0	2.0	1.0	5.0	
+irmo is a town &lt;NUM&gt; miles outside of columbia, south carolina.	3.0	4.0	4.0	5.0	5.0	 
+irmo is part of the columbia metropolitan statistical area.	4.0	4.0	4.0	5.0	5.0	
+Original : diego ribas da cunha commonly known as just diego, is an international brazilian footballer who plays for italian serie a club juventus and is also member of the brazilian national team.
+diego ribas da cunha commonly known as just is an international brazilian football player. he plays for juventus and is also member of the brazilian national team.	3.0	3.0	3.0	3.0	2.0	
+diego ribas da cunha is a brazilian football player. he plays for juventus.	4.0	4.0	5.0	5.0	5.0	
+diego ribas da cunha commonly known as just diego, is an international brazilian football.	3.0	3.0	2.0	1.0	4.0	 
+diego ribas da cunha commonly known as just diego, is an international brazilian football player. he plays for juventus and is also member of the national team.	3.0	1.0	4.0	4.0	5.0	
+Original : la bastide-des-jourdans is a commune in the vaucluse department in the provence-alpes-c ôte d 'azur region in southeastern france.
+la bastide-des-jourdans is a commune. it is found in the vaucluse department in the region provence-alpes-c ôte d 'azur in the region of france.	3.0	2.0	4.0	5.0	5.0	
+la bastide-des-jourdans is a commune. it is found in the vaucluse department in the region provence-alpes-c ôte france.	2.0	1.0	4.0	4.0	5.0	
+la bastide-des-jourdans is a commune in the provence-alpes-c ôte d'azur region in southeastern france.	3.0	4.0	4.0	4.0	5.0	 
+la bastide-des-jourdans is a commune of &lt;NUM&gt; people. it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france.	3.0	3.0	5.0	5.0	5.0	
+Original : heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.
+heston is known for having played heroic roles, such as moses and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	3.0	4.0	5.0	5.0	
+heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	3.0	2.0	5.0	5.0	
+heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	2.0	4.0	5.0	5.0	 
+charlton heston was an american actor. he had many big roles, such as playing moses in the film the &lt;NUM&gt; commandments, astronaut colonel george taylor in the film planet of the apes, and the academy award-winning role of judah ben-hur in the film ben-hur.	4.0	4.0	4.0	5.0	5.0	
