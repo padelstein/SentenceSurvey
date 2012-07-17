@@ -1,10 +1,13 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 
 public class DataCollection {
@@ -73,7 +76,7 @@ public class DataCollection {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		if (args.length >=1){
 			// Create an instance of this class.
 			DataCollection app = new DataCollection();
@@ -81,6 +84,10 @@ public class DataCollection {
 			File grammarIDFile = null;
 			File contentIDFile = null;
 			File simplicityIDFile = null;
+
+			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.data.txt")));
+			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("content.data.txt")));
+			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.data.txt")));
 
 			try {
 				if (args.length == 4)
@@ -95,15 +102,15 @@ public class DataCollection {
 				
 				for (SentenceHIT hit : app.grammarHITs)
 				{
-					System.out.println( hit.toString() );
+					grammarOUT.println( hit.toString() );
 				}
 				for (SentenceHIT hit : app.contentHITs)
 				{
-					System.out.println( hit.toString() );
+					contentOUT.println( hit.toString() );
 				}
 				for (SentenceHIT hit : app.simplicityHITs)
 				{
-					System.out.println( hit.toString() );
+					simplicityOUT.println( hit.toString() );
 				}
 				
 

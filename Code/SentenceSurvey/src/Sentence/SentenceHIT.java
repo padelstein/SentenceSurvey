@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import com.amazonaws.mturk.requester.Assignment;
 import com.amazonaws.mturk.requester.HIT;
