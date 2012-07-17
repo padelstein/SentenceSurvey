@@ -111,9 +111,9 @@ public class SentenceHIT
 	public String toString()
 	{
 		return "Original : " + originalSentence
-				+ "\n" + sentence1 + answers1.toString()
-				+ "\n" + sentence2 + answers2.toString()
-				+ "\n" + sentence3 + answers3.toString()
-				+" \n" + sentence4 + answers4.toString();
+				+ "\n" + sentence1 + getAverageAnswer(1)
+				+ "\n" + sentence2 + getAverageAnswer(2)
+				+ "\n" + sentence3 + getAverageAnswer(3)
+				+" \n" + sentence4 + getAverageAnswer(4);
 	}
 }

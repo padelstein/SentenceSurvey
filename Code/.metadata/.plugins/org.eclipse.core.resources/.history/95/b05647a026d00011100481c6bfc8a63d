@@ -60,9 +60,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-//			newGrammarHIT.approveAllAssignments();
-//			newContentHIT.approveAllAssignments();
-//			newSimplicityHIT.approveAllAssignments();
+			newGrammarHIT.approveAllAssignments();
+			newContentHIT.approveAllAssignments();
+			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );

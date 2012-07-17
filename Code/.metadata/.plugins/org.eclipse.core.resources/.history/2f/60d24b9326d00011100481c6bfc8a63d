@@ -3,11 +3,8 @@ package Sentence;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PrintWriter;
 import java.util.ArrayList;
 
 public class DataCollection {
@@ -60,9 +57,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-//			newGrammarHIT.approveAllAssignments();
-//			newContentHIT.approveAllAssignments();
-//			newSimplicityHIT.approveAllAssignments();
+			newGrammarHIT.approveAllAssignments();
+			newContentHIT.approveAllAssignments();
+			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );
@@ -76,7 +73,7 @@ public class DataCollection {
 		}
 	}
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) {
 		if (args.length >=1){
 			// Create an instance of this class.
 			DataCollection app = new DataCollection();
@@ -84,12 +81,7 @@ public class DataCollection {
 			File grammarIDFile = null;
 			File contentIDFile = null;
 			File simplicityIDFile = null;
-			
-			
-			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File( "grammarOUT.diff.data.txt" )));
-			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File( "contentOUT.diff.data.txt" )));
-			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File( "simplicityOUT.diff.data.txt" )));
-			
+
 			try {
 				if (args.length == 4)
 				{
@@ -101,25 +93,19 @@ public class DataCollection {
 				
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
 				
-				grammarOUT.println("----------Grammar Diff Output-------------");
 				for (SentenceHIT hit : app.grammarHITs)
 				{
-					grammarOUT.println( hit.toString() );
+					System.out.println( hit.toString() );
 				}
-				contentOUT.println("----------Content Diff Output-------------");
 				for (SentenceHIT hit : app.contentHITs)
 				{
-					contentOUT.println( hit.toString() );
+					System.out.println( hit.toString() );
 				}
-				simplicityOUT.println("----------Simplicity Diff Output-------------");
 				for (SentenceHIT hit : app.simplicityHITs)
 				{
-					simplicityOUT.println( hit.toString() );
+					System.out.println( hit.toString() );
 				}
 				
-				grammarOUT.close();
-				contentOUT.close();
-				simplicityOUT.close();
 
 			} catch (IOException e){
 				System.err.println(e.getLocalizedMessage());

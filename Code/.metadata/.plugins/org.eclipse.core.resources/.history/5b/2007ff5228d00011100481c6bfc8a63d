@@ -46,18 +46,4 @@ public class FrequencyCounter
 				out.println();
 			}
 		}
-	
-		public String toString()
-		{
-			String out = "\t";
-			
-			for ( Double key : frequency.keySet() )
-			{
-				for ( double i = 0 ; i < key ; i++)
-				{
-					out += key + "\t";
-				}
-			}
-			return out;
-		}
 	}
