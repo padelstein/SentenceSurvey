@@ -47,11 +47,7 @@ public class SentenceHIT
 		typeID = amazonHIT.getHITTypeId();
 		ID = amazonHIT.getHITId();
 		
-		if ( dataID.equals(amazonHIT.getRequesterAnnotation()))
-		{	calcAnswers();
-		} else {
-			System.out.println("dataID numbers do not mach");
-		}
+		calcAnswers();
 	}
 	
 	public void calcAnswers()

@@ -37,7 +37,19 @@ public class DataCollection {
 		String contentID = contentIDReader.readLine();
 		String simplicityID = simplicityIDReader.readLine();
 		
-		for ( int j = 0 ; j < 50 ; j++ )
+		for ( int i = 0 ; i < 20 ; i++ )
+		{
+			dataReader.readLine(); // hyphens
+			dataReader.readLine(); // number
+			dataReader.readLine(); // 'original'
+			dataReader.readLine(); // original sentence
+			dataReader.readLine(); // option 1
+			dataReader.readLine(); // option 2
+			dataReader.readLine(); // option 3
+			dataReader.readLine(); // option 4
+		}
+		
+		for ( int j = 0 ; j < 30 ; j++ )
 		{
 			dataReader.readLine();
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
@@ -59,9 +71,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-			newGrammarHIT.approveAllAssignments();
-			newContentHIT.approveAllAssignments();
-			newSimplicityHIT.approveAllAssignments();
+//			newGrammarHIT.approveAllAssignments();
+//			newContentHIT.approveAllAssignments();
+//			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );

@@ -21,7 +21,7 @@ public class SentenceSurvey
 
 	private ArrayList<SentenceHIT> HITs = new ArrayList<SentenceHIT>();
 
-	private int numAssignments = 10;
+	private int numAssignments = 5;
 
 	private QualificationRequirement acceptanceRate = new QualificationRequirement("000000000000000000L0", Comparator.GreaterThanOrEqualTo, 95, null, false);
 	private QualificationRequirement location = new QualificationRequirement("00000000000000000071", Comparator.EqualTo, null, new Locale("US"), false);
