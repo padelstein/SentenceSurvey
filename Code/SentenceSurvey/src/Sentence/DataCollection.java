@@ -85,9 +85,9 @@ public class DataCollection {
 			File contentIDFile = null;
 			File simplicityIDFile = null;
 
-			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.data.txt")));
-			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("content.data.txt")));
-			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.data.txt")));
+			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.diff.data.txt")));
+			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("content.diff.data.txt")));
+			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.diff.data.txt")));
 
 			try {
 				if (args.length == 4)
@@ -100,17 +100,17 @@ public class DataCollection {
 				
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
 				
-				grammarOUT.println("----------Grammar Output-------------");
+				grammarOUT.println("----------Grammar diff Output-------------");
 				for (SentenceHIT hit : app.grammarHITs)
 				{
 					grammarOUT.println( hit.toString() );
 				}
-				contentOUT.println("----------Content Output-------------");
+				contentOUT.println("----------Content diff Output-------------");
 				for (SentenceHIT hit : app.contentHITs)
 				{
 					contentOUT.println( hit.toString() );
 				}
-				simplicityOUT.println("----------Simplicity Output-------------");
+				simplicityOUT.println("----------Simplicity diff Output-------------");
 				for (SentenceHIT hit : app.simplicityHITs)
 				{
 					simplicityOUT.println( hit.toString() );

@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.PrintWriter;
 import java.util.HashMap;
@@ -53,7 +53,7 @@ public class FrequencyCounter
 			
 			for ( Double key : frequency.keySet() )
 			{
-				for ( double i = 0 ; i < key ; i++)
+				for ( double i = 0 ; i < frequency.get(key) ; i++)
 				{
 					out += key + "\t";
 				}
