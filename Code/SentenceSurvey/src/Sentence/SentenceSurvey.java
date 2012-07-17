@@ -29,7 +29,7 @@ public class SentenceSurvey
 
 	private static String grammaticalDescription = "Rate each sentence below with a score from 1 to 5 based on how " +
 	"grammatical the sentence is.  A 1 indicates completely ungrammatical " +
-	"and 5 perfectly grammatical.";
+	"and 5 perfectly grammatical. Note: Please do not consider capitalization errors when rating grammaticality.";
 	private static String contextDescription = "Each sentence below is a candidate simplification for the original " +
 	"sentence listed below.  Rate each sentence with a score from 1 to 5 " +
 	"based on how well the content of the <b>original sentence</b> is preserved in " +
@@ -109,7 +109,7 @@ public class SentenceSurvey
 					description,
 					type,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
-					00.04,
+					00.03,
 					(long)600,
 					(long)432000, 
 					(long)172800, 

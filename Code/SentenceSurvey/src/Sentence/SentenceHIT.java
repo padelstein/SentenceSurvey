@@ -108,6 +108,11 @@ public class SentenceHIT
 		}
 	}
 	
+	public void extend(int assInc, int durationInc)
+	{
+		service.extendHIT(ID, assInc, (long) durationInc);
+	}
+	
 	public String toString()
 	{
 		return "Original : " + originalSentence

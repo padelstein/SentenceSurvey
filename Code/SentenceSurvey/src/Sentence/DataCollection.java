@@ -60,9 +60,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-//			newGrammarHIT.approveAllAssignments();
-//			newContentHIT.approveAllAssignments();
-//			newSimplicityHIT.approveAllAssignments();
+			newGrammarHIT.approveAllAssignments();
+			newContentHIT.approveAllAssignments();
+			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );
@@ -90,7 +90,7 @@ public class DataCollection {
 			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.diff.data.txt")));
 
 			try {
-				if (args.length == 4)
+				if (args.length >= 4)
 				{
 					dataFile = new File(args[0]);
 					grammarIDFile = new File(args[1]);
@@ -100,6 +100,23 @@ public class DataCollection {
 				
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
 				
+				if (args.length>4 && args[4].equals("-e")){
+					for (SentenceHIT hit : app.grammarHITs)
+					{
+						hit.extend(5, 172800);
+					}
+					for (SentenceHIT hit : app.contentHITs)
+					{
+						hit.extend(5, 172800);
+					}
+					for (SentenceHIT hit : app.simplicityHITs)
+					{
+						hit.extend(5, 172800);
+					}
+					
+				}else{
+				
+					
 				grammarOUT.println("----------Grammar diff Output-------------");
 				for (SentenceHIT hit : app.grammarHITs)
 				{
@@ -119,7 +136,7 @@ public class DataCollection {
 				grammarOUT.close();
 				contentOUT.close();
 				simplicityOUT.close();
-
+				}
 			} catch (IOException e){
 				System.err.println(e.getLocalizedMessage());
 			}
