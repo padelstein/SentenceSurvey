@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -60,9 +60,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-//			newGrammarHIT.approveAllAssignments();
-//			newContentHIT.approveAllAssignments();
-//			newSimplicityHIT.approveAllAssignments();
+			newGrammarHIT.approveAllAssignments();
+			newContentHIT.approveAllAssignments();
+			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );
@@ -84,11 +84,12 @@ public class DataCollection {
 			File grammarIDFile = null;
 			File contentIDFile = null;
 			File simplicityIDFile = null;
-
-			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.data.txt")));
-			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("content.data.txt")));
-			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.data.txt")));
-
+			
+			
+			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File( "grammarOUT.diff.data.txt" )));
+			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File( "contentOUT.diff.data.txt" )));
+			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File( "simplicityOUT.diff.data.txt" )));
+			
 			try {
 				if (args.length == 4)
 				{
@@ -100,17 +101,17 @@ public class DataCollection {
 				
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
 				
-				grammarOUT.println("----------Grammar Output-------------");
+				grammarOUT.println("----------Grammar Diff Output-------------");
 				for (SentenceHIT hit : app.grammarHITs)
 				{
 					grammarOUT.println( hit.toString() );
 				}
-				contentOUT.println("----------Content Output-------------");
+				contentOUT.println("----------Content Diff Output-------------");
 				for (SentenceHIT hit : app.contentHITs)
 				{
 					contentOUT.println( hit.toString() );
 				}
-				simplicityOUT.println("----------Simplicity Output-------------");
+				simplicityOUT.println("----------Simplicity Diff Output-------------");
 				for (SentenceHIT hit : app.simplicityHITs)
 				{
 					simplicityOUT.println( hit.toString() );
