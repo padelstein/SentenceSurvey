@@ -53,23 +53,12 @@ public class SentenceSurvey
 		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream( inputFile ) ) );
 		String input = "";
 
+		input = in.readLine();
+
 		int k = 0;
 		
-		for ( int i = 0 ; i < 20 ; i++ )
+		while ( input != null && k < 20 )
 		{
-			in.readLine(); // hyphens
-			in.readLine(); // number
-			in.readLine(); // 'original'
-			in.readLine(); // original sentence
-			in.readLine(); // option 1
-			in.readLine(); // option 2
-			in.readLine(); // option 3
-			in.readLine(); // option 4
-		}
-		
-		while ( input != null && k < 30 )
-		{
-			input = in.readLine(); // reads the hyphens
 			String number = in.readLine(); // the number in the data file corresponding to the HIT
 			in.readLine();
 			String original = in.readLine();
@@ -102,6 +91,7 @@ public class SentenceSurvey
 
 			HITs.add(newHIT);
 
+			input = in.readLine();
 			k++;
 		}
 

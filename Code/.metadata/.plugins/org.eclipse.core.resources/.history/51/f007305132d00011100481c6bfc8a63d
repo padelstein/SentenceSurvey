@@ -33,11 +33,12 @@ public class DataCollection {
 		BufferedReader simplicityIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( simplicityIDFile ) ) );
 
 		// prime the readers
-		dataReader.readLine(); // reads the line of hyphens
+		dataReader.readLine(); // reads the line of hypens
 		String grammarID = grammarIDReader.readLine();
 		String contentID = contentIDReader.readLine();
 		String simplicityID = simplicityIDReader.readLine();
-		
+
+//		while ( data != null )
 		for ( int i = 0 ; i < 20 ; i++ )
 		{
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
