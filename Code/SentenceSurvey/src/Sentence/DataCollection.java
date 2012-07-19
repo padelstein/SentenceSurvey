@@ -119,16 +119,19 @@ public class DataCollection {
 				grammarOUT.println("----------Grammar diff Output-------------");
 				for (SentenceHIT hit : app.grammarHITs)
 				{
+					hit.approveAllAssignments();
 					grammarOUT.println( hit.toString() );
 				}
 				contentOUT.println("----------Content diff Output-------------");
 				for (SentenceHIT hit : app.contentHITs)
 				{
+					hit.approveAllAssignments();
 					contentOUT.println( hit.toString() );
 				}
 				simplicityOUT.println("----------Simplicity diff Output-------------");
 				for (SentenceHIT hit : app.simplicityHITs)
 				{
+					hit.approveAllAssignments();
 					simplicityOUT.println( hit.toString() );
 				}
 				
