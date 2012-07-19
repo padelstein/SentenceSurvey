@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.*;
 import java.util.Date;
@@ -104,7 +104,7 @@ public class SentenceSurvey
 
 			k++;
 		}
-
+		in.close();
 	}
 
 	// creates an individual HIT and returns the ID

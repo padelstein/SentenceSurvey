@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -59,9 +59,9 @@ public class DataCollection {
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
 			
-			newGrammarHIT.approveAllAssignments();
-			newContentHIT.approveAllAssignments();
-			newSimplicityHIT.approveAllAssignments();
+//			newGrammarHIT.approveAllAssignments();
+//			newContentHIT.approveAllAssignments();
+//			newSimplicityHIT.approveAllAssignments();
 			
 
 			grammarHITs.add( newGrammarHIT );
@@ -72,7 +72,13 @@ public class DataCollection {
 			grammarID = grammarIDReader.readLine();
 			contentID = contentIDReader.readLine();
 			simplicityID = simplicityIDReader.readLine();
+			
+			
 		}
+		dataReader.close();
+		grammarIDReader.close();
+		contentIDReader.close();
+		simplicityIDReader.close();
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {
@@ -102,35 +108,34 @@ public class DataCollection {
 				if (args.length>4 && args[4].equals("-e")){
 					for (SentenceHIT hit : app.grammarHITs)
 					{
-						hit.extend(5, 60);
+						hit.extend(1, 260000);
 					}
 					for (SentenceHIT hit : app.contentHITs)
 					{
-						hit.extend(5, 60);
+						hit.extend(1, 260000);
 					}
 					for (SentenceHIT hit : app.simplicityHITs)
 					{
-						hit.extend(5, 60);
+						hit.extend(1, 260000);
 					}
-					
+
 				}else{
-				
-					
-				grammarOUT.println("----------Grammar diff Output-------------");
-				for (SentenceHIT hit : app.grammarHITs)
-				{
-					grammarOUT.println( hit.toString() );
-				}
-				contentOUT.println("----------Content diff Output-------------");
-				for (SentenceHIT hit : app.contentHITs)
-				{
-					contentOUT.println( hit.toString() );
-				}
-				simplicityOUT.println("----------Simplicity diff Output-------------");
-				for (SentenceHIT hit : app.simplicityHITs)
-				{
-					simplicityOUT.println( hit.toString() );
-				}
+
+					grammarOUT.println("----------Grammar diff Output-------------");
+					for (SentenceHIT hit : app.grammarHITs)
+					{
+						grammarOUT.println( hit.toString() );
+					}
+					contentOUT.println("----------Content diff Output-------------");
+					for (SentenceHIT hit : app.contentHITs)
+					{
+						contentOUT.println( hit.toString() );
+					}
+					simplicityOUT.println("----------Simplicity diff Output-------------");
+					for (SentenceHIT hit : app.simplicityHITs)
+					{
+						simplicityOUT.println( hit.toString() );
+					}
 				
 				grammarOUT.close();
 				contentOUT.close();
