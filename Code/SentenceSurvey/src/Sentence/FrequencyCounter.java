@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.PrintWriter;
 import java.util.HashMap;
