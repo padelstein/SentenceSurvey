@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.*;
 import java.util.Date;
@@ -55,7 +55,7 @@ public class SentenceSurvey
 
 		int k = 0;
 		
-		for ( int i = 0 ; i < 20 ; i++ )
+		for ( int i = 0 ; i < 50 ; i++ )
 		{
 			in.readLine(); // hyphens
 			in.readLine(); // number
@@ -67,7 +67,7 @@ public class SentenceSurvey
 			in.readLine(); // option 4
 		}
 		
-		while ( input != null && k < 30 )
+		while ( input != null && k < 50 )
 		{
 			input = in.readLine(); // reads the hyphens
 			String number = in.readLine(); // the number in the data file corresponding to the HIT
@@ -119,10 +119,10 @@ public class SentenceSurvey
 					description,
 					type,
 					ratingHIT(inputHIT.originalSentence, inputHIT.sentence1, inputHIT.sentence2, inputHIT.sentence3, inputHIT.sentence4, type),
-					00.03,
+					00.04,
 					(long)600,
 					(long)432000, 
-					(long)172800, 
+					(long)345600, 
 					numAssignments,
 					inputHIT.dataID,
 					requirements,
