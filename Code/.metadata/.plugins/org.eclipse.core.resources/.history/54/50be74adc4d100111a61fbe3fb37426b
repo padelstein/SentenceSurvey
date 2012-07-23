@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import com.amazonaws.mturk.requester.Assignment;
 import com.amazonaws.mturk.requester.HIT;
@@ -108,7 +108,7 @@ public class SentenceHIT
 		
 		for ( Assignment ass : assignments )
 		{
-			service.approveAssignment(ass.getAssignmentId(), "Thanks!");
+			service.approveAssignment(ass.getAssignmentId(), null);
 		}
 	}
 	

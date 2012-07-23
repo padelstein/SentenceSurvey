@@ -104,7 +104,7 @@ public class SentenceSurvey
 
 			k++;
 		}
-		in.close();
+
 	}
 
 	// creates an individual HIT and returns the ID

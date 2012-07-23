@@ -2,10 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/commons-math3-3.0.jar"/>
-	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/java-aws-mturk.jar"/>
-	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/aws-mturk-wsdl.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/aws-mturk-dataschema.jar"/>
+	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/aws-mturk-wsdl.jar"/>
+	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/java-aws-mturk.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/apache-log4j-1.2.15/log4j-1.2.15.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/axis-1.4/axis.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/axis-1.4/axis-ant.jar"/>
@@ -13,8 +12,8 @@
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/axis-1.4/jaxrpc.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/axis-1.4/saaj.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-beanutils-1.7.0/commons-beanutils.jar"/>
-	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-collections-3.2/commons-collections-3.2.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-collections-3.2/commons-collections-testframework-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-collections-3.2/commons-collections-3.2.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-dbcp-1.2.2/commons-dbcp-1.2.2.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-digester-1.8/commons-digester-1.8.jar"/>
 	<classpathentry kind="lib" path="/home/padelstein/LexicalSimplify/code/java/java-aws-mturk-1.2.2/lib/third-party/commons-lang-2.3/commons-lang-2.3.jar"/>

@@ -2,16 +2,16 @@ INDEX VERSION 1.126+/home/padelstein/SentenceSurvey/Code/.metadata/.plugins/org.
 3027555256.index
 1795012423.index
 460288520.index
-2329855012.index
 740118415.index
+2329855012.index
 3935708815.index
-680492719.index
 1438662779.index
-672459312.index
 3375203138.index
-2443186529.index
-633206484.index
 431961029.index
+2443186529.index
+680492719.index
+633206484.index
+672459312.index
 1757834753.index
 1580850431.index
 1189544457.index
@@ -50,4 +50,3 @@ INDEX VERSION 1.126+/home/padelstein/SentenceSurvey/Code/.metadata/.plugins/org.
 3270054676.index
 1378682381.index
 1368247079.index
-2022640639.index

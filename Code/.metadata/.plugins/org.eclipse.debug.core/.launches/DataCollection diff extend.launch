@@ -7,6 +7,6 @@
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Sentence.DataCollection"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txt &#10;//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txtgrammarHITids2012-07-1715:37:44&#10;//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txtcontentHITids2012-07-1715:37:44&#10;//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txtsimplicityHITids2012-07-1715:37:44&#10;-e"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txt &#10;//home/padelstein/SentenceSurvey/Data/finalHITids/diff.data.grammar.HITids&#10;//home/padelstein/SentenceSurvey/Data/finalHITids/diff.data.content.HITids&#10;//home/padelstein/SentenceSurvey/Data/finalHITids/diff.data.simplicity.HITids&#10;-e"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SentenceSurvey"/>
 </launchConfiguration>
