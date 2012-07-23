@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.*;
 import java.util.Date;

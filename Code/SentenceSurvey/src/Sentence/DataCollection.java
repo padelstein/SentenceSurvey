@@ -1,4 +1,4 @@
-package src.Sentence;
+package Sentence;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -32,16 +32,17 @@ public class DataCollection {
 		BufferedReader contentIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( contentIDFile ) ) );
 		BufferedReader simplicityIDReader = new BufferedReader(new InputStreamReader(new FileInputStream( simplicityIDFile ) ) );
 
-		// prime the readers
-		String grammarID = grammarIDReader.readLine();
-		String contentID = contentIDReader.readLine();
-		String simplicityID = simplicityIDReader.readLine();
 		
 		for ( int j = 0 ; j < 50 ; j++ )
 		{
 			dataReader.readLine();
 			String number = dataReader.readLine(); // the number in the data file corresponding to the HIT
 			dataReader.readLine(); // reads the word "original"
+
+			String grammarID = grammarIDReader.readLine();
+			String contentID = contentIDReader.readLine();
+			String simplicityID = simplicityIDReader.readLine();
+
 			String original = dataReader.readLine();
 			String option1 = dataReader.readLine();
 			String option2 = dataReader.readLine();
@@ -53,32 +54,22 @@ public class DataCollection {
 			SentenceHIT newContentHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
 			SentenceHIT newSimplicityHIT = new SentenceHIT(original, option1, option2, option3, option4, number);
 			System.out.println("created SentenceHITs");
-			
+
 			// update them with answers from amazon
 			newGrammarHIT.updateWithAmazon(grammarID);
 			newContentHIT.updateWithAmazon(contentID);
 			newSimplicityHIT.updateWithAmazon(simplicityID);
-			
-//			newGrammarHIT.approveAllAssignments();
-//			newContentHIT.approveAllAssignments();
-//			newSimplicityHIT.approveAllAssignments();
-			
+
+			newGrammarHIT.approveAllAssignments();
+			newContentHIT.approveAllAssignments();
+			newSimplicityHIT.approveAllAssignments();
+
 
 			grammarHITs.add( newGrammarHIT );
 			contentHITs.add( newContentHIT );
 			simplicityHITs.add( newSimplicityHIT );
 
-			
-			grammarID = grammarIDReader.readLine();
-			contentID = contentIDReader.readLine();
-			simplicityID = simplicityIDReader.readLine();
-			
-			
 		}
-		dataReader.close();
-		grammarIDReader.close();
-		contentIDReader.close();
-		simplicityIDReader.close();
 	}
 
 	public static void main(String[] args) throws FileNotFoundException {
@@ -102,45 +93,32 @@ public class DataCollection {
 					contentIDFile = new File(args[2]);
 					simplicityIDFile = new File(args[3]);
 				} 
-				
+
 				app.fillHitList(dataFile, grammarIDFile, contentIDFile, simplicityIDFile);
-				
-				if (args.length>4 && args[4].equals("-e")){
-					for (SentenceHIT hit : app.grammarHITs)
-					{
-						hit.extend(1, 260000);
-					}
-					for (SentenceHIT hit : app.contentHITs)
-					{
-						hit.extend(1, 260000);
-					}
-					for (SentenceHIT hit : app.simplicityHITs)
-					{
-						hit.extend(1, 260000);
-					}
 
-				}else{
+				System.out.println("----------Grammar diff Output-------------");
+				for (SentenceHIT hit : app.grammarHITs)
+				{
+					hit.approveAllAssignments();
+					System.out.println( hit.toString() );
+				}
+				contentOUT.println("----------Content diff Output-------------");
+				for (SentenceHIT hit : app.contentHITs)
+				{
+					hit.approveAllAssignments();
+					System.out.println( hit.toString() );
+				}
+				simplicityOUT.println("----------Simplicity diff Output-------------");
+				for (SentenceHIT hit : app.simplicityHITs)
+				{
+					hit.approveAllAssignments();
+					System.out.println( hit.toString() );
+				}
 
-					grammarOUT.println("----------Grammar diff Output-------------");
-					for (SentenceHIT hit : app.grammarHITs)
-					{
-						grammarOUT.println( hit.toString() );
-					}
-					contentOUT.println("----------Content diff Output-------------");
-					for (SentenceHIT hit : app.contentHITs)
-					{
-						contentOUT.println( hit.toString() );
-					}
-					simplicityOUT.println("----------Simplicity diff Output-------------");
-					for (SentenceHIT hit : app.simplicityHITs)
-					{
-						simplicityOUT.println( hit.toString() );
-					}
-				
 				grammarOUT.close();
 				contentOUT.close();
 				simplicityOUT.close();
-				}
+				
 			} catch (IOException e){
 				System.err.println(e.getLocalizedMessage());
 			}

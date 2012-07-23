@@ -108,7 +108,7 @@ public class SentenceHIT
 		
 		for ( Assignment ass : assignments )
 		{
-			service.approveAssignment(ass.getAssignmentId(), null);
+			service.approveAssignment(ass.getAssignmentId(), "Thanks!");
 		}
 	}
 	
