@@ -1,0 +1,250 @@
+Original : however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.
+however, mayor lacson did not however live to see the realization of this project as he died suddenly of heart attack.	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+however, mayor lacson did not live to see the realization of his dream he died of a heart attack.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : a lever on the side of the toaster is depressed, activating the toaster.
+a the on the side of the toaster is sad, activating the toaster.	3.0	3.0	3.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	
+a lever on the side of the toaster is depressed, activating the toaster.	3.0	3.0	3.0	1.0	5.0	5.0	5.0	5.0	5.0	5.0	
+a lever on the side of the toaster is depressed, activating the toaster.	3.0	2.0	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a toaster is a machine which toasts bread. the bread is put into the toaster and after a few minutes it pops up again, toasted.	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	
+Original : in &lt;NUM&gt;, during the band ' s final tour, many cities around the united states proclaimed a certain day to be " guided by voices day " in that city.
+in &lt;NUM&gt;, during the band ' s last tour, many cities around the united states made a certain day to be " guided by voices day " in that city.	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+in &lt;NUM&gt;, during the band ' s last concert tour, many cities around the united states picked a day to be " guided by voices day " in that city.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+in &lt;NUM&gt;, during the band 's final tour, many cities around the united states proclaimed a certain day to be `` guided by voices day '' in that city.	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+in &lt;NUM&gt;, during the band ' s final tour, many cities around the united states proclaimed a certain day to be " guided by voices day " in that city.	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : renton is a city in king county, washington, united states.
+renton is a city in king county, washington, united states.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+renton is a city of washington in the united states.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	
+renton is a city in king county, washington, united states.	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+renton is a city.	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	5.0	
+Original : portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.
+portman road hosted ipswich town ' s first appearance in european football competition when they beat floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+portman road hosted ipswich town 's first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt; in the european cup in &lt;NUM&gt;.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	 
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : he was survived by his wife, edith, and his daughter, sandra.
+he was wife, edith, and his daughter, sandra.	3.0	3.0	3.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	
+he was survived by his wife, edith, and his daughter, sandra.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+he was survived by his wife, edith, and his daughter, sandra.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+he was survived by his wife, edith, and his daughter, sandra.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, schikora, heinrich heß, hans kunstmann, adolf von thadden.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+for his show on march &lt;NUM&gt;, &lt;NUM&gt;, he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack\/studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the call for primitives was first issued in november &lt;NUM&gt;.
+the call for primitives was first issued in november &lt;NUM&gt;.	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the call for systems was first used in november &lt;NUM&gt;.	3.0	3.0	3.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	
+the call for systems was first used in &lt;NUM&gt;.	3.0	3.0	3.0	3.0	2.0	2.0	1.0	1.0	1.0	4.0	 
+the call for primitives was first issued in november &lt;NUM&gt;.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+cairns army airfield is to the south of daleville on the road to almost clayhatchee.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : stansstad is a village in the canton of nidwalden in switzerland.
+stansstad is a village in the canton of nidwalden in switzerland.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+stansstad is a municipality of the canton of nidwalden in switzerland.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+stansstad is a municipality of the canton of nidwalden in switzerland.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+stansstad is a village.	3.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	
+Original : mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.
+mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+mikhail tal, known as mischa, was a soviet - latvian chess player, a grandmaster, and the eighth world chess champion.	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+mikhail tal was a soviet-latvian a chess grandmaster, and the eighth world chess champion.	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	
+Original : females lay their pale green or cream colored eggs singly on host plant leaves and stems.
+females lay their pale green or cream colored eggs singly on the host plant leaves, stems.	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+females lay their pale green or cream colored eggs singly on host plant leaves and stems.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+females lay their eggs singly on the host plant ' s leaves and stems. the eggs are pale green or cream colored.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+females lay their pale green or cream colored eggs singly on host plant leaves and stems.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : some carrot cakes are even layered.
+some carrot cakes are even layered.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+some are cakes and layered.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	
+some carrot cakes are even layered.	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+some carrot cakes are even layered.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon of elizabeth i in &lt;NUM&gt;.	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+harrow has educated boys since &lt;NUM&gt; but was started by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders diluting used fillers.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+Original : hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hurricane andres is the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : his sui generis society will furthermore continue its existence after the individual ceases to interact with it.
+his sui generis society will also continue its existence after the ceases to interact with it.	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : akron is a city in plymouth county, iowa, united states.
+akron is a city of iowa in the united states of america.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+akron is a city of iowa in the united states.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	
+akron is a city of iowa in the united states.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+akron is a city.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	5.0	
+Original : opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.
+opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+opeth released its fifth album blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+opeth on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	
+Original : the royal opera house is an opera house and major performing arts venue in the london district of covent garden.
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the royal opera house is an opera house and performing arts venue in the london district covent garden.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+the royal opera house is a famous opera house in london. sometimes it is called " covent garden " because it is in the area of london called covent garden.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	
+Original : after his death, the canadiens retired his jersey number, the first time the team had done so for any player.
+after his death, the canadiens stopped using his jersey number, the first time the team had done so for any player.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : roman catholicism specifically holds that &lt;NUM&gt; may build and use " likenesses ", as long as the object is not worshipped.
+&lt;NUM&gt; understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used, as long as the object is not worshipped.	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	
+roman catholicism specifically holds that one may build and use `` likenesses '', as long as the object is not worshipped.	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+roman catholicism specifically says that may &lt;NUM&gt;, build and use " likenesses ", as long as the object is not worshipped.	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+roman catholicism specifically says that &lt;NUM&gt; may build and use " likenesses ", as long as the object is not worshipped.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves.
+a leaf blower is a gardening tool uses air to move yard debris like leaves.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	
+a leaf blower is a gardening tool that propels air from a nozzle to move yard debris such as leaves.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a leaf blower is a gardening tool.	3.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	
+Original : suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide at the age of &lt;NUM&gt; in &lt;NUM&gt;.
+during her last years she had a very serious illness called encephalomyelitis. she eventually did not want to suffer any more, so she traveled to switzerland where she was allowed to have an assisted suicide.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide of the age of &lt;NUM&gt; in &lt;NUM&gt;.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to take an assisted suicide at the age of &lt;NUM&gt;.	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide at the age of &lt;NUM&gt; in &lt;NUM&gt;.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the township of " coura rocks ", named from a local aboriginal term meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.
+the township of `` coura rocks '', named from a local aboriginal term meaning `` eagle on the rocks '', had its beginnings in &lt;NUM&gt;.	3.0	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the town of " coura rocks ", named from a aboriginal word meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	
+the township of " coura rocks ", named from a local aboriginal term meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.	3.0	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the township of coura rocks began in &lt;NUM&gt;.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	5.0	5.0	5.0	
+Original : he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.
+he next became the head photographer.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	
+he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+he next became the head of the photographer at a daily newspaper lourenco marques tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : he lost to shinjiro otani in the match, but wcw went on to win the series.
+he fell to njpw wrestler shinjiro ohtani in the match but wcw went on to win the series.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+he lost to shinjiro otani in the match, but wcw went on to win the series.	3.0	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	
+he lost to shinjiro ohtani. it is found in the match, but wcw went on to win the series.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+he lost to shinjiro ohtani in the match, but wcw went on to win the series.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.
+on the june &lt;NUM&gt; episode of raw, foley, orton, booker, and lashley all said why they deserve to be the number-one contender to the wwe championship.	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number &lt;NUM&gt; contender to the wwe championship.	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.
+the precursors send jak and daxter to the dark maker ship to slow it down the planetary defense system the charges.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+when he is defeated, jak, daxter, and all the others gather together in the arena, while the precursors make their speech. jak and daxter have saved the world !	3.0	3.0	2.0	2.0	1.0	1.0	1.0	1.0	5.0	5.0	 
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : kryptos is &lt;NUM&gt; of the themes in dan brown ' s &lt;NUM&gt; novel, the lost symbol.
+dan brown wrote another book in &lt;NUM&gt; called the lost symbol, which also talks about kryptos.	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	
+kryptos is &lt;NUM&gt; of the themes in dan brown ' s &lt;NUM&gt; novel, the lost symbol.	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+kryptos is &lt;NUM&gt; of the themes of dan brown ' s &lt;NUM&gt; book, the lost symbol.	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+kryptos is one.	2.0	2.0	1.0	1.0	1.0	1.0	4.0	5.0	5.0	5.0	
+Original : thomas wentworth " tom " wills was an australian all-round sportsman, umpire, coach and administrator who is credited with being a catalyst towards the invention of australian rules football.
+thomas wentworth " tom " wills was an australian all-round, and october, umpire he is credited with being a catalyst towards the invention of australian rules football.	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	
+thomas wentworth " tom " wills was an australian all-round sportsman who helped invent australian football, and umpired the first ever game of australian football, and helped write the laws of australian football.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+thomas wentworth " tom " wills was an australian all-round, umpire october, coach and administrator who is credited with being a catalyst towards the invention of australian rules football.	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+thomas wentworth `` tom '' wills was an australian all-round sportsman, umpire, coach and administrator.	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	
+Original : savonarola was born in ferrara, the capital of an independent duchy in emilia-romagna, northern italy.
+savonarola was born in ferrara, the capital of an independent duchy in italy, northern italy.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+savonarola was born in ferrara, the which was the capital of the independant duchy of ferrara.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+savonarola was born in ferrara, the capital of italy in the northern italy.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	 
+savonarola was born in ferrara, the capital.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	
+Original : he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band ' s lyricist.
+he is best known for his work as the drummer for the canadian rock band. he also serves as the band ' s lyricist.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band ' s lyricist.	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+he is best-known as the drummer and lyricist for the rock band rush.	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	 
+he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band 's lyricist.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+today, volksschule is the austrian equivalent to the german word german word and the swiss grundschule primarschule, i.e. primary school.	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	
+Original : at harvard he studied under j.a. osborn.
+at harvard he studied under j.a. osborn.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+he studied under at harvard j.a. osborn.	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	
+at harvard he was a student of j. a. osborn.	3.0	3.0	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	 
+at harvard he studied under j.a. osborn.	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts, such as plays, films, video games and television.
+a cameo role or cameo appearance is a brief appearance of a person in a work of the performing arts, such as plays, films, video games and television.	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+a small role or cameo appearance is a brief appearance of a person in a work of the performing arts, such as plays, films, video games and television.	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	
+a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts, such as plays, films, video games and television.	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a cameo role or cameo appearance is a brief appearance.	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	5.0	
+Original : hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.
+hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hercules saves her from being sacrificed, while who robed was watched by a.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	 
+hercules saves her from being sacrificed, while who being watched by a mysterious robed figure.	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.
+in &lt;NUM&gt;, however, moscow went down to third after tokyo and osaka came in first and second.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+however, in &lt;NUM&gt;, moscow moved to third after tokyo and osaka came in first and second.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.
+aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+aside from elephants, the word has been used to refer to ivory, elephant tusks, horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a lot of ivory comes from elephant tusks.	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	
+Original : anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.
+anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+anna maria was the daughter of the artist philipp jacob thelott the older, and sister of the artist philip jacob thelott the younger. when she was a child, she worked together with her brother and her father to illustrate the books " campus elysii " and " atlantica ", by olof rudbeck, and when she was grown up, she started to work alone and illustrate papers and maps and other things.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	
+anna maria ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	 
+anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby became an independent artist.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus, charles dickens. fyodor dostoevsky.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+le dernier jour d'un condamné would have a profound influence on later writers like albert camus, charles dickens, and fyodor dostoevsky.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : avessé is a commune in the sarthe department in the region of pays-de-la-loire in north-western france.
+avessé is a commune.	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	
+avessé is a commune. it is found in the region pays de la loire in the sarthe department in the west of france.	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+avessé is a commune. it is found in the sarthe department in the region pays de la loire region in the northwest of france.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+avessé is a commune. it is found in the sarthe department in the region pays de la loire in the west of france.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.
+el caso del centro de estudios sobre américa '', which strongly built upon giuliano 's book to offer further insights on relations between cuba 's political apparatus and the country 's intellectuals.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.	3.0	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further views on relations between cuba ' s political apparatus and the country ' s intellectuals.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : sant ' antonio is a municipality in the district of bellinzona in the canton of ticino in switzerland.
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+sant ` antonio is a municipality.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	 
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+early on september &lt;NUM&gt;, it was changed to a tropical storm and named felix. later that day, felix was changed to a hurricane.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : they combined political and cultural satire with witty grand opera parodies.
+they combined political and cultural satire with witty grand opera parodies.	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+they had political and cultural satire with witty grand opera parodies.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+they combined political and cultural satire with witty grand opera parodies.	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+they combined political and cultural satire with witty grand opera parodies.	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : dilsen-stokkem &lt;NUM&gt;.
+dilsen-stokkem &lt;NUM&gt;.	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+. dilsen-stokkem	3.0	3.0	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	
+dilsen-stokkem &lt;NUM&gt;.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+dilsen-stokkem &lt;NUM&gt;.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.
+the name `` common clam worm '' is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the name &lt;NUM&gt; common clam worm is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	3.0	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other nereis species such as n. virens and n. limbata.	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.
+the great exhibition ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	

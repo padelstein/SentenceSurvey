@@ -1,0 +1,24 @@
+package Sentence;
+
+import com.amazonaws.mturk.requester.HIT;
+import com.amazonaws.mturk.service.axis.RequesterService;
+import com.amazonaws.mturk.util.PropertiesClientConfig;
+
+public class test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		RequesterService service = new RequesterService( new PropertiesClientConfig() );
+
+		HIT[] hits = service.getAllReviewableHITs("21VJE1M7PKK9REOQSA1C84LZXQYRYO");
+
+		for (HIT hit : hits)
+		{
+			System.out.println(hit.getHITTypeId());
+		}
+
+	}
+
+}

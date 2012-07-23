@@ -16,7 +16,7 @@
 <fullyQualifiedTypeName name="java.text.DateFormat"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.Assignment"/>
 <fullyQualifiedTypeName name="com.amazonaws.mturk.service.axis.RequesterService"/>
 <fullyQualifiedTypeName name="com.amazonaws.mturk.requester.HIT"/>
-<fullyQualifiedTypeName name="com.amazonaws.mturk.requester.Assignment"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,500 @@
+Original : the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist lord stern for the british government. it discusses the effect of climate change and global warming on the world economy.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the stern review on the economics of climate change is a &lt;NUM&gt;-page report.	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the stern review on the economics of climate change is a 700-page report released on october &lt;NUM&gt;, &lt;NUM&gt; by economist nicholas stern for the british government, which discusses the effect of global warming on the world economy.	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+fibulae replaced straight pins that were used to fasten clothes and in the.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	5.0	
+fibulae replaced straight pins that were used to fasten clothing in the neolithic period and bronze age.	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+fibulae replaced straight pins that were used to fasten clothes in the neolithic period and bronze age.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.
+under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	
+under european union protected designation of origin is a kind, only the product from portugal may be labeled as port or porto.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	5.0	
+under european union protected designation of origin guidelines, only the product from portugal may be labeled as port or porto.	3.0	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+however, under european union guidelines, only the product from portugal may be labeled as port.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : visp is the capital of the district of visp in the canton of valais in switzerland.
+visp is the capital of the district of visp in the canton of valais in switzerland.	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+visp is the capital of the district of visp in the canton of valais in switzerland.	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+visp is the capital city of the district of visp in the canton of valais in switzerland.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+visp is the capital of the district visp in the canton of valais in switzerland.	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : charente-maritime is a department on the west coast of france named after the charente river.
+charente-maritime is a department on the west coast of france named after the charente river.	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+charente-maritime is a department on the west coast of france.	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+charente-maritime is a department on the west coast of france. it was named after the charente river.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+charente-maritime is a department in the west coast charente of france.	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : &lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.
+&lt;NUM&gt; eros is the first found near-earth asteroid named after the greek god of love, eros.	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; eros is the near-earth asteroid, named after the greek god of love, eros.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+&lt;NUM&gt; eros is the first discovered near-earth asteroid, named after the greek god of love, eros.	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : this interpretation is supported by additional trace element data, but is also the subject of debate.
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+this interpretation is supported by other trace element data, but is also the subject of some debate.	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+this interpretation is supported by additional trace element data, but is also the subject of debate.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : willi schulz is a former german international football player.
+willi schulz is a former german international football player.	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+willi schulz is a former german football player.	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+willi schulz is a former german football player.	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+willi schulz, gironde is a former german football player.	3.0	3.0	3.0	3.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of corresponding to a given macrostate set.	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	1.0	4.0	4.0	5.0	
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of can be set macrostate.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	 
+starting with the basics of heat and temperature, thermal physics analyzes the first law of thermodynamics and second law of thermodynamics from the statistical perspective, in terms of the number of microstates corresponding to a given macrostate.	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : sforzando, indicates a strong, sudden accent and is abbreviated as sf, sfz or fz.
+sforzando means a strong, sudden accent and is abbreviated as sf, sfz or fz.	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+sforzando, shows a strong, sudden accent and is called sf, sfz or fz.	3.0	3.0	3.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	
+sforzando, indicates a strong, sudden accent and is abbreviated as sf, sfz or fz.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+sforzando, indicates a strong, sudden accent.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the convection diminished as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	3.0	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+the convection decreased as it moved through progressively colder waters, and shortly after &lt;NUM&gt; utc on july &lt;NUM&gt; beryl became an extratropical cyclone a short distance east of cape cod.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+at least &lt;NUM&gt; islands are inhabited, which are fongafale, funafala and motuloa.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+at least three islands are inhabited, which are fongafale, the main island in the east, funafala in the south, and amatuku in the north.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+an angel or a star is often placed at the top of the tree.	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+an angel or star is often placed at the top of the tree, representing the host of angels or the star of bethlehem from the nativity.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : other times the secret would be about something they were there to do.
+other times the secret would be about something they were there to do.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+other times the secret would be about something they there to do.	3.0	3.0	3.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	4.0	5.0	
+other times the secret would be about something they were there to do.	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+other times the secret would be about something they were there to do.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : chester city football club is an english football club from chester.
+chester city football club is an english football club from chester.	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+chester city football club is an english football club, from the city of chester.	3.0	3.0	3.0	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+chester city f.c. are an english football club from chester.	3.0	3.0	3.0	3.0	3.0	1.0	1.0	1.0	1.0	4.0	5.0	5.0	 
+chester city f.c. is an english football club from chester.	2.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.
+in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	
+bouvier met up with comeau at a sugar ray concert, and comeau offered bouvier to join his band.	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+in late &lt;NUM&gt;, comeau and bouvier reacquainted at a sugar ray concert and bouvier left reset soon after to join comeau.	3.0	3.0	3.0	3.0	2.0	2.0	2.0	1.0	5.0	5.0	5.0	5.0	 
+in late &lt;NUM&gt;, comeau and bouvier a reacquainted sugar ray concert and bouvier left reset soon after to join comeau.	3.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	
+Original : irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+irmo is a town in lexington and richland counties in the u.s. state of south carolina and a suburb of columbia. it is &lt;NUM&gt; miles outside of the city center of columbia and is part of the columbia metropolitan statistical area.	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+irmo is a town &lt;NUM&gt; miles outside of columbia, south carolina.	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+irmo is part of the columbia metropolitan statistical area.	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : diego ribas da cunha commonly known as just diego, is an international brazilian footballer who plays for italian serie a club juventus and is also member of the brazilian national team.
+diego ribas da cunha commonly known as just is an international brazilian football player. he plays for juventus and is also member of the brazilian national team.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	1.0	4.0	5.0	
+diego ribas da cunha is a brazilian football player. he plays for juventus.	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+diego ribas da cunha commonly known as just diego, is an international brazilian football.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	 
+diego ribas da cunha commonly known as just diego, is an international brazilian football player. he plays for juventus and is also member of the national team.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : la bastide-des-jourdans is a commune in the vaucluse department in the provence-alpes-c ôte d 'azur region in southeastern france.
+la bastide-des-jourdans is a commune. it is found in the vaucluse department in the region provence-alpes-c ôte d 'azur in the region of france.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+la bastide-des-jourdans is a commune. it is found in the vaucluse department in the region provence-alpes-c ôte france.	3.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+la bastide-des-jourdans is a commune in the provence-alpes-c ôte d'azur region in southeastern france.	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+la bastide-des-jourdans is a commune of &lt;NUM&gt; people. it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france.	3.0	3.0	3.0	3.0	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.
+heston is known for having played heroic roles, such as moses and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+heston is known for having played heroic roles, such as moses in the &lt;NUM&gt; commandments, colonel george taylor in planet of the apes, rodrigo díaz de vivar in el cid, and judah ben-hur in ben-hur, for which he won the academy award for best actor.	3.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+charlton heston was an american actor. he had many big roles, such as playing moses in the film the &lt;NUM&gt; commandments, astronaut colonel george taylor in the film planet of the apes, and the academy award-winning role of judah ben-hur in the film ben-hur.	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : with approximately &lt;NUM&gt; % of their calories from protein, lentils and generally any pulses or legumes have the third-highest level of protein, by weight, of any plant-based food after soybeans and hemp, and is an important part of the diet in many parts of the world, especially in the indian subcontinent which has large vegetarian populations.
+with about &lt;NUM&gt; % of their calories from protein, lentils and generally any pulses or legumes have the third-highest level of protein, by weight, of any plant-based food after soybeans and hemp, and is an important part of the diet in many parts of the world, especially in the indian subcontinent which has large vegetarian populations.	3.0	3.0	3.0	3.0	2.0	1.0	1.0	4.0	5.0	5.0	5.0	5.0	
+with about &lt;NUM&gt; % of their calories from protein, lentils and generally any pulses or legumes have the third-highest level of protein, by weight, of any plant-based food after soybeans and hemp, and is an important part of the diet in many parts of the world, especially in the indian subcontinent which has large vegetarian populations.	3.0	3.0	3.0	3.0	2.0	2.0	1.0	1.0	4.0	5.0	5.0	5.0	
+with approximately &lt;NUM&gt; % of their calories from protein, lentils and generally any pulses or legumes have the third-highest level of protein, by weight, of any plant-based food after soybeans and hemp, and is an important part of the diet in many parts of the world, especially in the indian subcontinent which has large vegetarian populations.	3.0	3.0	3.0	3.0	2.0	1.0	1.0	1.0	5.0	5.0	5.0	5.0	 
+with &lt;NUM&gt; % protein, lentils have the highest level of protein in any plant after soybeans and hemp. because of this fact, lentils are a very important part of the diet in many parts of the world, especially in india, which has a large vegetarian population.	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : in the united kingdom, a cover version released by the artist nicki bliss was climbing up the uk itunes chart.
+in the united kingdom, a cover version released by the artist nicki bliss was climbing up the uk itunes chart.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+in the united kingdom, a cover version released by the artist nicki bliss was climbing up the uk itunes chart.	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+in the united kingdom, a cover version released by the artist nicki bliss was climbing up the uk itunes chart.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+in the united kingdom cover version released by the artist nicki bliss was climbing up the uk itunes chart.	3.0	3.0	3.0	2.0	2.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	
+Original : these restrictions still left considerable leeway for countries to allow production, internal trade, and use of cannabis for recreational purposes.
+these restrictions still left a leeway countries to allow production, internal trade, and use of cannabis for recreational purposes.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	
+these restrictions still left considerable leeway for countries to allow production, internal trade, and use of cannabis for recreational purposes.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+these restrictions still left considerable leeway for countries to allow production, internal trade, and use of cannabis for recreational purposes.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+these restrictions still made it easy for countries to allow production, internal trade, and use of cannabis for recreational purposes.	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : all testing was conducted inside a virtualized environment created by vmware.
+all testing was conducted inside a virtualized environment created by vmware.	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+all testing was conducted inside a virtualized environment created by vmware.	3.0	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+all testing was conducted inside a given size environment created by vmware.	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+all testing conducted inside a, the idea was created by vmware.	3.0	3.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : the -600, &lt;NUM&gt;, and &lt;NUM&gt; series were planned.
+the -600, &lt;NUM&gt;, and &lt;NUM&gt; series were planned.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+the -600, &lt;NUM&gt;, and &lt;NUM&gt; series were planned.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+the -&lt;NUM&gt;, -&lt;NUM&gt;, and -&lt;NUM&gt; series were planned.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+the -600, and &lt;NUM&gt; series were planned.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : in that year, israel passed the golan heights law, placing the golan heights under civilian israeli law, administration, and jurisdiction.
+in that year, israel passed the golan heights law, placing the golan heights under civilian israeli law, administration, and jurisdiction.	3.0	3.0	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+in that year, israel passed the golan heights, and the golan heights under civilian israeli law, administration, and jurisdiction.	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	
+the united nations has voted to ask israel to pull its troops out of the golan heights. syria and israel still have not signed a peace treaty from that war, mostly because of the issue of the golan.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+in that year, israel passed the golan heights law, placing the golan heights under civilian israeli law, administration, and jurisdiction.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : this suggests they may be related to mice, jerboas, and perhaps dormice.
+this suggests they may be related to mice, jerboas, and perhaps dormice.	3.0	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+this suggests they may be related to mice, and jerboas dormice.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	
+this suggests they may be related to mice, jerboas, and perhaps dormice.	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+this suggests they may be related to mice, jerboas, and perhaps dormice.	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide, but its role diminished from &lt;NUM&gt; % of blindness cases by trachoma in &lt;NUM&gt; to &lt;NUM&gt; % in &lt;NUM&gt;.
+chlamydia conjunctivitis or trachoma is a common cause of blindness worldwide. the world health organization estimates that it accounted for &lt;NUM&gt; % of blindness cases in &lt;NUM&gt;, but only &lt;NUM&gt; % in &lt;NUM&gt;.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide, but its role diminished from &lt;NUM&gt; % of blindness cases by trachoma in &lt;NUM&gt; to &lt;NUM&gt; % in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+chlamydia conjunctivitis or trachoma was once the most important cause blindness worldwide, but its role diminished from &lt;NUM&gt; % of blindness cases by trachoma in &lt;NUM&gt; to &lt;NUM&gt; % in &lt;NUM&gt;.	3.0	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	 
+chlamydia conjunctivitis or trachoma was once the most important cause of blindness worldwide, but its role diminished from &lt;NUM&gt; % of blindness cases by trachoma in &lt;NUM&gt; to &lt;NUM&gt; % in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : instead, west virginia governor ray sullivan is chosen as vinick ' s running mate.
+instead, west virginia governor ray sullivan is chosen as vinick ' s running mate.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+instead, west virginia governor ray sullivan is chosen as vinick ' s running mate.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+instead, west virginia governor ray sullivan is named vinick ' s running mate.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+instead, west virginia governor ray sullivan is chosen as vinick 's running mate.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force, so they will have more facilities for people with impaired mobility, including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access.
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force, so they will have more facilities for people with impaired mobility, including areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force, so they will have more facilities for people with impaired mobility, including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+they are the first london underground stock to be designed since the rail vehicle accessibility regulations came into force, so they will have more facilities for people with impaired mobility, including multi-use areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+the stock is the first to be designed since the rail vehicle accessibilty regulations came into force. because of this they will have more facilities for people with impaired mobility, including multi-purpose areas with tip-up seats and space for wheelchairs and pushchairs and offset center door poles for wheelchair access.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : upon registration, the aircraft receives its unique " registration " which must be displayed prominently on the aircraft.
+upon registration, the aircraft receives its unique `` registration '' which must be displayed prominently on the aircraft.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+upon registration, the aircraft gets its unique " registration " which must be displayed the aircraft.	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	
+upon registration, the aircraft receives its unique " registration " which must be displayed prominently on the aircraft.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+an aircraft registration is a unique alphanumeric string that identifies an aircraft, in similar fashion to a licence plate on an automobile. in accordance with the convention on international civil aviation all aircraft must be registered with a national authority, and furthermore, they must carry proof of this registration in the form of a legal document called a certificate of registration at all times when in operation.	2.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : trdat the architect was the chief architect of the bagratuni kings of armenia, whose 10th century monuments have been argued to be the forerunners of gothic architecture which came to europe several centuries later.
+trdat the architect was the chief architect of the bagratuni kings of armenia, whose &lt;NUM&gt; century monuments have been to be the forerunners of gothic architecture which came to europe several centuries later.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	
+trdat the architect, known in latin as tiridates, was chief architect of the bagratuni dynasty of armenia.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+trdat the architect was the chief architect of the bagratuni kings of armenia, whose 10th century monuments have been said to be the forerunners of gothic architecture which came to europe several centuries later.	3.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+trdat the architect was the chief architect of the bagratuni kings of armenia, whose 10th century monuments have been argued to be the forerunners of gothic architecture which came to europe several centuries later.	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : the north south line marina south extension is a fully underground southward extension from marina bay station.
+the north south line marina south extension is a underground southward extension from marina bay station.	3.0	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	
+the north south line marina south extension is a fully underground southward extension from marina bay station.	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	
+the north south marina south extension is a underground south extension from marina bay station.	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	 
+the north south line marina south extension is a underground southward extension from marina bay station.	3.0	3.0	3.0	3.0	3.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	
+Original : hershel wayne gober is a former government official and vietnam war veteran.
+hershel wayne gober is a former administrator and vietnam veteran.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+hershel wayne gober is a former government official and vietnam war veteran.	3.0	3.0	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hershel wayne gober is a former government official and vietnam war veteran.	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+hershel wayne gober is a former government official and vietnam war veteran.	3.0	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the person on the cover has been taken by the band as a mascot, &lt;NUM&gt; boy on fire " is the name and can also be seen on bad religion accessories, including t-shirts.
+the person on the cover has been taken by the band as a mascot, &lt;NUM&gt; boy on fire " is the name and can also be seen on bad religion accessories, including t-shirts.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	
+the person on the cover has been taken by the band as a mascot, `` boy on fire '' is the name and can also be seen on bad religion accessories, including t-shirts.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	
+the person on the cover has been taken by the band as a mascot, &lt;NUM&gt; boy on fire " is the name and can also be seen on bad religion accessories, including t-shirts.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	 
+the person on the cover has been taken by the band as a mascot, &lt;NUM&gt; boy on fire " is the name and can also be seen on bad religion accessories, including t-shirts.	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	
+Original : written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play, the original title was tōkaidō yotsuya kaidan. it is now generally shortened, and loosely translates as ghost story of yotsuya.
+written in &lt;NUM&gt; by tsuruya nanboku iv as it was the yotsuya kaidan. it is now generally shortened, and loosely translates as ghost story of yotsuya.	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	1.0	4.0	5.0	
+its original title was tōkaidō yotsuya kaidan.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play, the original title was t kaid yotsuya kaidan. is now generally shortened, and loosely translates as ghost story of yotsuya.	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	 
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play, the original title was line yotsuya kaidan. it is now generally shortened, and loosely translates as ghost story of yotsuya.	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : born in edinburgh, scotland, gardiner moved to winnipeg, manitoba with his family at age &lt;NUM&gt;, in &lt;NUM&gt;.
+born in edinburgh, scotland, gardiner moved to winnipeg, manitoba with his family at age seven, in &lt;NUM&gt;.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+born in edinburgh, scotland, gardiner moved to winnipeg, manitoba with his family at age &lt;NUM&gt;, in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+born in edinburgh, scotland, he moved to winnipeg, manitoba with his family at the age of &lt;NUM&gt;, in &lt;NUM&gt;.	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+born in edinburgh, scotland, gardiner moved to winnipeg, manitoba with his family at age &lt;NUM&gt;.	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : nancy campbell cartwright is an american film and television actress, comedian and voice artist.
+nancy campbell cartwright is an american film and television actress, comedian and voice artist.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+nancy campbell cartwright is an american actress, comedian and voice artist.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+nancy campbell cartwright is an american film.	3.0	2.0	1.0	1.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+nancy campbell cartwright is an american voice actress.	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : nests are built each year in most species but some birds refurbish their old nests.
+nests are each year.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0	
+nests are built each year. it is found in most species but some birds refurbish their old nests.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+nests are built each year in most species but some birds refurbish their old nests.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+these birds build nests on water because they do n 't walk well on land, so they find a shallw part of the water to build their nests. then, they do not walk to their nests - they swim to it.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	
+Original : his nephew, roberto abbado, is also a conductor.
+his nephew, roberto abbado, is also a conductor.	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+his nephew roberto abbado is also a conductor.	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+his nephew, roberto abbado, is also a conductor.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+his nephew, roberto abbado is a conductor.	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+Original : larissa lies on the river pineios.
+larissa is crossed by pineios river.	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	
+larissa lies on the river pineios.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+larissa lies on the river peneios.	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+she is located on the river peneios.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : the river originates from lulusar lake, nearly 48km from naran valley.
+the river originates from lulusar. nearly 48km from naran valley.	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+the river originates from lulusar lake, nearly &lt;NUM&gt; from naran valley.	3.0	3.0	3.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+a main source of the river is lulusar lake, nearly 48km from naran valley.	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the river originates from lulusar lake, nearly 48km from naran valley.	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : &lt;NUM&gt; : a space odyssey is a &lt;NUM&gt; science fiction film directed by stanley kubrick, written by kubrick and arthur c. clarke and with specialist artwork by roy carnon.
+it is a &lt;NUM&gt; science fiction movie directed by stanley kubrick, written by kubrick and arthur c. clarke and with specialist by roy carnon.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	
+&lt;NUM&gt; : a space odyssey is a &lt;NUM&gt; science fiction film directed by stanley kubrick, written by kubrick and arthur c. clarke and with specialist artwork by roy carnon.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; : a space odyssey is a &lt;NUM&gt; science fiction movie directed by stanley kubrick. it was written by kubrick and arthur c. clarke.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+it is a &lt;NUM&gt; science fiction movie directed by stanley kubrick, written by kubrick and arthur c. clarke with specialist artwork by roy carnon.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : shaftesbury, as a founder of the whig movement, exerted great influence on locke ' s political ideas.
+shaftesbury, as a founder of the whig movement, exerted great influence on locke 's political ideas.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+shaftesbury, as a founder of the whig movement, exerted great influence on locke ' s political ideas.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+shaftesbury, founder of the whig movement, had great influence on locke ' s political ideas.	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+shaftesbury, as a member of the whig movement, was a big influence on locke ' s political ideas.	3.0	3.0	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : additionally, dr. yunus has been awarded &lt;NUM&gt; honorary doctorate degrees, and &lt;NUM&gt; special awards.
+additionally, dr. yunus has been awarded &lt;NUM&gt; honorary doctorate degrees, and &lt;NUM&gt; special awards.	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+additionally, dr. yunus has been awarded &lt;NUM&gt; honorary doctorate degrees, and &lt;NUM&gt; special awards.	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+dr. yunus has been awarded &lt;NUM&gt; honorary doctorate degrees, and &lt;NUM&gt; special awards.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+additionally, dr. yunus has been awarded &lt;NUM&gt; honorary doctorate &lt;NUM&gt; degrees, and.	3.0	3.0	3.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	4.0	5.0	
+Original : unlike the original kindle, kindle &lt;NUM&gt; does not have a slot for sd memory cards.
+unlike the original kindle, kindle &lt;NUM&gt; does not have a slot for memory cards.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+unlike the original kindle, kindle &lt;NUM&gt; does not have a slot for sd memory cards.	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+unlike the kindle, kindle does not have a slot for sd memory cards.	3.0	3.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	 
+unlike the original kindle, kindle &lt;NUM&gt; does not have a slot for sd memory cards.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : kim dae-eui is a south korean football player who plays for suwon samsung bluewings as a winger and attacker.
+kim dae-eui is a south korean football player. he plays for suwon samsung bluewings and attacker.	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	
+kim dae-eui is a south korean football player. he plays for suwon samsung bluewings as a player attacker.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+kim dae-eui is a south korean football player.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+kim dae-eui is a south korean football player.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : following the signing in &lt;NUM&gt; of the anglo-irish treaty, which ended the war of independence, a split occurred within the ira.
+following the signing in &lt;NUM&gt; of the anglo-irish treaty, which ended the war of independence, a split occurred within the ira.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+following the signing, a split occurred within the ira.	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+this ended in &lt;NUM&gt; with the signing of the anglo-irish treaty, which established the division of ireland.	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+following the signing in &lt;NUM&gt; of the anglo-irish treaty, which ended the war of independence, a split occurred within the ira.	3.0	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : " ca n 't stop this thing we started " is a song by bryan adams.
+" ca n 't stop this thing we started " is a song by bryan adams.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+, " ca n 't stop this thing we started is a song by bryan adams.	3.0	3.0	3.0	2.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	5.0	
+`` ca n't stop this thing we started '' is a song by bryan adams.	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	 
+" ca n 't stop this thing we started " is a song by bryan adams.	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : these isotopic fingerprints are preserved in the sediments, and mojzis has used this technique to suggest that life existed on the planet already by &lt;NUM&gt; &lt;NUM&gt; years ago.
+these isotopic fingerprints are preserved in the sediments, and mojzis.	3.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+these isotopic fingerprints are preserved in the sediments, and mojzis has used this technique to suggest that life existed on the planet already by &lt;NUM&gt; &lt;NUM&gt; years ago.	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+these isotopic fingerprints are kept in the sediments, and mojzis has used this technique to suggest that life existed on the planet already by &lt;NUM&gt; years ago.	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+these isotopic fingerprints are kept in the sediments, and mojzis has used this technique to suggest that life existed on the planet already by &lt;NUM&gt; &lt;NUM&gt; years ago.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.
+however, mayor lacson did not however live to see the realization of this project as he died suddenly of heart attack.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	5.0	
+however, mayor lacson did not live to see the realization of his dream he died of a heart attack.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	
+however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+however, mayor lacson did not live to see the realization of his dream as he died of a heart attack.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : a lever on the side of the toaster is depressed, activating the toaster.
+a the on the side of the toaster is sad, activating the toaster.	3.0	3.0	3.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	
+a lever on the side of the toaster is depressed, activating the toaster.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+a lever on the side of the toaster is depressed, activating the toaster.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a toaster is a machine which toasts bread. the bread is put into the toaster and after a few minutes it pops up again, toasted.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : in &lt;NUM&gt;, during the band ' s final tour, many cities around the united states proclaimed a certain day to be " guided by voices day " in that city.
+in &lt;NUM&gt;, during the band ' s last tour, many cities around the united states made a certain day to be " guided by voices day " in that city.	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	
+in &lt;NUM&gt;, during the band ' s last concert tour, many cities around the united states picked a day to be " guided by voices day " in that city.	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+in &lt;NUM&gt;, during the band 's final tour, many cities around the united states proclaimed a certain day to be `` guided by voices day '' in that city.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+in &lt;NUM&gt;, during the band ' s final tour, many cities around the united states proclaimed a certain day to be " guided by voices day " in that city.	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : renton is a city in king county, washington, united states.
+renton is a city in king county, washington, united states.	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+renton is a city of washington in the united states.	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+renton is a city in king county, washington, united states.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+renton is a city.	3.0	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.
+portman road hosted ipswich town ' s first appearance in european football competition when they beat floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	1.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+portman road hosted ipswich town 's first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt; in the european cup in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	 
+portman road hosted ipswich town ' s first appearance in european football competition when they defeated floriana of malta &lt;NUM&gt; - &lt;NUM&gt;, still a club record, in the european cup in &lt;NUM&gt;.	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : he was survived by his wife, edith, and his daughter, sandra.
+he was wife, edith, and his daughter, sandra.	3.0	3.0	3.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	
+he was survived by his wife, edith, and his daughter, sandra.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+he was survived by his wife, edith, and his daughter, sandra.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+he was survived by his wife, edith, and his daughter, sandra.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, otto heß, hans schikora, heinrich kunstmann, adolf von thadden.	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	 
+the initial founders of the party were among others : alexander andrae, oskar lutz, hans bernd von grünberg, wilhelm meinberg, schikora, heinrich heß, hans kunstmann, adolf von thadden.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	
+Original : for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	
+for his show on march &lt;NUM&gt;, &lt;NUM&gt;, he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack / studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	 
+for his show on march &lt;NUM&gt;, &lt;NUM&gt; he released the soundtrack\/studio album called for the love of ray j. he dated cocktail for several months before they split, partly due to rumors of ray j dating tila tequila.	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	
+Original : the call for primitives was first issued in november &lt;NUM&gt;.
+the call for primitives was first issued in november &lt;NUM&gt;.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the call for systems was first used in november &lt;NUM&gt;.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the call for systems was first used in &lt;NUM&gt;.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+the call for primitives was first issued in november &lt;NUM&gt;.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	
+cairns army airfield is to the south of daleville on the road to almost clayhatchee.	3.0	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	 
+cairns army airfield is located to the south of daleville on the road to nearly clayhatchee.	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	
+Original : stansstad is a village in the canton of nidwalden in switzerland.
+stansstad is a village in the canton of nidwalden in switzerland.	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+stansstad is a municipality of the canton of nidwalden in switzerland.	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+stansstad is a municipality of the canton of nidwalden in switzerland.	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+stansstad is a village.	2.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.
+mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+mikhail tal was a soviet-latvian chess player, a grandmaster, and the eighth world chess champion.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+mikhail tal, known as mischa, was a soviet - latvian chess player, a grandmaster, and the eighth world chess champion.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+mikhail tal was a soviet-latvian a chess grandmaster, and the eighth world chess champion.	3.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	
+Original : females lay their pale green or cream colored eggs singly on host plant leaves and stems.
+females lay their pale green or cream colored eggs singly on the host plant leaves, stems.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	
+females lay their pale green or cream colored eggs singly on host plant leaves and stems.	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+females lay their eggs singly on the host plant ' s leaves and stems. the eggs are pale green or cream colored.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+females lay their pale green or cream colored eggs singly on host plant leaves and stems.	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : some carrot cakes are even layered.
+some carrot cakes are even layered.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+some are cakes and layered.	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	5.0	
+some carrot cakes are even layered.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+some carrot cakes are even layered.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon of elizabeth i in &lt;NUM&gt;.	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+harrow has educated boys since &lt;NUM&gt; but was officially founded by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+harrow has educated boys since &lt;NUM&gt; but was started by john lyon under a royal charter of elizabeth i in &lt;NUM&gt;.	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders used as diluting fillers.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+however, powdered saffron is more prone to adulteration, with turmeric, paprika, and other powders diluting used fillers.	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	
+Original : hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+hurricane andres is the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+hurricane andres was the first named storm and hurricane of the &lt;NUM&gt; pacific hurricane season.	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : his sui generis society will furthermore continue its existence after the individual ceases to interact with it.
+his sui generis society will also continue its existence after the ceases to interact with it.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+his sui generis society will furthermore continue its existence after the individual ceases to interact with it.	3.0	1.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : akron is a city in plymouth county, iowa, united states.
+akron is a city of iowa in the united states of america.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+akron is a city of iowa in the united states.	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+akron is a city of iowa in the united states.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+akron is a city.	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.
+opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+opeth released its fifth studio album, blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+opeth released its fifth album blackwater park, on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	 
+opeth on february &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	2.0	1.0	1.0	1.0	1.0	5.0	5.0	
+Original : the royal opera house is an opera house and major performing arts venue in the london district of covent garden.
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden.	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the royal opera house is an opera house and major performing arts venue in the london district of covent garden.	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the royal opera house is an opera house and performing arts venue in the london district covent garden.	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+the royal opera house is a famous opera house in london. sometimes it is called " covent garden " because it is in the area of london called covent garden.	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : after his death, the canadiens retired his jersey number, the first time the team had done so for any player.
+after his death, the canadiens stopped using his jersey number, the first time the team had done so for any player.	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+after his death, the canadiens retired his jersey number, the first time the team had done so for any player.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : roman catholicism specifically holds that &lt;NUM&gt; may build and use " likenesses ", as long as the object is not worshipped.
+&lt;NUM&gt; understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used, as long as the object is not worshipped.	3.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+roman catholicism specifically holds that one may build and use `` likenesses '', as long as the object is not worshipped.	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+roman catholicism specifically says that may &lt;NUM&gt;, build and use " likenesses ", as long as the object is not worshipped.	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	 
+roman catholicism specifically says that &lt;NUM&gt; may build and use " likenesses ", as long as the object is not worshipped.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves.
+a leaf blower is a gardening tool uses air to move yard debris like leaves.	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	
+a leaf blower is a gardening tool that propels air from a nozzle to move yard debris such as leaves.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+a leaf blower is a gardening tool that propels air out of a nozzle to move yard debris such as leaves.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+a leaf blower is a gardening tool.	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide at the age of &lt;NUM&gt; in &lt;NUM&gt;.
+during her last years she had a very serious illness called encephalomyelitis. she eventually did not want to suffer any more, so she traveled to switzerland where she was allowed to have an assisted suicide.	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide of the age of &lt;NUM&gt; in &lt;NUM&gt;.	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to take an assisted suicide at the age of &lt;NUM&gt;.	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+suffering in her last years from debilitating encephalomyelitis, she traveled to switzerland to undertake an assisted suicide at the age of &lt;NUM&gt; in &lt;NUM&gt;.	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the township of " coura rocks ", named from a local aboriginal term meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.
+the township of `` coura rocks '', named from a local aboriginal term meaning `` eagle on the rocks '', had its beginnings in &lt;NUM&gt;.	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+the town of " coura rocks ", named from a aboriginal word meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	
+the township of " coura rocks ", named from a local aboriginal term meaning " eagle on the rocks ", had its beginnings in &lt;NUM&gt;.	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+the township of coura rocks began in &lt;NUM&gt;.	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.
+he next became the head photographer.	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	
+he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	
+he next became the head of the photographer at a daily newspaper lourenco marques tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	3.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	 
+he next became the head photographer at the lourenco marques daily newspaper, a tribuna, from &lt;NUM&gt; until &lt;NUM&gt;.	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : he lost to shinjiro otani in the match, but wcw went on to win the series.
+he fell to njpw wrestler shinjiro ohtani in the match but wcw went on to win the series.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+he lost to shinjiro otani in the match, but wcw went on to win the series.	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+he lost to shinjiro ohtani. it is found in the match, but wcw went on to win the series.	3.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	4.0	5.0	 
+he lost to shinjiro ohtani in the match, but wcw went on to win the series.	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.
+on the june &lt;NUM&gt; episode of raw, foley, orton, booker, and lashley all said why they deserve to be the number-one contender to the wwe championship.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.	3.0	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number &lt;NUM&gt; contender to the wwe championship.	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+on the june &lt;NUM&gt; edition of raw, foley, orton, booker, and lashley all cut promos on why they deserve to be the number-one contender to the wwe championship.	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.
+the precursors send jak and daxter to the dark maker ship to slow it down the planetary defense system the charges.	3.0	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+when he is defeated, jak, daxter, and all the others gather together in the arena, while the precursors make their speech. jak and daxter have saved the world !	3.0	3.0	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	 
+the precursors send jak and daxter to the dark maker ship to slow it down while the planetary defense system charges.	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : kryptos is &lt;NUM&gt; of the themes in dan brown ' s &lt;NUM&gt; novel, the lost symbol.
+dan brown wrote another book in &lt;NUM&gt; called the lost symbol, which also talks about kryptos.	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+kryptos is &lt;NUM&gt; of the themes in dan brown ' s &lt;NUM&gt; novel, the lost symbol.	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+kryptos is &lt;NUM&gt; of the themes of dan brown ' s &lt;NUM&gt; book, the lost symbol.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+kryptos is one.	2.0	2.0	2.0	2.0	1.0	1.0	5.0	5.0	5.0	5.0	
+Original : thomas wentworth " tom " wills was an australian all-round sportsman, umpire, coach and administrator who is credited with being a catalyst towards the invention of australian rules football.
+thomas wentworth " tom " wills was an australian all-round, and october, umpire he is credited with being a catalyst towards the invention of australian rules football.	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	
+thomas wentworth " tom " wills was an australian all-round sportsman who helped invent australian football, and umpired the first ever game of australian football, and helped write the laws of australian football.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	
+thomas wentworth " tom " wills was an australian all-round, umpire october, coach and administrator who is credited with being a catalyst towards the invention of australian rules football.	3.0	3.0	2.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	 
+thomas wentworth `` tom '' wills was an australian all-round sportsman, umpire, coach and administrator.	2.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : savonarola was born in ferrara, the capital of an independent duchy in emilia-romagna, northern italy.
+savonarola was born in ferrara, the capital of an independent duchy in italy, northern italy.	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+savonarola was born in ferrara, the which was the capital of the independant duchy of ferrara.	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	5.0	5.0	
+savonarola was born in ferrara, the capital of italy in the northern italy.	3.0	3.0	3.0	3.0	3.0	3.0	1.0	4.0	5.0	5.0	 
+savonarola was born in ferrara, the capital.	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band ' s lyricist.
+he is best known for his work as the drummer for the canadian rock band. he also serves as the band ' s lyricist.	3.0	3.0	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	
+he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band ' s lyricist.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+he is best-known as the drummer and lyricist for the rock band rush.	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+he is best known for his work as the drummer for the canadian rock band rush. he also serves as the band 's lyricist.	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+today, volksschule is the austrian equivalent to the german word grundschule and the swiss german word primarschule, i.e. primary school.	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+today, volksschule is the austrian equivalent to the german word german word and the swiss grundschule primarschule, i.e. primary school.	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	
+Original : at harvard he studied under j.a. osborn.
+at harvard he studied under j.a. osborn.	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+he studied under at harvard j.a. osborn.	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	
+at harvard he was a student of j. a. osborn.	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+at harvard he studied under j.a. osborn.	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts, such as plays, films, video games and television.
+a cameo role or cameo appearance is a brief appearance of a person in a work of the performing arts, such as plays, films, video games and television.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	
+a small role or cameo appearance is a brief appearance of a person in a work of the performing arts, such as plays, films, video games and television.	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+a cameo role or cameo appearance is a brief appearance of a known person in a work of the performing arts, such as plays, films, video games and television.	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+a cameo role or cameo appearance is a brief appearance.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.
+hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hercules saves her from being sacrificed, while unknowingly being watched by a mysterious robed figure.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+hercules saves her from being sacrificed, while who robed was watched by a.	3.0	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	5.0	 
+hercules saves her from being sacrificed, while who being watched by a mysterious robed figure.	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	
+Original : in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.
+in &lt;NUM&gt;, however, moscow went down to third after tokyo and osaka came in first and second.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+however, in &lt;NUM&gt;, moscow moved to third after tokyo and osaka came in first and second.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+in &lt;NUM&gt;, however, moscow moved to third after tokyo and osaka came in first and second, respectively.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.
+aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+aside from elephants, the word has been used to refer to ivory, elephant tusks, horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+aside from elephants, the word has been used to refer to ivory, elephant tusks, musical horns made of elephant tusks, or a musical instrument resembling such horns.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+a lot of ivory comes from elephant tusks.	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.
+anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	
+anna maria was the daughter of the artist philipp jacob thelott the older, and sister of the artist philip jacob thelott the younger. when she was a child, she worked together with her brother and her father to illustrate the books " campus elysii " and " atlantica ", by olof rudbeck, and when she was grown up, she started to work alone and illustrate papers and maps and other things.	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	
+anna maria ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby becoming an independent artist.	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	 
+anna maria was the child of the artist philip jacob thelott the older, originally from switzerland, and the sibling of the artist philip jacob thelott the younger, and worked as a child with her brothers and her father in her father ' s studio in the work in illustrating the works of olof rudbeck the older, " campus elysii " and " atlantica " ; soon, she started to contribute to the household by taking assignments herself and performing different artistic works for money, thereby became an independent artist.	3.0	2.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+le dernier jour d 'un condamné would have a profound influence on later writers such as albert camus, charles dickens, and fyodor dostoevsky.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+le dernier jour d 'un condamné would have a big influence on later writers such as albert camus, charles dickens. fyodor dostoevsky.	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+le dernier jour d'un condamné would have a profound influence on later writers like albert camus, charles dickens, and fyodor dostoevsky.	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : avessé is a commune in the sarthe department in the region of pays-de-la-loire in north-western france.
+avessé is a commune.	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+avessé is a commune. it is found in the region pays de la loire in the sarthe department in the west of france.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+avessé is a commune. it is found in the sarthe department in the region pays de la loire region in the northwest of france.	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	 
+avessé is a commune. it is found in the sarthe department in the region pays de la loire in the west of france.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.
+el caso del centro de estudios sobre américa '', which strongly built upon giuliano 's book to offer further insights on relations between cuba 's political apparatus and the country 's intellectuals.	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further insights on relations between cuba ' s political apparatus and the country ' s intellectuals.	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	 
+el caso del centro de estudios sobre américa ", which strongly built upon giuliano ' s book to offer further views on relations between cuba ' s political apparatus and the country ' s intellectuals.	3.0	3.0	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	
+Original : sant ' antonio is a municipality in the district of bellinzona in the canton of ticino in switzerland.
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+sant ` antonio is a municipality.	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+sant ' antonio is a municipality of the district bellinzona in the canton of ticino in switzerland.	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+early on september &lt;NUM&gt;, it was changed to a tropical storm and named felix. later that day, felix was changed to a hurricane.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+early on september &lt;NUM&gt;, it was named tropical storm felix, and it was upgraded to a hurricane later that day.	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : they combined political and cultural satire with witty grand opera parodies.
+they combined political and cultural satire with witty grand opera parodies.	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+they had political and cultural satire with witty grand opera parodies.	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+they combined political and cultural satire with witty grand opera parodies.	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+they combined political and cultural satire with witty grand opera parodies.	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : dilsen-stokkem &lt;NUM&gt;.
+dilsen-stokkem &lt;NUM&gt;.	3.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	
+. dilsen-stokkem	3.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	
+dilsen-stokkem &lt;NUM&gt;.	2.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	4.0	5.0	 
+dilsen-stokkem &lt;NUM&gt;.	3.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	4.0	5.0	
+Original : the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.
+the name `` common clam worm '' is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the name &lt;NUM&gt; common clam worm is less ambiguous, but is also sometimes used for other neries species such as n. virens and n. limbata.	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+the name &lt;NUM&gt; common clam worm " is less ambiguous, but is also sometimes used for other nereis species such as n. virens and n. limbata.	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.
+the great exhibition ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	2.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	 
+the great exhibition of the works of industry of all nations in the crystal palace of hyde park, london ran from may &lt;NUM&gt; until october &lt;NUM&gt;, &lt;NUM&gt;.	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	

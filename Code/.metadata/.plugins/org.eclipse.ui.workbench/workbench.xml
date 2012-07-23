@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="14" version="2.0">
+<workbench progressCount="18" version="2.0">
 <workbenchAdvisor/>
-<window height="1108" maximized="true" width="1903" x="-38" y="369">
+<window height="1099" maximized="true" width="1899" x="-75" y="369">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -17,6 +17,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="184" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -38,25 +39,25 @@
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceHIT.java" partName="SentenceHIT.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/SentenceHIT.java" title="SentenceHIT.java" tooltip="SentenceSurvey/src/Sentence/SentenceHIT.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2908" selectionTopPixel="1452"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceSurvey.java" partName="SentenceSurvey.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/SentenceSurvey.java" title="SentenceSurvey.java" tooltip="SentenceSurvey/src/Sentence/SentenceSurvey.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8" selectionTopPixel="0"/>
-</editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrequencyCounter.java" partName="FrequencyCounter.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/FrequencyCounter.java" title="FrequencyCounter.java" tooltip="SentenceSurvey/src/Sentence/FrequencyCounter.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/FrequencyCounter.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataCollection.java" partName="DataCollection.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/DataCollection.java" title="DataCollection.java" tooltip="SentenceSurvey/src/Sentence/DataCollection.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="367" selectionTopPixel="982"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="mturk.properties" partName="mturk.properties" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/mturk.properties" title="mturk.properties" tooltip="SentenceSurvey/mturk.properties" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/mturk.properties"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1368" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataCollection.java" partName="DataCollection.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/DataCollection.java" title="DataCollection.java" tooltip="SentenceSurvey/src/Sentence/DataCollection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3733" selectionTopPixel="1124"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceSurvey.java" partName="SentenceSurvey.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/SentenceSurvey.java" title="SentenceSurvey.java" tooltip="SentenceSurvey/src/Sentence/SentenceSurvey.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="288" selectionOffset="2552" selectionTopPixel="489"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceHIT.java" partName="SentenceHIT.java" path="/home/padelstein/SentenceSurvey/Code/SentenceSurvey/src/Sentence/SentenceHIT.java" title="SentenceHIT.java" tooltip="SentenceSurvey/src/Sentence/SentenceHIT.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="489"/>
 </editor>
 </editors>
 <views>
@@ -71,7 +72,7 @@
 <expanded>
 <category IMemento.internal.id="Errors"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="73" org.eclipse.ui.ide.markerType="108" org.eclipse.ui.ide.pathField="143" org.eclipse.ui.ide.resourceField="108" org.eclipse.ui.ide.severityAndDescriptionField="1365"/>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -277,7 +278,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25144055" ratioLeft="480" ratioRight="1429" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.77206594" ratioLeft="796" ratioRight="235" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.76915616" ratioLeft="793" ratioRight="238" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -344,58 +345,42 @@
 <view id="org.eclipse.debug.ui.BreakpointView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.8273521" ratioLeft="853" ratioRight="178" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.8273521" ratioLeft="853" ratioRight="178" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
 <page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.44903225" ratioLeft="348" ratioRight="427" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
@@ -407,164 +392,170 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/FrequencyCounter.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/FrequencyCounter.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/SentenceSurvey/mturk.properties"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/FrequencyCounter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/SentenceSurvey/7.12.12.data.txtcontentHITids2012-07-1715:18:30"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/test.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/SentenceSurvey/mturk.properties"/>
 </editors>
-<item historyLabel="SentenceSurvey.java" index="2">
-<position/>
-</item>
-<item historyLabel="DataCollection.java" index="0">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position/>
-</item>
-<item historyLabel="DataCollection.java" index="0">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position/>
-</item>
-<item historyLabel="DataCollection.java" index="0">
-<position info="not_deleted" x="2932" y="0"/>
-</item>
-<item historyLabel="FrequencyCounter.java" index="1">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="SentenceSurvey.java" index="2">
-<position info="not_deleted" x="721" y="0"/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="SentenceSurvey.java" index="2">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="FrequencyCounter.java" index="1">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="0">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="FrequencyCounter.java" index="1">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="SentenceSurvey.java" index="2">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="26" y="13"/>
-</item>
-<item historyLabel="SentenceSurvey.java" index="4">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="FrequencyCounter.java" index="5">
-<position info="not_deleted" x="8" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="18" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position info="not_deleted" x="2673" y="0"/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="18" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position/>
-</item>
-<item historyLabel="SentenceHIT.java" index="3">
-<position info="not_deleted" x="2786" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position info="not_deleted" x="3256" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
-<position info="not_deleted" x="3563" y="0"/>
-</item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="3167" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="1377" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2971" y="0"/>
 </item>
-<item historyLabel="FrequencyCounter.java" index="5">
+<item historyLabel="FrequencyCounter.java" index="2">
 <position info="not_deleted" x="8" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="1377" y="0"/>
 </item>
-<item historyLabel="SentenceSurvey.java" index="4">
+<item historyLabel="SentenceSurvey.java" index="1">
 <position info="not_deleted" x="8" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2711" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="1377" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="4758" y="0"/>
 </item>
-<item historyLabel="mturk.properties" index="7">
+<item historyLabel="mturk.properties" index="4">
 <position info="not_deleted" x="1368" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="3611" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2711" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2911" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="1877" y="50"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2783" y="0"/>
 </item>
-<item historyLabel="DataCollection.java" index="6">
+<item historyLabel="DataCollection.java" index="3">
 <position info="not_deleted" x="367" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2783" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="3088" y="0"/>
 </item>
-<item historyLabel="SentenceHIT.java" index="3">
+<item historyLabel="SentenceHIT.java" index="0">
 <position info="not_deleted" x="2908" y="63"/>
 </item>
-<item historyLabel="mturk.properties" index="7">
+<item historyLabel="mturk.properties" index="4">
 <position info="not_deleted" x="1368" y="0"/>
 </item>
-<item active="true" historyLabel="DataCollection.java" index="6">
-<position info="not_deleted" x="367" y="0"/>
+<item historyLabel="DataCollection.java" index="3">
+<position info="not_deleted" x="371" y="0"/>
+</item>
+<item historyLabel="SentenceHIT.java" index="5">
+<position info="not_deleted" x="2908" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="6">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="FrequencyCounter.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="3448" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="3448" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="5115" y="6"/>
+</item>
+<item historyLabel="7.12.12.data.txtcontentHITids2012-07-1715:18:30" index="10">
+<position info="not_deleted" x="30" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="5750" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="3448" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="5750" y="0"/>
+</item>
+<item historyLabel="test.java" index="11">
+<position/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="5750" y="0"/>
+</item>
+<item historyLabel="test.java" index="11">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="2260" y="28"/>
+</item>
+<item historyLabel="test.java" index="11">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="test.java" index="11">
+<position info="not_deleted" x="498" y="0"/>
+</item>
+<item historyLabel="test.java" index="11">
+<position info="not_deleted" x="492" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="2346" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="3448" y="0"/>
+</item>
+<item historyLabel="SentenceHIT.java" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="1723" y="0"/>
+</item>
+<item historyLabel="FrequencyCounter.java" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SentenceSurvey.java" index="9">
+<position info="not_deleted" x="2552" y="288"/>
+</item>
+<item historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="1723" y="0"/>
+</item>
+<item historyLabel="mturk.properties" index="13">
+<position info="not_deleted" x="1368" y="0"/>
+</item>
+<item active="true" historyLabel="DataCollection.java" index="8">
+<position info="not_deleted" x="4509" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -583,17 +574,26 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="BufferedReader.class" tooltip="java.io.BufferedReader">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=SentenceSurvey/\/usr\/lib\/jvm\/java-1.6.0-openjdk-1.6.0.0.x86_64\/jre\/lib\/rt.jar&lt;java.io(BufferedReader.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceHIT.java" tooltip="SentenceSurvey/src/Sentence/SentenceHIT.java">
+<persistable path="/SentenceSurvey/src/Sentence/SentenceHIT.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="test.java" tooltip="SentenceSurvey/src/Sentence/test.java">
 <persistable path="/SentenceSurvey/src/Sentence/test.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="mturk.properties" tooltip="SentenceSurvey/mturk.properties">
-<persistable path="/SentenceSurvey/mturk.properties"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="7.12.12.data.txtcontentHITids2012-07-1715:18:30" tooltip="SentenceSurvey/7.12.12.data.txtcontentHITids2012-07-1715:18:30">
+<persistable path="/SentenceSurvey/7.12.12.data.txtcontentHITids2012-07-1715:18:30"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SentenceSurvey.java" tooltip="SentenceSurvey/src/Sentence/SentenceSurvey.java">
+<persistable path="/SentenceSurvey/src/Sentence/SentenceSurvey.java"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataCollection.java" tooltip="SentenceSurvey/src/Sentence/DataCollection.java">
 <persistable path="/SentenceSurvey/src/Sentence/DataCollection.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="BufferedReader.class" tooltip="java.io.BufferedReader">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=SentenceSurvey/\/usr\/lib\/jvm\/java-1.6.0-openjdk-1.6.0.0.x86_64\/jre\/lib\/rt.jar&lt;java.io(BufferedReader.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="mturk.properties" tooltip="SentenceSurvey/mturk.properties">
+<persistable path="/SentenceSurvey/mturk.properties"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrequencyCounter.java" tooltip="SentenceSurvey/src/Sentence/FrequencyCounter.java">
 <persistable path="/SentenceSurvey/src/Sentence/FrequencyCounter.java"/>

@@ -92,9 +92,9 @@ public class DataCollection {
 			File contentIDFile = null;
 			File simplicityIDFile = null;
 
-			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("out.grammer.data.txt")));
-			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("out.content.data.txt")));
-			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("out.simplicity.data.txt")));
+			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("out.diff.grammer.data.txt")));
+			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("out.diff.content.data.txt")));
+			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("out.diff.simplicity.data.txt")));
 
 			try {
 				if (args.length >= 4)

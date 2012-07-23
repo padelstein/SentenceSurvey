@@ -1,0 +1,250 @@
+Original : ervy-le-ch âtel is a commune in the aube department in north-central france .
+ervy-le-ch âtel is a commune .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+ervy-le-ch âtel is a commune of the aube département in the north-central part of france .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+ervy-le-ch âtel is a commune of the aube département in the north-central part of france .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+ervy-le-ch âtel is a commune . it is found of the aube département in the north-central part of france .	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : roquebillière is a commune in the alpes-maritimes department in south-eastern france .
+roquebillière is a commune . it is found in the alpes-maritimes département in southern france .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+roquebillière is a commune .	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+roquebillière is a commune . it is found in the alpes-maritimes department in the southern part of france .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+roquebillière is a commune .	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : mascaraàs - haron is a commune in the pyrénées - atlantiques department in south-western france .
+mascaraàs - haron is a commune of the pyrénées - atlantiques département in the southwestern part of france .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+mascaraàs - haron is a commune .	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+mascaraàs - haron is a commune of the pyrénées - atlantiques département in the southwestern part of france .	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+mascaraàs - haron is a commune . it is found in the pyrénées - atlantiques département in the southwestern part of france .	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the acquisition of bmg music publishing in may &lt;NUM&gt; .
+universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may &lt;NUM&gt; .	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+universal music group owns a music publisher , universal music publishing group , which became the world ' s largest following the purchase of bmg music publishing in may &lt;NUM&gt; .	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+universal music group owns a music publisher , universal music publishing group , which became the world 's largest following the acquisition of bmg music publishing in may &lt;NUM&gt; .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+in &lt;NUM&gt; , universal bought bmg ' s music publishing branch and folded it into the " universal music publishing " division .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : &lt;NUM&gt; greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . the building is also known as &lt;NUM&gt; world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september &lt;NUM&gt; , &lt;NUM&gt; attacks .
+&lt;NUM&gt; greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as &lt;NUM&gt; world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september &lt;NUM&gt; , &lt;NUM&gt; attacks .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; greenwich street is a part of the planned rebuild of the new world trade center side in lower manhattan .	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; greenwich street is the address for a new office building to be built as part of the world trade center reconstruction in new york city . the building is also known as &lt;NUM&gt; world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september &lt;NUM&gt; , &lt;NUM&gt; attacks .	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+&lt;NUM&gt; greenwich street is the address for a new office building to be erected as part of the world trade center reconstruction in new york city . is also known as two world trade center and will be on the east side of greenwich street , across the street from the original location of the twin towers that were destroyed during the september &lt;NUM&gt; , &lt;NUM&gt; attacks .	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : roman catholicism specifically holds that &lt;NUM&gt; may build and use " likenesses " , as long as the object is not worshipped .
+roman catholicism specifically says that may &lt;NUM&gt; , build and use " likenesses " , as long as the object is not worshipped .	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+roman catholicism specifically says that &lt;NUM&gt; may build and use " likenesses " , as long as the object is not worshipped .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+&lt;NUM&gt; understanding on this comes from roman catholicism : they hold that " likenesses " may be built and used , as long as the object is not worshipped .	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+roman catholicism specifically holds that one may build and use `` likenesses '' , as long as the object is not worshipped .	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : joncreuil is a village and commune in the aube département of northern-central france .
+joncreuil is a commune of the aube département in the north-central part of france .	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+joncreuil is a commune of the aube département in the north-central part of france .	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+joncreuil is a commune . it is found in the aube département in the north-central part of france .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+joncreuil is a commune .	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in &lt;NUM&gt; january &lt;NUM&gt; , the deepest point in the world ' s oceans .
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in january &lt;NUM&gt; , &lt;NUM&gt; , the deepest point in the world ' s oceans .	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench the deepest point in the world ' s oceans .	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	
+he and jacques piccard were aboard the bathyscaphe trieste when it made a record-breaking descent into the mariana trench in &lt;NUM&gt; january &lt;NUM&gt; , the deepest point in the world 's oceans .	2.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+don walsh and jacques piccard are the first and only &lt;NUM&gt; persons till date to reach the deepest point of world ' s oceans in mariana trench on &lt;NUM&gt; january &lt;NUM&gt; aboard the bathyscaphe trieste .	3.0	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	
+Original : newbridge is a town in county kildare , ireland , near the irish midlands .
+newbridge is a town in county kildare , ireland .	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+comes is a town in county kildare , ireland . the .	3.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	
+is a town comes in county kildare , ireland , near the irish midlands .	3.0	3.0	3.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	 
+newbridge is a town .	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the members of the band played for as long as possible and then were forced to postpone or cancel a few dates .
+the band played for as long as possible and then were had to cancel some of their concerts .	3.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	
+the members of the band played for as long as possible .	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the members of the band played for as long as possible and then were forced to cancel or love a few dates .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	 
+the members of the band played for as long as possible , and then were forced to a it or love .	3.0	3.0	3.0	2.0	1.0	1.0	1.0	4.0	4.0	5.0	
+Original : ovidiu burcă is a romanian footballer who currently plays for the german team energie cottbus .
+ovidiu burcă is a former romanian football player . he plays for the german team energie cottbus .	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	
+ovidiu burcă is a romanian football player . he plays for energie cottbus .	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+ovidiu burc is a romanian football .	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	 
+ovidiu burcă is a romanian football player . he plays for the german team energie cottbus .	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : wanquetin is a commune in the pas-de-calais department in the nord-pas-de-calais region of france .
+wanquetin is a commune . it is found in the pas-de-calais department in the region nord-pas-de-calais in the north of france .	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+wanquetin is a commune . it is found in the pas-de-calais department in the north west of france .	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+wanquetin is a commune . it is found in the region nord-pas-de-calais in the pas-de-calais department in the north of france .	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+wanquetin is a commune .	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : bisexual pornography differs from threesome pornography , which typically depicts &lt;NUM&gt; man and &lt;NUM&gt; women .
+bisexual pornography is separate from threesome pornography , which shows &lt;NUM&gt; man and &lt;NUM&gt; women .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+bisexual pornography differs from threesome pornography , which typically shows &lt;NUM&gt; man and &lt;NUM&gt; women .	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+bisexual pornography is different from threesome pornography , which usually shows &lt;NUM&gt; man and &lt;NUM&gt; women .	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+bisexual pornography differs from threesome pornography , which typically shows one man and two women .	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : râşca is a commune located in suceava county , romania .
+râşca is a commune found in suceava county , romania .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+râşca is a commune . it is found in suceava county , romania .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+râ ca is a commune located in suceava county , romania .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+râşca is a commune found in suceava county , romania .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : george edward pope is a retired american soccer player who last played for real salt lake of major league soccer and spent &lt;NUM&gt; years as a defender for the united states national team .
+george edward pope is a former american soccer player .	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+george edward pope is a former american soccer player last played for real salt lake of major league soccer and spent &lt;NUM&gt; years as a player for the united states national team .	3.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	
+eddie pope is a former american soccer player . he has played for united states national team .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+george edward pope is a former american soccer player . he plays for real salt lake of major league soccer and spent &lt;NUM&gt; years as a player for the united states national team .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : colloquy supports scripting in languages such as apple script , f-script , javascript , objective-c , python , and ruby . colloquy shows changes such as mode changes , ban sets , etc . .
+colloquy supports scripting in languages like apple script , f-script , javascript , objective-c , python , and ruby . colloquy shows changes such as mode changes , ban sets , etc. .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+colloquy supports scripting in languages such as apple script , f-script , javascript , objective . and ruby , python , colloquy shows changes such as mode changes , ban sets , etc .	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	
+the programming language colloquy is made in is objective-c .	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	 
+colloquy supports scripting in languages such as apple script , f-script , javascript , objective , python , and ruby . colloquy shows changes such as mode changes , ban sets , etc . .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : teizo takeuchi was a japanese football player who was part of the japan national team for the &lt;NUM&gt; summer olympics football competition in berlin .
+teizo takeuchi is a former japanese football player . he was part of japan national team for the &lt;NUM&gt; summer olympics football competition in berlin .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+teizo takeuchi is a former japanese football player . he was part of japan national team for the &lt;NUM&gt; summer olympics football competition in berlin .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+teizo takeuchi is a former japanese football player . he has played for japan national team .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+teizo takeuchi was a japanese football player .	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : luc-sur-mer is a commune in the calvados department in the basse-normandie region in northern france .
+luc-sur-mer is a commune . it is found in the calvados department in the region basse-normandie in the northwest of france .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+luc-sur-mer is a commune . it is found in the region basse-normandie in the calvados department in the northwest of france .	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+luc-sur-mer is a commune .	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+luc-sur-mer is a commune . it is found in the in the region basse-normandie in the calvados department in the north of france .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august &lt;NUM&gt; .
+previous to this the club had been sponsored by the zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the davie cooper stand and the south stand until they ceased trading in august &lt;NUM&gt; .	3.0	3.0	2.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	
+they replaced zoom airlines , who ' re owned by club director john boyle , and who still advertise on both the davie cooper stand and the south stand .	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	
+previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who the on advertising these cooper stand and the south stand until they stopped trading in august &lt;NUM&gt; .	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	 
+previous to this the club had been sponsored by zoom airlines , who were part-owned by club director john boyle , and who retained advertising space on both the these &lt;NUM&gt; stand and the south stand until they stopped trading in august &lt;NUM&gt; .	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+Original : ulrich " uli " stielike is a former german football player and manager .
+&lt;NUM&gt; uli stielike is a former german football player .	3.0	2.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+uli stielike is a former german football player .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+uli " stielike is a former german football player .	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+ulrich `` uli '' stielike is a former german football player .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : tiago jorge honório or simply tiago , is a brazilian football striker , who plays for suwon bluewings in south korean k-league .
+tiago jorge honório tiago is a brazilian football player . he plays for suwon bluewings in korea republic national team .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	
+tiago jorge honório is a brazilian football player .	3.0	3.0	2.0	1.0	5.0	5.0	5.0	5.0	5.0	5.0	
+tiago jorge honório or simply tiago , is a former brazilian football player , who plays for suwon bluewings in south korean k-league .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+tiago jorge is honório is a former brazilian football player . he plays for suwon bluewings in korea republic national team .	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : freire ' s sooty barbthroat is intermediate between the sooty and bronze-tailed barbthroats however , and thus its status needs to be clarified before the situation is resolved .
+freire ' s sooty barbthroat is average between the sooty and bronze-tailed barbthroats however , and thus its status needs to be more clear before the problem is fixed .	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	
+freire 's sooty barbthroat is intermediate between the sooty and bronze-tailed barbthroats however , and thus its status needs to be clarified before the situation is resolved .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+freire ' s sooty barbthroat is between the sooty and bronze-tailed , barbthroats and its status needs to be clarified before the situation is resolved .	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	 
+freire ' s sooty barbthroat is between the sooty and bronze-tailed barbthroats however , and thus its status needs to be clarified before the situation is resolved .	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : calumet city is a city in cook county , illinois , united states .
+the city calumet is a city of illinois in the united states .	3.0	3.0	3.0	3.0	3.0	1.0	1.0	4.0	5.0	5.0	
+calumet city is a city of illinois in the united states .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+calumet city is a city of illinois in the united states .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	 
+calumet city is a city .	2.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : avessé is a commune in the sarthe department in the region of pays-de-la-loire in north-western france .
+avessé is a commune . it is found in the region pays de la loire in the sarthe department in the west of france .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+avessé is a commune . it is found in the sarthe department in the region pays de la loire in the west of france .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+avessé is a commune .	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+avessé is a commune . it is found in the sarthe department in the region pays de la loire region in the northwest of france .	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : thelxinoe belongs to the ananke group , retrograde irregular moons which orbit jupiter between &lt;NUM&gt; and &lt;NUM&gt; gm , at inclinations of roughly &lt;NUM&gt; .
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between &lt;NUM&gt; and &lt;NUM&gt; km , at inclinations of about &lt;NUM&gt; .	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between &lt;NUM&gt; and &lt;NUM&gt; km , at inclinations of roughly &lt;NUM&gt; .	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between &lt;NUM&gt; and &lt;NUM&gt; km , at inclinations of about &lt;NUM&gt; .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+thelxinoe belongs to the ananke group , retrograde non-spherical moons which orbit jupiter between &lt;NUM&gt; and &lt;NUM&gt; km , at inclinations of about &lt;NUM&gt; .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : amărăştii de jos is a commune in dolj county , romania .
+amărăştii de jos is a commune . it is found in dolj county in romania .	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+amărăştii de jos is a commune found in dolj county , romania .	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+amărăştii de jos is a commune found in dolj county , romania .	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+am r tii de jos is a commune .	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : in &lt;NUM&gt; " vacheron & constantin , fabricants , geneve " became the official name of the company .
+in &lt;NUM&gt; the company officially changed the name for " vacheron & constantin , fabricants , geneve " .	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	
+in &lt;NUM&gt; `` vacheron & constantin , fabricants , geneve '' became the official name of the company .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+in &lt;NUM&gt; , vacheron & constantin , fabricants , geneve " became the official name of the company .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+in &lt;NUM&gt; &lt;NUM&gt; , vacheron constantin fabricants , geneve " became the official name of the company .	3.0	1.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : vienne-en-bessin is a commune in the calvados department in the basse-normandie region in northern france .
+vienne-en-bessin is a commune . it is found in the region basse-normandie in the calvados department in the northwest of france .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+vienne-en-bessin is a commune . it is found in the calvados department in the region basse-normandie in the northwest of france .	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+vienne-en-bessin is a commune .	3.0	3.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+vienne-en-bessin is a commune . it is found in the in the region basse-normandie in the calvados department in the north of france .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+Original : an " amorphous solid " is a solid in which there is no long-range order of the positions of the atoms . .
+an amorphous ceramic is a solid in which there is no long-range order of the positions of the atoms .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+an amorphous solid is a solid in which there is no long-range order of the positions of the atoms . .	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+an " amorphous solid " is a solid in which there is no long-range order of the positions of the atoms .	2.0	1.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+an `` amorphous solid '' is a solid in which there is no long-range order of the positions of the atoms . .	3.0	2.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	
+Original : cugny is a commune in the aisne department in picardie in northern france .
+cugny is a commune .	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+cugny is a commune . it is found in the region picardie in the aisne department in the north of france .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+cugny is a commune . it is found in the region picardie in the aisne department in the north of france .	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+cugny is a commune . it is found in the region picardie in the aisne department in the north of france .	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : cupid is an inner satellite of uranus .
+cupid is an inner moon of uranus .	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+cupid is an moon of uranus .	3.0	3.0	3.0	3.0	2.0	2.0	1.0	1.0	4.0	4.0	
+cupid is a closer moon to uranus .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	 
+cupid is a closer moon to uranus .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : roquefort-les-pins is a commune in the alpes-maritimes department in the region of provence-alpes-c ôte d 'azur in south-eastern france .
+roquefort-les-pins is a commune .	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+roquefort-les-pins is a commune of &lt;NUM&gt; people . it is located in the region provence-alpes-c ôte d 'azur in the alpes-maritimes department in the southeast of france .	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+roquefort-les-pins is a commune . it is found in the alpes-maritimes department in the region provence-alpes-c ôte d 'azur in the southern part of france .	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+roquefort-les-pins is a commune . it is found in the alpes-maritimes department in the west of region provence-alpes-c ôte d 'azur in southern france .	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : dozwil is a municipality in the district of arbon in the canton of thurgau in switzerland .
+dozwil is a municipality of the district of arbon in the canton of thurgau in switzerland .	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+dozwil is a municipality of the district of arbon in the canton of thurgau in switzerland .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+dozwil is a municipality .	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+dozwil is a municipality of the district of arbon in the canton of thurgau in switzerland .	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : the liquid outer core surrounds the inner core and is believed to be composed of iron mixed with nickel and trace amounts of lighter elements .
+the liquid outer core surrounds the inner core .	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the liquid outer core surrounds the inner core . it is believed to be made of iron mixed with nickel and trace amounts of lighter elements .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the liquid outer core surrounds the inner core and is believed to be made of iron mixed with nickel and trace amounts of lighter elements .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the core is made of solid iron and nickel , and is meant to be 5000-60000c , due to the massive pressure . there is the outer core , which is a liquid layer below the mantle , and the inner core , which is the very center of the earth .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	5.0	5.0	
+Original : a mutual fund is a professionally managed type of collective investment scheme that pools money from many investors and invests it in stocks , bonds , short-term money market instruments , and / or other securities . the mutual fund will have a fund manager that trades the pooled money on a regular basis .
+a mutual fund is a professionally managed type of collective investment scheme that pools money from many investors and invests in stocks , bonds , some money market instruments , and / or other securities . the mutual fund will have a fund manager that trades the pooled money on a regular basis .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+a mutual fund is a professionally managed type of collective investment scheme that pools money from many investors .	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+a mutual fund is a managed type of collective investment scheme that pools money from many investors and invests it in stocks , bonds , short-term money market instruments , and / or other securities . the mutual fund will have a fund manager that trades the pooled money on a regular basis .	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+a mutual fund is a kind of investment that uses money from many investors to invest in stocks , bonds or other types of investment .	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : knocked up is a &lt;NUM&gt; american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .
+knocked up is a &lt;NUM&gt; american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the movie america of a drunken one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	
+knocked up is a &lt;NUM&gt; american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the a drunken america one-night stand between rogen ' s slacker character and heigl ' s just-promoted media personality that results in an unintended pregnancy .	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	
+knocked up is a &lt;NUM&gt; american comedy film , co-produced , written and directed by judd apatow . starring seth rogen , katherine heigl , paul rudd , and leslie mann , the film follows the repercussions of a drunken one-night stand between rogen 's slacker character and heigl 's just-promoted media personality that results in an unintended pregnancy .	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+it was directed by judd apatow , and stars seth rogen and katherine heigl .	3.0	2.0	2.0	1.0	1.0	4.0	4.0	4.0	5.0	5.0	
+Original : from the time that the processor ' s instruction decoder has figured out that it has encountered a conditional branch instruction to the time that the deciding register value can be read out , the pipeline needs to be stalled for several cycles , or if it ' s not and the branch is taken , the pipeline needs to be flushed .
+from the time that the processor ' s instruction decoder has figured out that it has encountered a conditional branch instruction to the time that the deciding register value can be read out , the pipeline needs to be stalled for several cycles , or if it ' s not and the branch is taken , the pipeline needs to break up .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+from the time that the processor 's instruction decoder has figured out that it has encountered a conditional branch instruction to the time that the deciding register value can be read out , the pipeline needs to be stalled for several cycles , or if it 's not and the branch is taken , the pipeline needs to be flushed .	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+from the time that the processor ' s instruction decoder has figured out that it has encountered a conditional branch instruction to the time that the deciding register value can be read out , the pipeline needs to be stalled for several cycles , or if it ' s not and the branch is taken , the pipeline needs to be turned red .	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	 
+the from time that the processor ' s instruction decoder has found that it has encountered a conditional branch instruction to the time that the deciding jumping register value can be read out , the pipeline might be stalled for several cycles .	3.0	3.0	2.0	2.0	2.0	2.0	5.0	5.0	5.0	5.0	
+Original : mézériat is a commune in the ain department in eastern france .
+mézériat is a commune . it is found in the ain department in the east of france .	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+mézériat is a commune .	3.0	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+mézériat is a commune .	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+mézériat is a commune .	3.0	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the argentina national football team is the national football team of argentina and is controlled by the argentine football association .
+argentina national football team is the national football team of argentina , and is controlled by the argentine football association .	3.0	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+argentina national football team is the national football team of argentina .	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+&lt;NUM&gt; national football team is the national football team of argentina .	3.0	3.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	5.0	 
+argentina national football team is the national football team of argentina and is controlled by the argentine football association .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : it originally aired on the fox network in the united states on february &lt;NUM&gt; , &lt;NUM&gt; .
+it first started on the fox network in the united states on february &lt;NUM&gt; , &lt;NUM&gt; .	3.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	
+it first started on the fox network in the united states on february &lt;NUM&gt; , &lt;NUM&gt; .	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	
+it first started on the fox network in the united states on february &lt;NUM&gt; , &lt;NUM&gt; .	3.0	3.0	2.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	 
+it at first aired on the fox network in the united states on february &lt;NUM&gt; , &lt;NUM&gt; .	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	5.0	
+Original : gödel ' s incompleteness theorems are &lt;NUM&gt; theorems of mathematical logic that state inherent limitations of all but the most trivial axiomatic systems for mathematics .
+gödel 's incompleteness theorems are two theorems of mathematical logic that state inherent limitations of all but the most trivial axiomatic systems for mathematics .	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+gödel ' s incompleteness theorems are &lt;NUM&gt; theorems of mathematical logic that state limitations of all but the most trivial axiomatic systems for mathematics .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+gödel ' s incompleteness theorems are &lt;NUM&gt; theorems of mathematical logic that state inherent limitations of all resulted the axiomatic systems for mathematics .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	 
+gödel ' s incompleteness theorems is the name given to &lt;NUM&gt; theorems , proved by kurt gödel in &lt;NUM&gt; . they are about limitations in all but the most trivial formal systems for arithmetic of mathematical interest .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : middleton is a city in canyon county , idaho , united states .
+middleton is a city of idaho in the united states .	3.0	3.0	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	
+middleton is a city of idaho in the united states .	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	
+middleton is a city .	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+middleton is a city of idaho in the united states of america .	3.0	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	
+Original : siegmund " sigi " nissel was an german-born british violinist who played second violin in the amadeus quartet and served as its administrator .
+siegmund nissel was a german-born english violinist who played second violin in the amadeus quartet and served as its administrator .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+siegmund nissel was an austrian-born british violinist who played second violin in the famous amadeus quartet .	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+siegmund `` sigi '' nissel was an german-born british violinist .	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	 
+siegmund nissel was an british violinist who played second violin in the amadeus quartet and served as its administrator .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : jebel barkal or gebel barkal is a very small mountain located some &lt;NUM&gt; km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .
+jebel barkal or gebel barkal is a small mountain located some &lt;NUM&gt; km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .	3.0	3.0	3.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	
+jebel gebel barkal or barkal is a very small mountain located &lt;NUM&gt; km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the region called nubia .	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	
+jebel barkal , also called gebel barkal , is a small mountain located about &lt;NUM&gt; kilometers north of a city called khartoum , in the country of sudan .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+jebel barkal or gebel barkal is a very small mountain about &lt;NUM&gt; km north of khartoum , in karima town in northern state in sudan , on a large bend of the nile river , in the west called nubia .	3.0	3.0	3.0	2.0	2.0	2.0	5.0	5.0	5.0	5.0	
+Original : kokomo is a city in and the county seat of howard county , indiana , united states , indiana ' s 13th largest city . it is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .
+kokomo is a city in and the county seat of howard county , indiana , the united states , indiana 's &lt;NUM&gt; largest city . is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .	3.0	3.0	3.0	1.0	1.0	1.0	4.0	4.0	5.0	5.0	
+kokomo is a city in the state of indiana , in the united states .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+kokomo is a city in howard county , indiana , united states , indiana ' s 13th largest city . it is the principal city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+kokomo is a city in and the county seat of howard county , indiana , united states , indiana ' s 13th largest city . it is the main city of the kokomo , indiana metropolitan statistical area , which includes all of howard and tipton counties .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : saint-manvieu-norrey is a commune in the calvados department in the basse-normandie region in northern france .
+saint-manvieu-norrey is a commune . it is found in the calvados department in the region basse-normandie in the northwest of france .	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+saint-manvieu-norrey is a commune . it is found in the region basse-normandie in the calvados department in the northwest of france .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+saint-manvieu-norrey is a commune .	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+saint-manvieu-norrey is a commune . it is found in the in the region basse-normandie in the calvados department in the north of france .	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	
+Original : fort mitchell is a city in kenton county , kentucky , united states .
+fort mitchell is a city of kentucky in the united states .	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+fort mitchell is a city of kentucky in the united states of america .	3.0	3.0	3.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+fort mitchell is a city .	3.0	3.0	2.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+fort mitchell is a city of kentucky in the united states .	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : wexler was inducted in the rock and roll hall of fame in &lt;NUM&gt; .
+wexler was added in the rock and roll hall of fame in &lt;NUM&gt; .	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+wexler became part of the rock and roll hall of fame in &lt;NUM&gt; .	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+wexler was in &lt;NUM&gt; .	2.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	 
+wexler was added in the rock and roll hall of fame .	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	5.0	5.0	
+Original : luyères is a commune in the aube department in north-central france .
+luyères is a commune . it is found in the aube département in the north-central part of france .	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+luyères is a commune of the aube département in the north-central part of france .	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+luyères is a commune .	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+luyères is a commune of the aube département in the north-central part of france .	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : as rajeswari rajan notes in her essay on recent austen scholarship , " the idea of a political austen is no longer seriously challenged " .
+as rajeswari rajan notes in her essay on recent austen scholarship , `` the idea of a political austen is no longer seriously challenged '' .	3.0	3.0	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	
+as daughters rajeswari of her essay on recent austen scholarship , " the idea of a political austen is no longer seriously challenged . "	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	
+as rajeswari rajan notes , " the idea of a political austen is no longer seriously challenged " .	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+daughters as rajeswari notes in her essay on recent austen scholarship , " the idea of a political austen is no longer seriously challenged " .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	5.0	
