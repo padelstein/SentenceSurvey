@@ -1,4 +1,4 @@
-package Sentence;
+package src.Sentence;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -81,10 +81,28 @@ public class DataCollection {
 			File contentIDFile = null;
 			File simplicityIDFile = null;
 
+<<<<<<< HEAD
+			PrintWriter grammarOUT = null;
+			PrintWriter contentOUT = null;
+			PrintWriter simplicityOUT = null;
+			
+			if (args[0].equals("//home/padelstein/SentenceSurvey/Data/7.12.12.diff.data.txt"))
+			{
+				grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.diff.data.txt")));
+				contentOUT = new PrintWriter(new FileOutputStream(new File("content.diff.data.txt")));
+				simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.diff.data.txt")));
+			} else if ( args[0].equals("//home/padelstein/SentenceSurvey/Data/7.12.12.data.txt"))
+			{
+				grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.data.txt")));
+				contentOUT = new PrintWriter(new FileOutputStream(new File("content.data.txt")));
+				simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.data.txt")));
+			}
+=======
 			PrintWriter grammarOUT = new PrintWriter(new FileOutputStream(new File("grammer.data.txt")));
 			PrintWriter contentOUT = new PrintWriter(new FileOutputStream(new File("content.data.txt")));
 			PrintWriter simplicityOUT = new PrintWriter(new FileOutputStream(new File("simplicity.data.txt")));
 
+>>>>>>> a64174fca874e53d24460a50d37468cde8969de5
 			try {
 				if (args.length >= 4)
 				{

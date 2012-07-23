@@ -1,0 +1,251 @@
+----------Content diff Output-------------
+Original : written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was tōkaidō yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .
+written in &lt;NUM&gt; by tsuruya nanboku iv as it was the yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was line yotsuya kaidan . it is now generally shortened , and loosely translates as ghost story of yotsuya .	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+written in &lt;NUM&gt; by tsuruya nanboku iv as a kabuki play , the original title was t kaid yotsuya kaidan . is now generally shortened , and loosely translates as ghost story of yotsuya .	3.0	2.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+its original title was tōkaidō yotsuya kaidan .	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	
+Original : in week &lt;NUM&gt; , leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .
+in its leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+since jay-z ' leinart went down with a shoulder injury against the 49ers , forcing warner to see his first action since week &lt;NUM&gt; .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	4.0	5.0	
+in week &lt;NUM&gt; , leinart had a shoulder injury against the san francisco 49ers , so warner was able to play for the first time since week &lt;NUM&gt; .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+in week &lt;NUM&gt; , leinart went down with a shoulder injury against the &lt;NUM&gt; , forcing warner to see his first action since week &lt;NUM&gt; .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : the gambia national football team , nicknamed the scorpions , is the national team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .
+the gambia national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the gambia national football team scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	3.0	3.0	3.0	2.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+gambia national football team is the national football team of gambia .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	 
+&lt;NUM&gt; national football team , nicknamed the scorpions , is the national football team of gambia and is controlled by the gambia football association . until &lt;NUM&gt; , the team , and the country , were known as british gambia .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : boris abramovich gelfand is a soviet and israeli chess international grandmaster , winner of the &lt;NUM&gt; world chess cup .
+boris abramovich gelfand was a israeli chess international grandmaster , winner of the &lt;NUM&gt; world chess cup .	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+boris abramovich gelfand is a soviet and israeli chess international grandmaster won the world chess cup .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+boris abramovich gelfand are the &lt;NUM&gt; world chess cup .	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	 
+boris abramovich gelfand is a russian-born israeli chess grandmaster , winner of the &lt;NUM&gt; world chess cup .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river approximately by road north of sydney and &lt;NUM&gt; k north-west of newcastle .
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and &lt;NUM&gt; km north-west of newcastle .	3.0	3.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+maitland is a city in the lower hunter valley of new south wales , australia and the seat of maitland city council , situated on the hunter river about by road north of sydney and &lt;NUM&gt; km north-west of newcastle .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+maitland is a city in new south wales , australia .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	5.0	 
+maitland is a city .	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	
+Original : both the continental and oceanic crust " float " on the mantle .
+they are kept together partly by the using up of the mantle below the crust , which makes a mantle on which the crust can float .	3.0	3.0	3.0	3.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	5.0	
+both the continental and oceanic crust `` float '' on the mantle .	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+both the continental and oceanic crust .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	 
+both the continental and oceanic crust float on the mantle .	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : courmes is a commune in the alpes-maritimes department in south-eastern france .
+courmes is a commune . it is found in the alpes-maritimes département in southern france .	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+courmes is a commune . it is found in the alpes-maritimes department in the southern part of france .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+courmes is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	 
+courmes is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	4.0	5.0	
+Original : orgnac-l 'aven is a commune in the ardèche department in south-eastern france .
+orgnac-l ` aven is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	5.0	
+orgnac-l 'aven is a commune in the ardèche département in southern france .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+orgnac-l 'aven is a commune in the ardèche département in southern france .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+'aven orgnac-l is a commune . it is found in the ardèche département in southern france .	3.0	3.0	1.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : francesc " cesc " fàbregas i soler is a professional footballer who plays as a central midfielder .
+francesc " cesc " fàbregas i soler is a professional football player . he plays as a player .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	
+francesc `` cesc '' fàbregas i soler is a professional football .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	
+cesc fàbregas is a spanish football player .	3.0	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	5.0	 
+francesc " cesc " fàbregas i soler is a professional football player . he plays as a central player .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , was an international multi-sport event which was celebrated in &lt;NUM&gt; in amsterdam , the netherlands .
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , netherlands .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , netherlands .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , was held in &lt;NUM&gt; in amsterdam , the netherlands .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+the &lt;NUM&gt; summer olympics , officially known as the games of the ix olympiad , were held in &lt;NUM&gt; in amsterdam , the netherlands .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : kirby ' s adventure , known in japan as , is a platforming video game developed by hal laboratory and published by nintendo for the nintendo entertainment system video game console .
+kirby ' s adventure , called in japan , is a platform video game made by hal laboratory and published by nintendo for the nintendo ds game console .	3.0	3.0	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	
+kirby ' s adventure , known in japan as , is a platform video game made by hal laboratory and published by nintendo for the nintendo entertainment system game console .	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+kirby ' s adventure , known in japan as , is a platform video game made by hal laboratory and published by nintendo for the nintendo entertainment system game console .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+kirby 's adventure , known in japan as , is a platforming video game developed by hal laboratory and published by nintendo for the nintendo entertainment system video game console .	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : bohas-meyriat-rignat is a commune in the ain department in eastern france .
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	1.0	4.0	5.0	
+bohas-meyriat-rignat is a commune . it is found in the ain department in the east of france .	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	5.0	 
+bohas-meyriat-rignat is a commune .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	5.0	
+Original : athies-sous-laon is a commune in the department of aisne in picardy in northern france .
+athies-sous-laon is a commune .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	
+athies-sous-laon is a commune . it is found in the region picardie in the aisne department in the north of france .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+athies-sous-laon is a commune . it is found in the aisne department in the region picardie in the in the north of france .	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+athies-sous-laon is a commune . it is found in the region picardie in , aisne department in the north of france .	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in in circumference .
+in men ' s cricket the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in in circumference .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+for men 's cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt;\/&lt;NUM&gt; and &lt;NUM&gt; in in circumference .	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in circumference .	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+for men ' s cricket , the ball must weigh between &lt;NUM&gt; and &lt;NUM&gt; ounces and measure between &lt;NUM&gt; / &lt;NUM&gt; and &lt;NUM&gt; in circumference .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : antonio bezerra brandão or simply toninho , is a brazilian central defender who plays for paraná .
+antonio bezerra brandão or simply toninho , is a brazilian football player who plays for paraná .	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+antonio bezerra brandão is a brazilian football player .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	4.0	5.0	5.0	
+antonio bezerra brandão or simply toninho , is a brazilian central player .	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+antonio toninho or bezerra brandão is a brazilian football player . he plays for paraná .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : matthias sindelar was an austrian footballer .
+matthias sindelar is a former austrian football player .	3.0	3.0	3.0	2.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+matthias sindelar was an austrian football .	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	5.0	5.0	
+matthias sindelar was an austrian football player .	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+matthias sindelar is a former austrian football player .	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : in ireland , &lt;NUM&gt; i of precipitation fell in the city of cork .
+in ireland , &lt;NUM&gt; i of rain fell in the city of cork .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+in ireland , &lt;NUM&gt; i of rain fell in cork .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	5.0	5.0	5.0	
+in ireland , &lt;NUM&gt; i of rain fell in the city of cork .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+in ireland , &lt;NUM&gt; inches of precipitation fell in the city of cork .	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : colin bond tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps 6h &lt;NUM&gt; &lt;NUM&gt; s
+colin bond / tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps / 6h &lt;NUM&gt; &lt;NUM&gt; s	3.0	2.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+colin bond tony roberts holden ht monaro gts327 &lt;NUM&gt; laps / &lt;NUM&gt; &lt;NUM&gt; &lt;NUM&gt; s	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	1.0	5.0	5.0	5.0	
+colin bond tony roberts holden ht monaro &lt;NUM&gt; &lt;NUM&gt; laps / 6h &lt;NUM&gt; &lt;NUM&gt; s	3.0	2.0	2.0	1.0	1.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+colin bond tony roberts holden ht monaro gts350 &lt;NUM&gt; laps &lt;NUM&gt; &lt;NUM&gt; &lt;NUM&gt; s	3.0	3.0	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	
+Original : engente is a village and commune in the aube département of northern-central france .
+engente is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	5.0	
+engente is a commune of the aube département in the north-central part of france .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+engente is a commune of the aube département in the north-central part of france .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+engente is a commune . it is found in the aube département in the north-central part of france .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : philip john " phil " neville is an english footballer who captains everton and played for england .
+phil neville is an english football player . he plays for everton .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	
+philip john `` phil '' neville is an english football player .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	
+philip john " phil " neville is an english football player . he captains everton and played for england .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+philip john " phil " neville is an english football player . he captains everton and has played for england .	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : diego ribas da cunha commonly known as just diego , is an international brazilian footballer who plays for italian serie a club juventus and is also member of the brazilian national team .
+diego ribas da cunha commonly known as just diego , is an international brazilian football player . he plays for juventus and is also member of the national team .	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+diego ribas da cunha commonly known as just is an international brazilian football player . he plays for juventus and is also member of the brazilian national team .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	
+diego ribas da cunha commonly known as just diego , is an international brazilian football .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	 
+diego ribas da cunha is a brazilian football player . he plays for juventus .	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : la bastide-des-jourdans is a commune in the vaucluse department in the provence-alpes-c ôte d 'azur region in southeastern france .
+la bastide-des-jourdans is a commune of &lt;NUM&gt; people . it is located in the region provence-alpes-c ôte d 'azur in the vaucluse department in the south of france .	3.0	3.0	3.0	3.0	3.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	
+la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte france .	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+la bastide-des-jourdans is a commune . it is found in the vaucluse department in the region provence-alpes-c ôte d 'azur in the region of france .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+la bastide-des-jourdans is a commune in the provence-alpes-c ôte d'azur region in southeastern france .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : saint-magne-de-castillon is a commune in the gironde department in aquitaine in south-western france .
+saint-magne-de-castillon is a commune . it is found in the gironde department in the southwestern part of france .	3.0	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+saint-magne-de-castillon is a commune . it is found in the region aquitaine in the gironde department in the southwest of france .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+saint-magne-de-castillon is a commune . it is found in the gironde department in the region aquitaine in the southwestern part of france .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+saint-magne-de-castillon is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	
+Original : joinville is the host city in july to the widely acclaimed " joinville dance festival " , the annual " festival of flowers " in november which showcases orchids produced in the region , and several business events in its convention center .
+joinville is the host city in july to several business events in its convention center .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	4.0	5.0	
+joinville is the host city in july to the widely acclaimed " joinville dance festival " , the annual " festival of flowers " in november which showcases orchids produced in the west , and several business events in its convention center .	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+its largest city is joinville .	3.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0	5.0	5.0	 
+it is the host city in july to the widely acclaimed " joinville dance festival " , the annual " festival of flowers are which showcases in november in the west , and several business events in its convention center .	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : baralle is a commune in the pas-de-calais department in the nord-pas-de-calais region of france .
+baralle is a commune . it is found in the pas-de-calais department in the region nord-pas-de-calais in the north of france .	3.0	3.0	3.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+baralle is a commune . it is found in the pas-de-calais department in the north west of france .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	
+baralle is a commune . it is found in the region nord-pas-de-calais in the pas-de-calais department in the north of france .	3.0	2.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+baralle is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	
+Original : dragoş , also dragoş vodă or dragoş of bedeu , was a romanian voivode in maramureş who has traditionally been considered as the first ruler or prince of moldavia .
+dragoş , also dragoş vodă or dragoş of bedeu , was a romanian voivod in maramureş who has traditionally been considered as the first ruler or prince of moldavia .	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+drago , also drago vod or drago of bedeu , was a romanian voivode in maramure who has traditionally been considered as the first ruler or prince of moldavia .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+dragoş was a maramureş voivode ruling over the lands of what was to become moldavia .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	5.0	5.0	5.0	 
+vodă or , dragoş dragoş of dragoş bedeu , was a romanian voivod in maramureş who has traditionally been considered as the first ruler or prince of moldavia .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : kim dae-eui is a south korean football player who plays for suwon samsung bluewings as a winger and attacker .
+kim dae-eui is a south korean football player .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	
+kim dae-eui is a south korean football player .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	4.0	4.0	
+kim dae-eui is a south korean football player . he plays for suwon samsung bluewings as a player attacker .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+kim dae-eui is a south korean football player . he plays for suwon samsung bluewings and attacker .	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+Original : marchamp is a commune in the ain department in eastern france .
+marchamp is a commune .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	5.0	5.0	
+marchamp is a commune .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	5.0	5.0	
+marchamp is a commune . it is found in the ain department in the east of france .	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+marchamp is a commune .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	5.0	5.0	
+Original : although usually named together as the &lt;NUM&gt; giants of the high renaissance , leonardo , michelangelo and raphael were not of the same generation .
+although usually named together as the &lt;NUM&gt; giants of the high renaissance and michelangelo leonardo raphael were not of the same generation .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	
+the &lt;NUM&gt; greatest painters of the high renaissance , leonardo , michelangelo and raphael were all working in rome at the same time .	3.0	3.0	3.0	3.0	3.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	
+although usually named together as the three giants of the high renaissance , leonardo , michelangelo and raphael were not of the same generation .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+although usually named together as the &lt;NUM&gt; giants of the high renaissance , and michelangelo raphael were not of the same generation .	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : milan nakonečný is czech psychologist and historian .
+milan communists is czech psychologist and historian .	3.0	3.0	3.0	3.0	2.0	1.0	1.0	4.0	4.0	5.0	5.0	5.0	
+milan nakone ný is czech psychologist and historian .	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+milan nakonečný is a czech psychologist and historian .	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+milan is the communists czech psychologist and historian .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	5.0	5.0	5.0	5.0	
+Original : the episode depicts a dalek invasion of earth led by caan , davros , and a red supreme dalek , who has kept caan and davros imprisoned in a section of the dalek flagship , the crucible , called " the vault " .
+the episode shows a dalek invasion of earth led by caan , davros , and a red supreme dalek , who has kept caan and davros imprisoned in a section of the dalek flagship , the crucible , called " the vault " .	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the episode shows a dalek invasion of earth led by caan , davros , and a red supreme dalek , who has kept caan and davros imprisoned in a section of the dalek flagship , the crucible , called `` the vault '' .	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the episode shows a dalek invasion of earth led by caan , davros , and a red supreme dalek , who has kept caan and davros imprisoned in a section of the dalek flagship , the crucible , called " the vault " .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the new dalek army was led by a supreme dalek , who kept davros imprisoned in a " vault " ; davros said that he and the supreme dalek had reached " an arrangement " .	3.0	3.0	3.0	3.0	2.0	1.0	1.0	1.0	4.0	4.0	4.0	5.0	
+Original : she had been accompanying her husband whilst he was fighting a campaign in the deccan plateau .
+she had been accompanying her husband whilst he was fighting a campaign .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	
+she had been accompanying her husband while he fought a campaign in the deccan plateau .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+she had been accompanying her husband whilst he fought a campaign in the deccan plateau .	3.0	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+she had been with her husband as he was fighting a campaign in the deccan plateau .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : amplier is a commune in the pas-de-calais department in northern france .
+amplier is a commune . it is found in the pas-de-calais department in the north of france .	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+amplier is a commune . it is found in the region nord-pas-de-calais in the pas-de-calais department in the north of france .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	
+amplier , is a commune . it is found in the pas-de-calais department in the north of france .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+amplier is a commune .	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	5.0	
+Original : pleşoi is a commune in dolj county , romania with a population of &lt;NUM&gt; people .
+pleşoi is a commune found in dolj county , romania .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	5.0	5.0	
+ple oi is a commune found in dolj county , romania .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	4.0	4.0	5.0	
+pleşoi is a commune found in dolj county , romania .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	 
+pleşoi is a commune . it is found in dolj county , romania . &lt;NUM&gt; people .	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : cogners is a commune in the sarthe department in the pays de la loire region in north-western france .
+cogners is a commune .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	5.0	5.0	
+cogners is a commune . it is found in the sarthe department in the region pays de la loire in the northwest of france .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+cogners is a commune . it is found in the sarthe department in the west the northwest of france .	3.0	3.0	3.0	2.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+cogners is a commune . it is found in the region pays de la loire in the sarthe department in the west of france .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : akron is a city in plymouth county , iowa , united states .
+akron is a city .	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	
+akron is a city of iowa in the united states of america .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+akron is a city of iowa in the united states .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	 
+akron is a city of iowa in the united states .	3.0	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : le puy is a commune in the gironde department in aquitaine in south-western france .
+le puy is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	5.0	
+is a commune . it is found in the gironde department in the region aquitaine in the southwest of france .	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	4.0	
+it is a commune . it is found in the gironde department in the southwestern part of france .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	 
+le puy , gironde is a commune . it is found in the region aquitaine in the gironde department in the southwest of france .	3.0	3.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : essises is a commune in the aisne department in picardie in northern france .
+essises is a commune . it is found in the region picardie in the aisne department in the north of france .	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+essises is a commune . it is found in the region picardie in the aisne department in the north of france .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+essises is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	5.0	5.0	 
+essises is a commune . it is found in the region picardie in the aisne department in the north of france .	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : nicolas anelka is a french footballer who currently plays as a striker for chelsea in the english premier league . anelka is also a regular starter for the french national team .
+nicolas anelka is a french football .	3.0	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	5.0	
+nicolas anelka is a french football player .	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	4.0	5.0	5.0	
+nicolas anelka is a french football player . he plays for chelsea . anelka is also a regular starter for france national team .	3.0	3.0	3.0	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	5.0	 
+nicolas anelka is a french football player . he plays for chelsea in the english premier league . anelka is also a regular starter for france national team .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+Original : clairmarais is a commune in the pas-de-calais department in the nord-pas-de-calais region of france .
+clairmarais is a commune .	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	5.0	5.0	
+clairmarais is a commune . it is found in the pas-de-calais department in the north west of france .	3.0	3.0	2.0	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	
+clairmarais is a commune . it is found in the pas-de-calais department in the region nord-pas-de-calais in the north of france .	3.0	3.0	3.0	2.0	1.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+clairmarais is a commune . it is found in the region nord-pas-de-calais in the pas-de-calais department in the north of france .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+Original : schinznach-dorf is a municipality in the district of brugg in canton of aargau in switzerland .
+schinznach-dorf is a municipality .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	2.0	4.0	
+schinznach-dorf is a municipality of the district of brugg in canton of aargau in switzerland .	3.0	3.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+schinznach-dorf is a municipality of the district of brugg in canton of aargau in switzerland .	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+schinznach-dorf is a municipality of the district of brugg in canton of aargau in switzerland .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : at right above is displayed the traditional color lime green . this color is usually called simply lime in order to distinguish it from the web color lime and web color lime green , shown below .
+at right above is displayed the traditional color lime green . this color is usually called simply lime to distinguish it from the web color lime and web color lime green , shown below .	3.0	3.0	2.0	2.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the is the color lime green . this color is usually called simply lime in order to distinguish it from the web color lime and web color lime green , shown below .	3.0	3.0	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	
+lime green is the color of the outer skin of a lime .	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	5.0	 
+is a yellowish color lime green . this color is usually called from the web color lime and web color lime , lime .	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	5.0	
+Original : sigale is a commune in the alpes-maritimes department in south-eastern france .
+sigale is a commune .	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	4.0	4.0	
+sigale is a commune .	3.0	2.0	2.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	4.0	4.0	
+sigale is a commune . it is found in the alpes-maritimes department in the southern part of france .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+sigale is a commune . it is found in the alpes-maritimes département in southern france .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : the government of andalucía , in spain , donated &lt;NUM&gt; &lt;NUM&gt; lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .
+the government of andalucía , in spain , donated &lt;NUM&gt; &lt;NUM&gt; lempiras to aid in disaster efforts , and the united states sent helicopters to help in the delivery of food to the people affected by the storm .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	
+the government of andalucía , in spain , donated &lt;NUM&gt; million lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the distribution of food aid .	3.0	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	
+the government of andalucía , in spain , donated &lt;NUM&gt; &lt;NUM&gt; lempiras to aid in disaster efforts , and the united states employed helicopters from a military base to help honduran ones in the food aid .	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	 
+the government of andalucía , in spain , donated &lt;NUM&gt; &lt;NUM&gt; lempiras to aid in disaster efforts , and the united states employed helicopters from a nearby military base to assist honduran ones in the food aid .	3.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+Original : the city hosts such institutions such as nova scotia college of art and design university , and the symphony nova scotia , the only full orchestra performing in atlantic canada .
+the city hosts such institutions like nova scotia college of art and design university , and the symphony nova scotia , the only full orchestra performing in atlantic canada .	3.0	3.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+nova scotia is a small province found on the east coast of canada . the capital of nova scotia is halifax .	3.0	2.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	
+the city has such institutions such as nova scotia college of art and design university , and the symphony nova scotia , the only full orchestra performing in atlantic canada .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	 
+the city hosts such nova scotia college of art and design university , and the symphony nova scotia , the only full orchestra performing in atlantic canada .	3.0	3.0	3.0	3.0	2.0	2.0	4.0	4.0	4.0	4.0	5.0	5.0	
+Original : challenges like the &lt;NUM&gt; m hike through the jungle and " mayan basketball " showed how exhausted all the castaways were .
+challenges like the &lt;NUM&gt; m walk through the jungle and " mayan basketball " showed how tired all the players were .	3.0	3.0	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+challenges like the &lt;NUM&gt; m walk through the jungle and " mayan basketball " showed how used up all the players were .	3.0	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+challenges like the &lt;NUM&gt; m hike through the jungle and " mayan basketball " showed how exhausted all the players were .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	 
+challenges like the &lt;NUM&gt; m hike through the jungle and `` mayan basketball '' showed how exhausted all the players were .	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : hops may be added at more than &lt;NUM&gt; point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and aroma remains in the beer .
+hops may be added at more than &lt;NUM&gt; point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop is a flavor and smell .	3.0	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+hops provide flavor and preserve the beer .	3.0	2.0	2.0	2.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	5.0	
+hops may be added at more than &lt;NUM&gt; point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and smell remains in the beer .	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+hops may be added at more than one point during the boil . the longer the hops are boiled , the more bitterness they contribute , but the less hop flavor and aroma remains in the beer .	2.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	
+Original : saint-vincent-de-durfort is a commune in the ardèche department in south-eastern france .
+saint-vincent-de-durfort is a commune . it is found in the ardèche département in the southern part of france .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+saint-vincent-de-durfort is a commune in the ardèche département in southern france .	3.0	2.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	
+saint-vincent-de-durfort is a commune in the ardèche département in southern france .	3.0	3.0	3.0	2.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+saint-vincent-de-durfort is a commune .	3.0	3.0	3.0	2.0	2.0	2.0	2.0	2.0	1.0	5.0	5.0	5.0	
+Original : alemannia aachen is a german football club from the western city of aachen , north rhine-westphalia .
+alemannia aachen is a former german football club from the western city of aachen , north rhine-westphalia .	3.0	2.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	5.0	5.0	5.0	
+alemannia aachen is a german football club .	3.0	3.0	3.0	3.0	3.0	2.0	2.0	2.0	2.0	1.0	1.0	5.0	
+alemannia aachen is a former german football club from the state of north rhine-westphalia .	3.0	3.0	1.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	 
+alemannia aachen is a football club which plays in germany .	3.0	3.0	3.0	3.0	3.0	3.0	2.0	1.0	4.0	4.0	4.0	5.0	
+Original : thal is &lt;NUM&gt; of the &lt;NUM&gt; districts of the canton of solothurn in switzerland , situated in the center of the canton .
+thal is &lt;NUM&gt; of the &lt;NUM&gt; districts of the canton of solothurn in switzerland , found in the center of the canton .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+thal is &lt;NUM&gt; of the &lt;NUM&gt; districts of the canton of solothurn in switzerland , found in the center of the canton .	3.0	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	
+thal is &lt;NUM&gt; of the &lt;NUM&gt; districts of the canton of solothurn in switzerland , found in the center of the canton .	3.0	3.0	4.0	4.0	4.0	4.0	4.0	4.0	5.0	5.0	5.0	5.0	 
+thal is one .	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	4.0	5.0	5.0	
